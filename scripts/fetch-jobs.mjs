@@ -110,9 +110,9 @@ function buildSearchUrl() {
     .map(([k, v]) => `${encodeURIComponent(k)}=${encodeURIComponent(v)}`)
     .join("&");
 
-  return `https://api.reliefweb.int/v1/jobs?${qs}`;
+  return `https://api.reliefweb.int/v2/jobs?${qs}`;
 }
-
+  
 function scoreJob(title, body) {
   const text = `${title || ""} ${body || ""}`.toLowerCase();
   let score = 0;
