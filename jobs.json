@@ -1,6 +1,297 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-07-09T09:52:26.169Z",
   "source": "ReliefWeb API (live, expired postings excluded by default)",
-  "count": 0,
-  "jobs": []
+  "count": 26,
+  "jobs": [
+    {
+      "title": "Cluster Finance & Operations Manager CA",
+      "org": "Plan International",
+      "country": "Dominican Republic",
+      "url": "https://reliefweb.int/job/4220593/cluster-finance-operations-manager-ca",
+      "posted": "2026-07-08T19:54:44+00:00",
+      "closing": "2026-07-15T00:00:00+00:00",
+      "category": "Administration/Finance",
+      "score": 62,
+      "flags": []
+    },
+    {
+      "title": "Logistics coordinator(F/M) - Sudan",
+      "org": "Médecins du Monde",
+      "country": "Sudan",
+      "url": "https://reliefweb.int/job/4220505/logistics-coordinatorfm-sudan",
+      "posted": "2026-07-08T12:20:39+00:00",
+      "closing": "2026-10-07T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 59,
+      "flags": []
+    },
+    {
+      "title": "Head of Base (Nationals Only)",
+      "org": "Acción contra el Hambre España",
+      "country": "Lebanon",
+      "url": "https://reliefweb.int/job/4220533/head-base-nationals-only",
+      "posted": "2026-07-08T12:21:41+00:00",
+      "closing": "2026-07-22T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 42,
+      "flags": [
+        "May be restricted to national/local candidates"
+      ]
+    },
+    {
+      "title": "Logistics Assistant Spare Parts Data Clerk",
+      "org": "CTG (Committed To Good)",
+      "country": "Haiti",
+      "url": "https://reliefweb.int/job/4220645/logistics-assistant-spare-parts-data-clerk",
+      "posted": "2026-07-09T05:54:17+00:00",
+      "closing": "2026-07-31T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 36,
+      "flags": []
+    },
+    {
+      "title": "Convoy Leader",
+      "org": "CTG (Committed To Good)",
+      "country": "Haiti",
+      "url": "https://reliefweb.int/job/4220689/convoy-leader",
+      "posted": "2026-07-09T09:19:06+00:00",
+      "closing": "2026-07-31T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 30,
+      "flags": []
+    },
+    {
+      "title": "Talent Acquisition Partner",
+      "org": "Mines Advisory Group",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "url": "https://reliefweb.int/job/4220564/talent-acquisition-partner",
+      "posted": "2026-07-08T15:19:08+00:00",
+      "closing": "2026-07-21T00:00:00+00:00",
+      "category": "Human Resources",
+      "score": 30,
+      "flags": []
+    },
+    {
+      "title": "Deputy Field Coordinator for Programs Gaza – based in Gaza or Amman",
+      "org": "Première Urgence Internationale",
+      "country": "occupied Palestinian territory",
+      "url": "https://reliefweb.int/job/4220515/deputy-field-coordinator-programs-gaza-based-gaza-or-amman",
+      "posted": "2026-07-08T12:19:52+00:00",
+      "closing": "2026-07-31T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 29,
+      "flags": []
+    },
+    {
+      "title": "Strategic Procurement Specialist",
+      "org": "DT Global",
+      "country": "Thailand",
+      "url": "https://reliefweb.int/job/4220612/strategic-procurement-specialist",
+      "posted": "2026-07-09T01:30:38+00:00",
+      "closing": "2026-07-22T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 28,
+      "flags": []
+    },
+    {
+      "title": "Senior Conservation Research Assistant (Madagascar)",
+      "org": "SEED Madagascar",
+      "country": "Madagascar",
+      "url": "https://reliefweb.int/job/4220495/senior-conservation-research-assistant-madagascar",
+      "posted": "2026-07-08T12:20:17+00:00",
+      "closing": "2026-07-27T00:00:00+00:00",
+      "category": "Information Management",
+      "score": 27,
+      "flags": []
+    },
+    {
+      "title": "Finance Officer",
+      "org": "Farsight Africa Group",
+      "country": "Kenya",
+      "url": "https://reliefweb.int/job/4220693/finance-officer",
+      "posted": "2026-07-09T09:32:27+00:00",
+      "closing": "2026-07-17T00:00:00+00:00",
+      "category": "Administration/Finance",
+      "score": 26,
+      "flags": []
+    },
+    {
+      "title": "21900 Emergency Coordinator",
+      "org": "International Organization for Migration",
+      "country": "Central African Republic",
+      "url": "https://reliefweb.int/job/4220679/21900-emergency-coordinator",
+      "posted": "2026-07-09T08:40:26+00:00",
+      "closing": "2026-07-21T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 26,
+      "flags": []
+    },
+    {
+      "title": "Controller, Chief Financial Officer and Director",
+      "org": "UN High Commissioner for Refugees",
+      "country": "Switzerland",
+      "url": "https://reliefweb.int/job/4220567/controller-chief-financial-officer-and-director",
+      "posted": "2026-07-08T15:41:35+00:00",
+      "closing": "2026-07-21T00:00:00+00:00",
+      "category": "Administration/Finance",
+      "score": 26,
+      "flags": []
+    },
+    {
+      "title": "PEOPLE & CULTURE COORDINATOR",
+      "org": "Plan International",
+      "country": "Jordan",
+      "url": "https://reliefweb.int/job/4220542/people-culture-coordinator",
+      "posted": "2026-07-08T12:17:57+00:00",
+      "closing": "2026-07-22T00:00:00+00:00",
+      "category": "Human Resources",
+      "score": 25,
+      "flags": []
+    },
+    {
+      "title": "Partnership Consultant",
+      "org": "War Child International",
+      "country": "Jordan",
+      "url": "https://reliefweb.int/job/4220494/partnership-consultant",
+      "posted": "2026-07-08T12:18:33+00:00",
+      "closing": "2026-07-18T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 24,
+      "flags": []
+    },
+    {
+      "title": "Programme Management Intern (Youth Engagement)",
+      "org": "UNOPS",
+      "country": "United States of America",
+      "url": "https://reliefweb.int/job/4220556/programme-management-intern-youth-engagement",
+      "posted": "2026-07-08T14:26:10+00:00",
+      "closing": "2026-07-23T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 23,
+      "flags": []
+    },
+    {
+      "title": "Project Delegate (m/f/d), Palestinian Territories",
+      "org": "German Red Cross",
+      "country": "occupied Palestinian territory",
+      "url": "https://reliefweb.int/job/4220517/project-delegate-mfd-palestinian-territories",
+      "posted": "2026-07-08T12:19:57+00:00",
+      "closing": "2026-07-26T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 23,
+      "flags": []
+    },
+    {
+      "title": "Heavy Truck Driver",
+      "org": "CTG (Committed To Good)",
+      "country": "Haiti",
+      "url": "https://reliefweb.int/job/4220642/heavy-truck-driver",
+      "posted": "2026-07-09T05:31:20+00:00",
+      "closing": "2026-08-01T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 22,
+      "flags": []
+    },
+    {
+      "title": "Research Manager - Economy, Markets & Livelihoods for Afghanistan, based in Kabul",
+      "org": "IMPACT Initiatives",
+      "country": "Afghanistan",
+      "url": "https://reliefweb.int/job/4220658/research-manager-economy-markets-livelihoods-afghanistan-based-kabul",
+      "posted": "2026-07-09T07:26:07+00:00",
+      "closing": "2026-07-31T00:00:00+00:00",
+      "category": "Information Management",
+      "score": 21,
+      "flags": []
+    },
+    {
+      "title": "Transparency and Compliance Officer - Damascus",
+      "org": "Agency for Technical Cooperation and Development",
+      "country": "Syrian Arab Republic",
+      "url": "https://reliefweb.int/job/4220544/transparency-and-compliance-officer-damascus",
+      "posted": "2026-07-08T12:31:53+00:00",
+      "closing": "2026-07-18T00:00:00+00:00",
+      "category": "Administration/Finance",
+      "score": 20,
+      "flags": []
+    },
+    {
+      "title": "Convoy Leader",
+      "org": "CTG (Committed To Good)",
+      "country": "Haiti",
+      "url": "https://reliefweb.int/job/4220592/convoy-leader",
+      "posted": "2026-07-08T19:47:15+00:00",
+      "closing": "2026-07-31T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 19,
+      "flags": []
+    },
+    {
+      "title": "Individual Consultancy to Develop National Integrated HRG (Human Rights & Gender) Guidelines for the TB Program in Somalia/Somaliland",
+      "org": "World Vision",
+      "country": "Somalia",
+      "url": "https://reliefweb.int/job/4220547/individual-consultancy-develop-national-integrated-hrg-human-rights-gender-guidelines-tb-program-somaliasomaliland",
+      "posted": "2026-07-08T13:23:58+00:00",
+      "closing": "2026-07-15T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 19,
+      "flags": []
+    },
+    {
+      "title": "External Relations and Advocacy Advisor",
+      "org": "MSI Reproductive Choices",
+      "country": "Burkina Faso",
+      "url": "https://reliefweb.int/job/4220674/external-relations-and-advocacy-advisor",
+      "posted": "2026-07-09T08:21:49+00:00",
+      "closing": "2026-07-30T00:00:00+00:00",
+      "category": "Advocacy/Communications",
+      "score": 18,
+      "flags": []
+    },
+    {
+      "title": "SOUTH SUDAN - FIELD COORDINATOR (M/F) - SOBAT",
+      "org": "Solidarités International",
+      "country": "South Sudan",
+      "url": "https://reliefweb.int/job/4220670/south-sudan-field-coordinator-mf-sobat",
+      "posted": "2026-07-09T08:05:42+00:00",
+      "closing": "2026-08-31T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 17,
+      "flags": []
+    },
+    {
+      "title": "Emergency Pool Coordinator (f/x/m) – Brussels – MSF Belgium",
+      "org": "Médecins Sans Frontières",
+      "country": "Belgium",
+      "url": "https://reliefweb.int/job/4220550/emergency-pool-coordinator-fxm-brussels-msf-belgium",
+      "posted": "2026-07-08T13:28:00+00:00",
+      "closing": "2026-08-02T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 17,
+      "flags": []
+    },
+    {
+      "title": "Entomologist for International Humanitarian Missions",
+      "org": "Médecins Sans Frontières en Suisse",
+      "country": "Honduras",
+      "url": "https://reliefweb.int/job/4220698/entomologist-international-humanitarian-missions",
+      "posted": "2026-07-09T09:49:58+00:00",
+      "closing": "2026-07-21T00:00:00+00:00",
+      "category": "",
+      "score": 16,
+      "flags": []
+    },
+    {
+      "title": "Programme Management Officer, Human Settlements (Readvertisment)",
+      "org": "UN Human Settlements Program",
+      "country": "Türkiye",
+      "url": "https://reliefweb.int/job/4220526/programme-management-officer-human-settlements-readvertisment",
+      "posted": "2026-07-08T12:20:02+00:00",
+      "closing": "2026-07-16T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 15,
+      "flags": [
+        "May require a Master's degree"
+      ]
+    }
+  ]
 }
