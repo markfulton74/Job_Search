@@ -81,7 +81,9 @@ const FLAG_PATTERNS = [
 const CATEGORIES = ["Logistics/Procurement", "Admin/Finance"];
 
 const MIN_SCORE_TO_KEEP = 15;
-const MAX_RESULTS = 60;
+const MAX_RESULTS = 60;       // how many scored jobs to keep in jobs.json
+const API_FETCH_LIMIT = 60;   // how many raw jobs to request per API call (smaller = less likely to time out)
+const MAX_RETRIES = 3;
 
 // ---------------------------------------------------------------------------
 
@@ -93,7 +95,7 @@ function buildSearchUrl() {
   const params = [
     ["appname", APPNAME],
     ["preset", "latest"], // excludes expired/archived postings
-    ["limit", "200"],
+    ["limit", String(API_FETCH_LIMIT)],
     ["query[value]", keywordQuery],
     ["query[operator]", "OR"],
     ["fields[include][]", "title"],
@@ -112,7 +114,7 @@ function buildSearchUrl() {
 
   return `https://api.reliefweb.int/v2/jobs?${qs}`;
 }
-  
+
 function scoreJob(title, body) {
   const text = `${title || ""} ${body || ""}`.toLowerCase();
   let score = 0;
@@ -126,15 +128,34 @@ function scoreJob(title, body) {
   return { score: Math.min(score, 100), flags };
 }
 
+async function fetchWithRetry(url, attempts = MAX_RETRIES) {
+  let lastErr;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      console.log(`Attempt ${i}/${attempts}...`);
+      const res = await fetch(url);
+      if (!res.ok) {
+        throw new Error(`ReliefWeb API returned ${res.status}: ${await res.text()}`);
+      }
+      return await res.json();
+    } catch (err) {
+      lastErr = err;
+      console.warn(`Attempt ${i} failed: ${err.message}`);
+      if (i < attempts) {
+        const waitMs = 3000 * i; // 3s, 6s, 9s backoff
+        console.log(`Retrying in ${waitMs / 1000}s...`);
+        await new Promise((r) => setTimeout(r, waitMs));
+      }
+    }
+  }
+  throw lastErr;
+}
+
 async function main() {
   const url = buildSearchUrl();
   console.log("Querying ReliefWeb:", url);
 
-  const res = await fetch(url);
-  if (!res.ok) {
-    throw new Error(`ReliefWeb API returned ${res.status}: ${await res.text()}`);
-  }
-  const data = await res.json();
+  const data = await fetchWithRetry(url);
   const items = data.data || [];
   console.log(`Received ${items.length} raw results from ReliefWeb`);
 
@@ -173,4 +194,3 @@ main().catch((err) => {
   console.error("fetch-jobs.mjs failed:", err);
   process.exit(1);
 });
-    
