@@ -116,6 +116,33 @@
     background: rgba(53, 208, 127, 0.12);
     color: var(--good);
   }
+  .verdict {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  .verdict.apply-now { background: rgba(53, 208, 127, 0.18); color: var(--good); }
+  .verdict.strong { background: rgba(45, 156, 255, 0.18); color: var(--accent); }
+  .verdict.review { background: rgba(242, 184, 75, 0.18); color: var(--warn); }
+  .verdict.skip { background: rgba(138, 151, 168, 0.18); color: var(--dim); }
+  .reasons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .reason {
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 5px;
+    background: rgba(255,255,255,0.04);
+    color: var(--dim);
+  }
+  .reason.pos { color: var(--good); }
+  .reason.neg { color: var(--warn); }
   .empty {
     text-align: center;
     color: var(--dim);
@@ -194,8 +221,9 @@ async function loadJobs() {
 function renderJob(job) {
   const closing = job.closing ? new Date(job.closing).toLocaleDateString() : "n/a";
   const posted = job.posted ? new Date(job.posted).toLocaleDateString() : "n/a";
-  const flagsHtml = (job.flags || [])
-    .map(f => `<span class="flag ${f.includes("good fit") ? "good" : ""}">${escapeHtml(f)}</span>`)
+  const verdict = job.verdict || { label: "", tier: "" };
+  const reasonsHtml = (job.reasons || [])
+    .map(r => `<span class="reason ${r.startsWith('+') ? 'pos' : 'neg'}">${escapeHtml(r)}</span>`)
     .join("");
 
   return `
@@ -207,12 +235,13 @@ function renderJob(job) {
         </div>
         <div class="score">${job.score}</div>
       </div>
+      <div class="verdict ${verdict.tier}">${escapeHtml(verdict.label)}</div>
       <div class="job-details">
         <span>Posted ${posted}</span>
         <span>Closes ${closing}</span>
         <span>${escapeHtml(job.category || "")}</span>
       </div>
-      <div class="flags">${flagsHtml}</div>
+      <div class="reasons">${reasonsHtml}</div>
     </div>
   `;
 }
