@@ -1,0 +1,34 @@
+name: Update job listings
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch and score live jobs
+        env:
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+        run: node scripts/fetch-jobs.mjs
+
+      - name: Commit updated jobs.json (if changed)
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add jobs.json
+          git diff --quiet --cached || git commit -m "Update job listings"
+          git push
