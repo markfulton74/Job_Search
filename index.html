@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Mark Fulton — Live Job Tracker</title>
+<style>
+  :root {
+    --bg: #0a0e14;
+    --panel: #10161f;
+    --border: #1e2733;
+    --text: #dbe4ee;
+    --dim: #8a97a8;
+    --accent: #2d9cff;
+    --accent-glow: rgba(45, 156, 255, 0.25);
+    --good: #35d07f;
+    --warn: #f2b84b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+  }
+  header {
+    padding: 32px 20px 20px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  h1 {
+    margin: 0 0 6px;
+    font-size: 1.5rem;
+    letter-spacing: -0.02em;
+  }
+  h1 span { color: var(--accent); }
+  .subtitle { color: var(--dim); font-size: 0.9rem; }
+  .meta-bar {
+    max-width: 900px;
+    margin: 0 auto 20px;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .pill {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    color: var(--dim);
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 0.8rem;
+  }
+  .cv-link {
+    background: var(--accent);
+    color: #06121f;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    text-decoration: none;
+  }
+  main { max-width: 900px; margin: 0 auto; padding: 0 20px 60px; }
+  .job {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin-bottom: 14px;
+    transition: border-color 0.15s ease;
+  }
+  .job:hover { border-color: var(--accent); }
+  .job-top {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: flex-start;
+  }
+  .job-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 4px;
+  }
+  .job-title a { color: var(--text); text-decoration: none; }
+  .job-title a:hover { color: var(--accent); }
+  .job-org { color: var(--dim); font-size: 0.88rem; margin: 0 0 10px; }
+  .score {
+    flex-shrink: 0;
+    background: var(--accent-glow);
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding: 4px 10px;
+    border-radius: 8px;
+    white-space: nowrap;
+  }
+  .job-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 0.8rem;
+    color: var(--dim);
+    margin-bottom: 10px;
+  }
+  .flags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .flag {
+    font-size: 0.75rem;
+    padding: 3px 9px;
+    border-radius: 6px;
+    background: rgba(242, 184, 75, 0.12);
+    color: var(--warn);
+  }
+  .flag.good {
+    background: rgba(53, 208, 127, 0.12);
+    color: var(--good);
+  }
+  .verdict {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  .verdict.apply-now { background: rgba(53, 208, 127, 0.18); color: var(--good); }
+  .verdict.strong { background: rgba(45, 156, 255, 0.18); color: var(--accent); }
+  .verdict.review { background: rgba(242, 184, 75, 0.18); color: var(--warn); }
+  .verdict.skip { background: rgba(138, 151, 168, 0.18); color: var(--dim); }
+  .reasons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+  .reason {
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 5px;
+    background: rgba(255,255,255,0.04);
+    color: var(--dim);
+  }
+  .reason.pos { color: var(--good); }
+  .reason.neg { color: var(--warn); }
+  .summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .summary-card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+  }
+  .summary-card .num { font-size: 1.4rem; font-weight: 700; color: var(--accent); }
+  .summary-card .label { font-size: 0.72rem; color: var(--dim); margin-top: 2px; }
+  .hidden-breakdown {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+    font-size: 0.82rem;
+  }
+  .hidden-breakdown h3 { margin: 0 0 8px; font-size: 0.85rem; color: var(--dim); }
+  .hidden-row { display: flex; justify-content: space-between; padding: 3px 0; color: var(--dim); }
+  .warnings { margin-top: 8px; }
+  .warning-badge {
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 5px;
+    background: rgba(242, 184, 75, 0.15);
+    color: var(--warn);
+    margin-right: 6px;
+  }
+  .empty {
+    text-align: center;
+    color: var(--dim);
+    padding: 60px 20px;
+    border: 1px dashed var(--border);
+    border-radius: 12px;
+  }
+  footer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    color: var(--dim);
+    font-size: 0.78rem;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Job Tracker <span>/ live</span></h1>
+  <div class="subtitle">Auto-updated daily from the ReliefWeb API. Expired listings are excluded automatically.</div>
+</header>
+
+<div class="meta-bar">
+  <span class="pill" id="generated-pill">Loading…</span>
+  <span class="pill" id="count-pill"></span>
+  <a class="cv-link" href="cv/CV_Mark_Fulton.pdf" target="_blank" rel="noopener">View CV ↗</a>
+</div>
+
+<main id="job-list">
+  <div id="summary-section"></div>
+  <div class="empty">Loading listings…</div>
+</main>
+
+<footer>
+  Data source: ReliefWeb API · Not affiliated with the UN or ReliefWeb · For personal use
+</footer>
+
+<script>
+async function loadJobs() {
+  const listEl = document.getElementById("job-list");
+  const genEl = document.getElementById("generated-pill");
+  const countEl = document.getElementById("count-pill");
+
+  try {
+    const res = await fetch("jobs.json", { cache: "no-store" });
+    const data = await res.json();
+
+    if (!data.generated_at) {
+      genEl.textContent = "Not yet run";
+      countEl.textContent = "Waiting for first Action run";
+      listEl.innerHTML = `<div class="empty">
+        This page hasn't run its first update yet.<br>
+        Go to the repo's <strong>Actions</strong> tab and run "Update job listings" manually,
+        or wait for tomorrow's scheduled run.
+      </div>`;
+      return;
+    }
+
+    const generated = new Date(data.generated_at);
+    genEl.textContent = "Updated " + generated.toLocaleString();
+    countEl.textContent = (data.summary?.displayed ?? data.jobs.length) + " matching jobs";
+
+    let html = "";
+
+    if (!data.candidate_profile_loaded) {
+      html += `<div class="empty" style="margin-bottom:20px;">
+        No candidate profile loaded yet — scores are running on generic rules only.
+        Upload your CV to <code>cv/</code> and run the "Update candidate profile from CV" workflow for accurate matching.
+      </div>`;
+    }
+
+    if (data.summary) {
+      const s = data.summary;
+      html += `<div class="summary-grid">
+        ${summaryCard(s.analysed, "Analysed")}
+        ${summaryCard(s.displayed, "Displayed")}
+        ${summaryCard(s.excellent_matches, "Excellent")}
+        ${summaryCard(s.strong_matches, "Strong")}
+        ${summaryCard(s.review_matches, "Review")}
+        ${summaryCard(s.average_score, "Avg score")}
+      </div>`;
+    }
+
+    if (data.hidden_breakdown && Object.keys(data.hidden_breakdown).length) {
+      html += `<div class="hidden-breakdown"><h3>Why jobs were hidden</h3>` +
+        Object.entries(data.hidden_breakdown)
+          .sort((a, b) => b[1] - a[1])
+          .map(([reason, count]) => `<div class="hidden-row"><span>${escapeHtml(reason)}</span><span>${count}</span></div>`)
+          .join("") +
+        `</div>`;
+    }
+
+    if (data.near_misses && data.near_misses.length) {
+      html += `<div class="hidden-breakdown"><h3>Near misses (scored 15-39, hidden but close)</h3>` +
+        data.near_misses
+          .map((j) => `<div class="hidden-row"><span>${escapeHtml(j.title)}</span><span>${j.score}</span></div>`)
+          .join("") +
+        `</div>`;
+    }
+
+    if (!data.jobs.length) {
+      html += `<div class="empty">No matching live listings right now. Check back tomorrow.</div>`;
+    } else {
+      html += data.jobs.map(renderJob).join("");
+    }
+
+    listEl.innerHTML = html;
+  } catch (err) {
+    listEl.innerHTML = `<div class="empty">Couldn't load jobs.json. If this is the first run, make sure the GitHub Action has completed at least once.</div>`;
+    console.error(err);
+  }
+}
+
+function summaryCard(num, label) {
+  return `<div class="summary-card"><div class="num">${num ?? 0}</div><div class="label">${escapeHtml(label)}</div></div>`;
+}
+
+function renderJob(job) {
+  const closing = job.closing ? new Date(job.closing).toLocaleDateString() : "n/a";
+  const posted = job.posted ? new Date(job.posted).toLocaleDateString() : "n/a";
+  const verdict = job.verdict || { label: "", tier: "" };
+  const reasonsHtml = (job.reasons || [])
+    .map(r => `<span class="reason ${r.startsWith('+') ? 'pos' : 'neg'}">${escapeHtml(r)}</span>`)
+    .join("");
+  const warningsHtml = (job.warnings || [])
+    .map(w => `<span class="warning-badge">⚠ ${escapeHtml(w)}</span>`)
+    .join("");
+
+  return `
+    <div class="job">
+      <div class="job-top">
+        <div>
+          <div class="job-title"><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></div>
+          <div class="job-org">${escapeHtml(job.org)} · ${escapeHtml(job.country)}</div>
+        </div>
+        <div class="score">${job.score}</div>
+      </div>
+      <div class="verdict ${verdict.tier}">${escapeHtml(verdict.label)}</div>
+      <div class="job-details">
+        <span>Posted ${posted}</span>
+        <span>Closes ${closing}</span>
+        <span>${escapeHtml(job.category || "")}</span>
+      </div>
+      <div class="reasons">${reasonsHtml}</div>
+      <div class="warnings">${warningsHtml}</div>
+    </div>
+  `;
+}
+
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+function escapeAttr(str) { return escapeHtml(str); }
+
+loadJobs();
+</script>
+
+</body>
+</html>
