@@ -1,5 +1,71 @@
 {
-  "generated_at": null,
-  "source_file": null,
-  "profile": null
+  "generated_at": "2026-07-10T10:41:06.652Z",
+  "source_file": "cv/CV_Mark_Fulton.pdf",
+  "profile": {
+    "years_experience_total": 15,
+    "years_experience_by_function": {
+      "logistics": 9,
+      "fleet": 3,
+      "procurement": 5,
+      "administration": 15,
+      "other_relevant": 0
+    },
+    "management_level": "senior_manager",
+    "years_supervisory_experience": 9,
+    "max_team_size_managed": 170,
+    "functions": [
+      "logistics",
+      "fleet management",
+      "procurement",
+      "administration",
+      "compliance",
+      "operations support",
+      "document control"
+    ],
+    "countries_worked": [
+      "Mali",
+      "South Africa"
+    ],
+    "organisations": [
+      "OpsTrainer Platform",
+      "The Development Initiative",
+      "WH & Sons",
+      "WVH Plant Hire",
+      "Thornwhite Printing & Brokerage"
+    ],
+    "technical_skills": [
+      "Microsoft Excel",
+      "Microsoft Word",
+      "Microsoft PowerPoint",
+      "MS Access",
+      "Database Management",
+      "Digital Filing Systems",
+      "Reporting & Analytics",
+      "Workflow Administration",
+      "Document Control Systems"
+    ],
+    "languages": [
+      "English"
+    ],
+    "education": {
+      "highest_level": "diploma",
+      "fields": [
+        "Project Management",
+        "Operations Management",
+        "Conflict Management & Resolution",
+        "Psychology"
+      ],
+      "institutions": []
+    },
+    "certifications": [],
+    "post_conflict_or_emergency_experience": true,
+    "peacekeeping_mission_experience": false,
+    "preferred_job_families": [
+      "logistics",
+      "operations",
+      "administration",
+      "supply chain"
+    ],
+    "summary": "Experienced operations and administration professional with over 15 years supporting multi-site operations, personnel coordination, compliance, fleet administration, procurement, and document control in demanding environments, including post-conflict Mali. Strong background in managing administrative systems, asset tracking, reporting, and audit-ready documentation. Proficient in Microsoft Office and database management. Holds diplomas in Project Management, Operations Management, Conflict Management, and Psychology."
+  }
 }
