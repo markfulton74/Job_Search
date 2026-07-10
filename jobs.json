@@ -1,6 +1,23 @@
 {
-  "generated_at": null,
-  "source": "ReliefWeb API (live, expired postings excluded by default)",
-  "count": 0,
+  "generated_at": "2026-07-10T08:25:39.660Z",
+  "source": "ReliefWeb API (live) + DeepSeek structured extraction",
+  "candidate_profile_loaded": false,
+  "summary": {
+    "analysed": 60,
+    "displayed": 0,
+    "hidden_hard_reject": 1,
+    "hidden_national_restriction": 3,
+    "hidden_low_score": 56,
+    "excellent_matches": 0,
+    "strong_matches": 0,
+    "review_matches": 0,
+    "average_score": 0,
+    "best_match_today": null
+  },
+  "hidden_breakdown": {
+    "Low match": 56,
+    "National-only": 3,
+    "Internal/restricted recruitment": 1
+  },
   "jobs": []
 }
