@@ -1,0 +1,9 @@
+{
+  "name": "job-tracker",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.8.0"
+  }
+}
