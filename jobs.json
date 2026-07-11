@@ -1,24 +1,39 @@
 {
-  "generated_at": "2026-07-10T11:32:05.306Z",
+  "generated_at": "2026-07-11T07:17:24.483Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 2,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 3,
-    "hidden_low_score": 54,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 5,
+    "hidden_low_score": 53,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 50,
-    "best_match_today": "Strategic Procurement Specialist (DT Global)"
+    "average_score": 48,
+    "best_match_today": "Country Administration Manager - West Africa Coastal (International NGO Safety Organisation)"
   },
   "hidden_breakdown": {
+    "Low match (information technology)": 1,
+    "Low match (logistics)": 3,
+    "Low match (data and analytics)": 1,
+    "Low match (research management)": 1,
+    "Low match (audit)": 1,
+    "Low match (programme management)": 7,
+    "Low match (evaluation)": 1,
+    "National-only": 5,
+    "Low match (project management)": 1,
+    "Low match (humanitarian mine action)": 1,
+    "Low match (WASH)": 1,
+    "Low match (medical)": 3,
+    "Low match (humanitarian coordination)": 1,
+    "Low match (finance)": 5,
+    "Low match (impact investing and blended finance)": 1,
+    "Low match (advocacy)": 1,
+    "Low match (security)": 2,
     "Low match (monitoring and evaluation)": 2,
-    "Low match (programme management)": 9,
-    "Low match (finance)": 6,
-    "Low match (grants management and reporting)": 1,
+    "Low match (grants management)": 1,
     "Low match (mental health and psychosocial support)": 1,
     "Low match (health programme management)": 1,
     "Low match (MEAL and Grant Management)": 1,
@@ -29,45 +44,17 @@
     "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
     "Low match (human resources / recruitment)": 1,
     "Low match (evaluation consultant)": 1,
-    "National-only": 3,
     "Low match (epidemiology)": 1,
     "Low match (public health / malaria control)": 1,
     "Low match (human resources)": 1,
-    "Low match (security)": 1,
     "Low match (fundraising)": 1,
     "Low match (research)": 1,
     "Low match (cleaning)": 1,
-    "Low match (logistics)": 5,
     "Low match (maintenance)": 1,
     "Low match (grants and accountability)": 1,
-    "Low match (humanitarian access and security management)": 1,
-    "Low match (MEAL and Project Development)": 1,
-    "Low match (audiovisual production)": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (humanitarian coordination)": 1,
-    "Low match (partnerships and business development)": 1,
-    "Low match (audit and compliance)": 1,
-    "Low match (database management / information management)": 1,
-    "Low match (entomology)": 1,
-    "Low match (external relations and advocacy)": 1,
-    "Low match (driver)": 1,
-    "Low match (mechanics)": 1,
-    "Low match (advocacy)": 1
+    "Low match (humanitarian access and security management)": 1
   },
   "near_misses": [
-    {
-      "title": "Logistics Assistant Spare Parts Data Clerk",
-      "score": 39,
-      "reasons": [
-        "+ transport",
-        "+ logistics (title)",
-        "+ procurement",
-        "+ fleet",
-        "- education",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
     {
       "title": "Logistics Assistant and Fuel Attender",
       "score": 38,
@@ -86,18 +73,6 @@
       ]
     },
     {
-      "title": "Heavy Truck Driver",
-      "score": 37,
-      "reasons": [
-        "+ fleet manager",
-        "+ transport",
-        "+ fleet",
-        "+ experience matches (15y vs 10y required)",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
       "title": "Fundraising Manager",
       "score": 26,
       "reasons": [
@@ -108,48 +83,56 @@
         "+ degree can be substituted by experience -- good fit",
         "+ slightly senior for this level -- likely fine"
       ]
+    },
+    {
+      "title": "ASISTENTE DE LOGISTICA",
+      "score": 17,
+      "reasons": [
+        "+ transport",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
+      ]
     }
   ],
   "jobs": [
     {
-      "title": "Strategic Procurement Specialist",
-      "org": "DT Global",
-      "country": "Thailand",
-      "url": "https://reliefweb.int/job/4220612/strategic-procurement-specialist",
-      "posted": "2026-07-09T01:30:38+00:00",
-      "closing": "2026-07-22T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 54,
+      "title": "Country Administration Manager - West Africa Coastal",
+      "org": "International NGO Safety Organisation",
+      "country": "Benin",
+      "url": "https://reliefweb.int/job/4220948/country-administration-manager-west-africa-coastal",
+      "posted": "2026-07-10T15:59:04+00:00",
+      "closing": "2026-07-24T00:00:00+00:00",
+      "category": "Administration/Finance",
+      "score": 51,
       "verdict": {
         "label": "Low match",
         "tier": "skip"
       },
       "reasons": [
-        "+ transport",
-        "+ procurement (title)",
+        "+ administration manager (title)",
         "- finance",
-        "+ profession matches your experience (procurement)",
-        "+ management level matches"
+        "+ profession matches your experience (administration)",
+        "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Location not specified; may require work in Southeast Asia or Australia",
-        "Australian Government funding implies preference for Australian citizens or residents",
-        "DFAT and DT Global compliance requirements may restrict eligibility"
+        "Job posting is in French, implying French is required but not explicitly stated as mandatory",
+        "Visa and work permit coordination mentioned, but no guarantee of sponsorship",
+        "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require travel and additional compliance"
       ],
       "job_profile": {
-        "profession": "procurement",
-        "management_level": "senior_manager",
+        "profession": "administration",
+        "management_level": "manager",
         "years_experience_required": null,
         "degree_required": null,
         "education_field": null,
         "languages_required": [
-          "English"
+          "French"
         ],
         "international_recruitment": true,
         "warnings": [
-          "Location not specified; may require work in Southeast Asia or Australia",
-          "Australian Government funding implies preference for Australian citizens or residents",
-          "DFAT and DT Global compliance requirements may restrict eligibility"
+          "Job posting is in French, implying French is required but not explicitly stated as mandatory",
+          "Visa and work permit coordination mentioned, but no guarantee of sponsorship",
+          "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require travel and additional compliance"
         ]
       }
     },
