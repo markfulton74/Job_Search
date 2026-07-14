@@ -1,55 +1,49 @@
 {
-  "generated_at": "2026-07-13T08:22:52.541Z",
+  "generated_at": "2026-07-14T07:15:54.068Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 2,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 4,
-    "hidden_low_score": 53,
+    "displayed": 4,
+    "hidden_hard_reject": 2,
+    "hidden_national_restriction": 2,
+    "hidden_low_score": 52,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 0,
-    "average_score": 48,
-    "best_match_today": "Country Administration Manager - West Africa Coastal (International NGO Safety Organisation)"
+    "review_matches": 2,
+    "average_score": 55,
+    "best_match_today": "MAG Senior Logistics Experts (SLE) Talent Pool (Mines Advisory Group)"
   },
   "hidden_breakdown": {
-    "Low match (procurement)": 1,
-    "Low match (finance)": 6,
-    "Low match (logistics)": 2,
+    "Low match (protection)": 2,
+    "Low match (information management and data analysis)": 1,
+    "Low match (finance)": 9,
+    "Low match (humanitarian affairs)": 1,
+    "Low match (program management)": 1,
+    "Low match (digital health / software development)": 2,
+    "Low match (programme management)": 10,
+    "Low match (logistics)": 3,
+    "Low match (medical)": 2,
+    "Low match (research management)": 2,
+    "Low match (data analysis)": 1,
+    "Low match (evaluation)": 1,
+    "Low match (partnerships and development)": 1,
+    "Internal/restricted recruitment": 2,
+    "Low match (human rights)": 1,
+    "National-only": 2,
+    "Low match (business development)": 1,
+    "Low match (grants management)": 1,
+    "Low match (procurement)": 2,
+    "Low match (WASH in Emergencies)": 1,
+    "Low match (food security / economic recovery)": 1,
     "Low match (research)": 1,
-    "Low match (project management)": 3,
+    "Low match (project management)": 2,
     "Low match (monitoring, evaluation, accountability and learning)": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (human resources)": 3,
-    "Low match (programme management)": 7,
+    "Low match (human resources)": 1,
     "Low match (information technology)": 1,
     "Low match (data and analytics)": 1,
-    "Low match (research management)": 1,
     "Low match (audit)": 1,
-    "Low match (evaluation)": 1,
-    "National-only": 4,
-    "Low match (humanitarian mine action)": 1,
-    "Low match (WASH)": 1,
-    "Low match (medical)": 3,
-    "Low match (humanitarian coordination)": 1,
-    "Low match (impact investing and blended finance)": 1,
-    "Low match (advocacy)": 1,
-    "Low match (security)": 2,
-    "Low match (monitoring and evaluation)": 2,
-    "Low match (grants management and reporting)": 1,
-    "Low match (mental health and psychosocial support)": 1,
-    "Low match (health programme management)": 1,
-    "Low match (MEAL and Grant Management)": 1,
-    "Low match (clinical operations)": 1,
-    "Low match (WASH program management)": 1,
-    "Low match (ICT)": 1,
-    "Low match (medical evacuation coordination)": 1,
-    "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
-    "Low match (evaluation consultant)": 1,
-    "Low match (epidemiology)": 1,
-    "Low match (public health / malaria control)": 1
+    "Low match (mental health and psychosocial support)": 1
   },
   "near_misses": [
     {
@@ -70,6 +64,46 @@
       ]
     },
     {
+      "title": "Procurement Coordinator - Aleppo Syria",
+      "score": 29,
+      "reasons": [
+        "+ operations manager",
+        "+ transport",
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement (title)",
+        "- finance",
+        "- accounting",
+        "- nutrition",
+        "+ profession matches your experience (procurement)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Coordinateur logistique voltigeur - Worldwide (F/H)",
+      "score": 28,
+      "reasons": [
+        "+ transport",
+        "- finance",
+        "+ experience matches (15y vs 5y required)",
+        "+ education field aligned (logistics or supply chain)",
+        "- requires bachelor's degree",
+        "+ profession matches your experience (logistics)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Senior Program Manager, Infrastructure",
+      "score": 22,
+      "reasons": [
+        "+ procurement",
+        "+ experience matches (15y vs 10y required)",
+        "+ education field aligned (engineering, project/business management, environmental science or relevant discipline)",
+        "- requires bachelor's degree",
+        "+ management level matches"
+      ]
+    },
+    {
       "title": "ASISTENTE DE LOGISTICA",
       "score": 17,
       "reasons": [
@@ -80,6 +114,144 @@
     }
   ],
   "jobs": [
+    {
+      "title": "MAG Senior Logistics Experts (SLE) Talent Pool",
+      "org": "Mines Advisory Group",
+      "country": "Unspecified",
+      "url": "https://reliefweb.int/job/4221209/mag-senior-logistics-experts-sle-talent-pool",
+      "posted": "2026-07-13T16:11:45+00:00",
+      "closing": "2026-07-27T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 62,
+      "verdict": {
+        "label": "Worth reviewing",
+        "tier": "review"
+      },
+      "reasons": [
+        "+ fleet manager",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- medical",
+        "+ profession matches your experience (logistics)",
+        "+ management level matches"
+      ],
+      "warnings": [
+        "No explicit language requirements stated",
+        "No degree or experience requirements specified",
+        "Visa status unclear for international applicants"
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "senior_manager",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": true,
+        "warnings": [
+          "No explicit language requirements stated",
+          "No degree or experience requirements specified",
+          "Visa status unclear for international applicants"
+        ]
+      }
+    },
+    {
+      "title": "Global Supply Chain Policy & Development Lead",
+      "org": "Danish Refugee Council",
+      "country": "Denmark",
+      "url": "https://reliefweb.int/job/4221172/global-supply-chain-policy-development-lead",
+      "posted": "2026-07-13T13:22:04+00:00",
+      "closing": "2026-08-03T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 55,
+      "verdict": {
+        "label": "Worth reviewing",
+        "tier": "review"
+      },
+      "reasons": [
+        "+ logistics",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ experience matches (15y vs 7y required)",
+        "- requires master's degree",
+        "+ profession matches your preferred field (supply chain management)",
+        "+ management level matches"
+      ],
+      "warnings": [
+        "Visa status unclear",
+        "Danish, French, Spanish and/or Arabic preferred but not mandatory"
+      ],
+      "job_profile": {
+        "profession": "supply chain management",
+        "management_level": "senior_manager",
+        "years_experience_required": 7,
+        "degree_required": "master",
+        "education_field": "relevant academic degree",
+        "languages_required": [
+          "English"
+        ],
+        "international_recruitment": true,
+        "warnings": [
+          "Visa status unclear",
+          "Danish, French, Spanish and/or Arabic preferred but not mandatory"
+        ]
+      }
+    },
+    {
+      "title": "Supply Chain Manager",
+      "org": "Independent Doctors Association",
+      "country": "Syrian Arab Republic",
+      "url": "https://reliefweb.int/job/4221018/supply-chain-manager",
+      "posted": "2026-07-13T09:46:22+00:00",
+      "closing": "2026-07-25T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 53,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ supply chain manager (title)",
+        "+ transport",
+        "+ logistics",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- medical",
+        "- nutrition",
+        "+ experience matches (15y vs 5y required)",
+        "- education field mismatch (medical fields like pharmacy or medicine)",
+        "- requires bachelor's degree",
+        "+ profession matches your preferred field (supply chain management)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "Location is Syria - Aleppo, which may pose security risks",
+        "Visa status unclear for international applicants",
+        "Arabic fluency required, which may be a barrier for non-native speakers"
+      ],
+      "job_profile": {
+        "profession": "supply chain management",
+        "management_level": "manager",
+        "years_experience_required": 5,
+        "degree_required": "bachelor",
+        "education_field": "medical fields like pharmacy or medicine",
+        "languages_required": [
+          "English",
+          "Arabic"
+        ],
+        "international_recruitment": false,
+        "warnings": [
+          "Location is Syria - Aleppo, which may pose security risks",
+          "Visa status unclear for international applicants",
+          "Arabic fluency required, which may be a barrier for non-native speakers"
+        ]
+      }
+    },
     {
       "title": "Country Administration Manager - West Africa Coastal",
       "org": "International NGO Safety Organisation",
@@ -100,9 +272,9 @@
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "French required, English not mentioned",
+        "Job description in French, French required",
         "Visa status unclear for international applicants",
-        "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require travel"
+        "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require multiple work permits"
       ],
       "job_profile": {
         "profession": "administration",
@@ -115,47 +287,9 @@
         ],
         "international_recruitment": true,
         "warnings": [
-          "French required, English not mentioned",
+          "Job description in French, French required",
           "Visa status unclear for international applicants",
-          "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require travel"
-        ]
-      }
-    },
-    {
-      "title": "Regional Supply Chain Strengthening Coordinator",
-      "org": "Plan International",
-      "country": "Kenya",
-      "url": "https://reliefweb.int/job/4220863/regional-supply-chain-strengthening-coordinator",
-      "posted": "2026-07-10T08:11:35+00:00",
-      "closing": "2026-07-24T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 45,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ profession matches your preferred field (supply chain)",
-        "- somewhat senior for this level"
-      ],
-      "warnings": [
-        "Language requirements not specified",
-        "Visa status unclear"
-      ],
-      "job_profile": {
-        "profession": "supply chain",
-        "management_level": "coordinator",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Language requirements not specified",
-          "Visa status unclear"
+          "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require multiple work permits"
         ]
       }
     }
