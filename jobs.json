@@ -1,84 +1,52 @@
 {
-  "generated_at": "2026-07-14T07:15:54.068Z",
+  "generated_at": "2026-07-15T07:21:03.583Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 4,
-    "hidden_hard_reject": 2,
-    "hidden_national_restriction": 2,
-    "hidden_low_score": 52,
+    "displayed": 2,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 1,
+    "hidden_low_score": 57,
     "excellent_matches": 0,
-    "strong_matches": 0,
-    "review_matches": 2,
-    "average_score": 55,
-    "best_match_today": "MAG Senior Logistics Experts (SLE) Talent Pool (Mines Advisory Group)"
+    "strong_matches": 1,
+    "review_matches": 1,
+    "average_score": 69,
+    "best_match_today": "Country Supply Chain & Operations Manager - National (Relief International)"
   },
   "hidden_breakdown": {
-    "Low match (protection)": 2,
-    "Low match (information management and data analysis)": 1,
+    "Low match (human resources)": 3,
+    "Low match (programme management)": 12,
+    "Low match (information technology policy)": 1,
     "Low match (finance)": 9,
+    "Low match (legal)": 1,
+    "Low match (administration)": 2,
+    "Low match (protection)": 4,
+    "Low match (compliance)": 1,
+    "Low match (humanitarian programme review)": 1,
+    "Low match (evaluation consultancy)": 3,
+    "Low match (advocacy and communications)": 1,
+    "Low match (insurance services)": 1,
+    "National-only": 1,
+    "Low match (partnerships development)": 1,
+    "Low match (WASH engineering)": 1,
+    "Low match (cybersecurity)": 1,
+    "Low match (IT support and infrastructure engineering)": 1,
+    "Low match (software development)": 1,
+    "Low match (project management)": 1,
+    "Low match (finance and administration)": 1,
+    "Low match (information technology)": 1,
+    "Low match (safeguarding)": 1,
+    "Low match (information management and data analysis)": 1,
     "Low match (humanitarian affairs)": 1,
     "Low match (program management)": 1,
-    "Low match (digital health / software development)": 2,
-    "Low match (programme management)": 10,
-    "Low match (logistics)": 3,
-    "Low match (medical)": 2,
-    "Low match (research management)": 2,
-    "Low match (data analysis)": 1,
-    "Low match (evaluation)": 1,
-    "Low match (partnerships and development)": 1,
-    "Internal/restricted recruitment": 2,
-    "Low match (human rights)": 1,
-    "National-only": 2,
-    "Low match (business development)": 1,
-    "Low match (grants management)": 1,
-    "Low match (procurement)": 2,
-    "Low match (WASH in Emergencies)": 1,
-    "Low match (food security / economic recovery)": 1,
-    "Low match (research)": 1,
-    "Low match (project management)": 2,
-    "Low match (monitoring, evaluation, accountability and learning)": 1,
-    "Low match (human resources)": 1,
-    "Low match (information technology)": 1,
-    "Low match (data and analytics)": 1,
-    "Low match (audit)": 1,
-    "Low match (mental health and psychosocial support)": 1
+    "Low match (digital health / software development)": 1,
+    "Low match (software development / digital health)": 1,
+    "Low match (logistics)": 2,
+    "Low match (medical)": 1,
+    "Low match (evaluation)": 1
   },
   "near_misses": [
-    {
-      "title": "21668 ICT Procurement Associate (G5) Valencia, Spain",
-      "score": 38,
-      "reasons": [
-        "+ logistics",
-        "+ supply chain",
-        "+ procurement (title)",
-        "- accounting",
-        "- education",
-        "- research",
-        "- may be overqualified (15y vs 3y required)",
-        "+ education field aligned (Business Administration, Accounting, Logistics, Supply Chain Management, or related field)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (procurement)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Procurement Coordinator - Aleppo Syria",
-      "score": 29,
-      "reasons": [
-        "+ operations manager",
-        "+ transport",
-        "+ logistics",
-        "+ supply chain",
-        "+ procurement (title)",
-        "- finance",
-        "- accounting",
-        "- nutrition",
-        "+ profession matches your experience (procurement)",
-        "- somewhat senior for this level"
-      ]
-    },
     {
       "title": "Coordinateur logistique voltigeur - Worldwide (F/H)",
       "score": 28,
@@ -104,16 +72,69 @@
       ]
     },
     {
-      "title": "ASISTENTE DE LOGISTICA",
+      "title": "Chargé.e d'évaluation Senior - MSNA pour Haiti, basé.e à Port-au-Prince",
       "score": 17,
       "reasons": [
         "+ transport",
-        "+ profession matches your experience (logistics)",
+        "+ \\br&r\\b",
+        "+ management level matches"
+      ]
+    },
+    {
+      "title": "Aprendiz de Servicios de Soporte",
+      "score": 15,
+      "reasons": [
+        "+ profession matches your experience (administration)",
         "- significantly overqualified for this level"
       ]
     }
   ],
   "jobs": [
+    {
+      "title": "Country Supply Chain & Operations Manager - National",
+      "org": "Relief International",
+      "country": "Syrian Arab Republic",
+      "url": "https://reliefweb.int/job/4221319/country-supply-chain-operations-manager-national",
+      "posted": "2026-07-14T12:35:03+00:00",
+      "closing": "2026-07-31T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 75,
+      "verdict": {
+        "label": "Strong match",
+        "tier": "strong"
+      },
+      "reasons": [
+        "+ operations manager (title)",
+        "+ transport",
+        "+ logistics",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- finance",
+        "- education",
+        "- nutrition",
+        "+ profession matches your preferred field (supply chain and operations)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "National position - only open to Syrian nationals",
+        "No explicit language requirements stated"
+      ],
+      "job_profile": {
+        "profession": "supply chain and operations",
+        "management_level": "manager",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": false,
+        "warnings": [
+          "National position - only open to Syrian nationals",
+          "No explicit language requirements stated"
+        ]
+      }
+    },
     {
       "title": "MAG Senior Logistics Experts (SLE) Talent Pool",
       "org": "Mines Advisory Group",
@@ -155,141 +176,6 @@
           "No explicit language requirements stated",
           "No degree or experience requirements specified",
           "Visa status unclear for international applicants"
-        ]
-      }
-    },
-    {
-      "title": "Global Supply Chain Policy & Development Lead",
-      "org": "Danish Refugee Council",
-      "country": "Denmark",
-      "url": "https://reliefweb.int/job/4221172/global-supply-chain-policy-development-lead",
-      "posted": "2026-07-13T13:22:04+00:00",
-      "closing": "2026-08-03T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 55,
-      "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
-      },
-      "reasons": [
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ experience matches (15y vs 7y required)",
-        "- requires master's degree",
-        "+ profession matches your preferred field (supply chain management)",
-        "+ management level matches"
-      ],
-      "warnings": [
-        "Visa status unclear",
-        "Danish, French, Spanish and/or Arabic preferred but not mandatory"
-      ],
-      "job_profile": {
-        "profession": "supply chain management",
-        "management_level": "senior_manager",
-        "years_experience_required": 7,
-        "degree_required": "master",
-        "education_field": "relevant academic degree",
-        "languages_required": [
-          "English"
-        ],
-        "international_recruitment": true,
-        "warnings": [
-          "Visa status unclear",
-          "Danish, French, Spanish and/or Arabic preferred but not mandatory"
-        ]
-      }
-    },
-    {
-      "title": "Supply Chain Manager",
-      "org": "Independent Doctors Association",
-      "country": "Syrian Arab Republic",
-      "url": "https://reliefweb.int/job/4221018/supply-chain-manager",
-      "posted": "2026-07-13T09:46:22+00:00",
-      "closing": "2026-07-25T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 53,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ supply chain manager (title)",
-        "+ transport",
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
-        "- medical",
-        "- nutrition",
-        "+ experience matches (15y vs 5y required)",
-        "- education field mismatch (medical fields like pharmacy or medicine)",
-        "- requires bachelor's degree",
-        "+ profession matches your preferred field (supply chain management)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Location is Syria - Aleppo, which may pose security risks",
-        "Visa status unclear for international applicants",
-        "Arabic fluency required, which may be a barrier for non-native speakers"
-      ],
-      "job_profile": {
-        "profession": "supply chain management",
-        "management_level": "manager",
-        "years_experience_required": 5,
-        "degree_required": "bachelor",
-        "education_field": "medical fields like pharmacy or medicine",
-        "languages_required": [
-          "English",
-          "Arabic"
-        ],
-        "international_recruitment": false,
-        "warnings": [
-          "Location is Syria - Aleppo, which may pose security risks",
-          "Visa status unclear for international applicants",
-          "Arabic fluency required, which may be a barrier for non-native speakers"
-        ]
-      }
-    },
-    {
-      "title": "Country Administration Manager - West Africa Coastal",
-      "org": "International NGO Safety Organisation",
-      "country": "Benin",
-      "url": "https://reliefweb.int/job/4220948/country-administration-manager-west-africa-coastal",
-      "posted": "2026-07-10T15:59:04+00:00",
-      "closing": "2026-07-24T00:00:00+00:00",
-      "category": "Administration/Finance",
-      "score": 51,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ administration manager (title)",
-        "- finance",
-        "+ profession matches your experience (administration)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Job description in French, French required",
-        "Visa status unclear for international applicants",
-        "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require multiple work permits"
-      ],
-      "job_profile": {
-        "profession": "administration",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [
-          "French"
-        ],
-        "international_recruitment": true,
-        "warnings": [
-          "Job description in French, French required",
-          "Visa status unclear for international applicants",
-          "Multi-country role (Benin, Côte d'Ivoire, Senegal) may require multiple work permits"
         ]
       }
     }
