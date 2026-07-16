@@ -1,74 +1,85 @@
 {
-  "generated_at": "2026-07-15T07:21:03.583Z",
+  "generated_at": "2026-07-16T07:28:22.877Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 2,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 1,
-    "hidden_low_score": 57,
+    "hidden_national_restriction": 3,
+    "hidden_low_score": 55,
     "excellent_matches": 0,
     "strong_matches": 1,
-    "review_matches": 1,
-    "average_score": 69,
+    "review_matches": 0,
+    "average_score": 59,
     "best_match_today": "Country Supply Chain & Operations Manager - National (Relief International)"
   },
   "hidden_breakdown": {
+    "Low match (policy and advocacy)": 1,
+    "Low match (engineering)": 1,
+    "Low match (procurement)": 1,
+    "Low match (business development)": 1,
+    "Low match (finance)": 6,
+    "Low match (grants and partnership management)": 2,
+    "Low match (programme management)": 10,
+    "Low match (security management)": 1,
+    "Low match (medical)": 3,
+    "Low match (accessibility and infrastructure)": 1,
     "Low match (human resources)": 3,
-    "Low match (programme management)": 12,
-    "Low match (information technology policy)": 1,
-    "Low match (finance)": 9,
-    "Low match (legal)": 1,
+    "Low match (water, sanitation and hygiene (WASH))": 1,
+    "Low match (humanitarian mine action)": 1,
+    "Low match (protection)": 3,
     "Low match (administration)": 2,
-    "Low match (protection)": 4,
+    "Low match (data management)": 1,
+    "Low match (enterprise development / business support)": 1,
+    "Low match (conservation research)": 1,
+    "National-only": 3,
+    "Low match (pharmacy)": 1,
+    "Low match (consultancy)": 1,
+    "Low match (human resources / workforce planning)": 1,
+    "Low match (evaluation)": 1,
+    "Low match (information technology policy)": 1,
+    "Low match (legal)": 1,
+    "Low match (data management and displacement monitoring)": 1,
     "Low match (compliance)": 1,
-    "Low match (humanitarian programme review)": 1,
+    "Low match (evaluation and learning)": 1,
     "Low match (evaluation consultancy)": 3,
     "Low match (advocacy and communications)": 1,
     "Low match (insurance services)": 1,
-    "National-only": 1,
-    "Low match (partnerships development)": 1,
-    "Low match (WASH engineering)": 1,
-    "Low match (cybersecurity)": 1,
-    "Low match (IT support and infrastructure engineering)": 1,
-    "Low match (software development)": 1,
-    "Low match (project management)": 1,
-    "Low match (finance and administration)": 1,
-    "Low match (information technology)": 1,
-    "Low match (safeguarding)": 1,
-    "Low match (information management and data analysis)": 1,
-    "Low match (humanitarian affairs)": 1,
-    "Low match (program management)": 1,
-    "Low match (digital health / software development)": 1,
-    "Low match (software development / digital health)": 1,
-    "Low match (logistics)": 2,
-    "Low match (medical)": 1,
-    "Low match (evaluation)": 1
+    "Low match (partnerships development)": 1
   },
   "near_misses": [
     {
-      "title": "Coordinateur logistique voltigeur - Worldwide (F/H)",
-      "score": 28,
+      "title": "Procurement Officer",
+      "score": 25,
       "reasons": [
-        "+ transport",
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement (title)",
         "- finance",
+        "- education",
+        "+ profession matches your experience (procurement)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "Humanitarian Mine Action Technical Advisor",
+      "score": 22,
+      "reasons": [
+        "+ operations manager",
+        "- education",
+        "+ international recruitment|internationall",
         "+ experience matches (15y vs 5y required)",
-        "+ education field aligned (logistics or supply chain)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
         "- somewhat senior for this level"
       ]
     },
     {
-      "title": "Senior Program Manager, Infrastructure",
-      "score": 22,
+      "title": "Fashion Lab Administrative Assistant -",
+      "score": 17,
       "reasons": [
-        "+ procurement",
-        "+ experience matches (15y vs 10y required)",
-        "+ education field aligned (engineering, project/business management, environmental science or relevant discipline)",
-        "- requires bachelor's degree",
-        "+ management level matches"
+        "+ logistics",
+        "+ profession matches your experience (administration)",
+        "- significantly overqualified for this level"
       ]
     },
     {
@@ -119,7 +130,7 @@
       ],
       "warnings": [
         "National position - only open to Syrian nationals",
-        "No explicit language requirements stated"
+        "Visa status unclear for non-nationals"
       ],
       "job_profile": {
         "profession": "supply chain and operations",
@@ -131,51 +142,50 @@
         "international_recruitment": false,
         "warnings": [
           "National position - only open to Syrian nationals",
-          "No explicit language requirements stated"
+          "Visa status unclear for non-nationals"
         ]
       }
     },
     {
-      "title": "MAG Senior Logistics Experts (SLE) Talent Pool",
-      "org": "Mines Advisory Group",
-      "country": "Unspecified",
-      "url": "https://reliefweb.int/job/4221209/mag-senior-logistics-experts-sle-talent-pool",
-      "posted": "2026-07-13T16:11:45+00:00",
+      "title": "Remote Operations and Administrations Intern",
+      "org": "SEED Madagascar",
+      "country": "Madagascar",
+      "url": "https://reliefweb.int/job/4221371/remote-operations-and-administrations-intern",
+      "posted": "2026-07-15T09:46:01+00:00",
       "closing": "2026-07-27T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 62,
+      "category": "Administration/Finance",
+      "score": 42,
       "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
+        "label": "Low match",
+        "tier": "skip"
       },
       "reasons": [
-        "+ fleet manager",
-        "+ logistics (title)",
-        "+ supply chain",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
-        "- medical",
-        "+ profession matches your experience (logistics)",
-        "+ management level matches"
+        "+ operations manager",
+        "- research",
+        "+ international recruitment|internationall",
+        "+ degree can be substituted by experience -- good fit",
+        "+ profession matches your experience (operations and administration)",
+        "- significantly overqualified for this level"
       ],
       "warnings": [
-        "No explicit language requirements stated",
-        "No degree or experience requirements specified",
-        "Visa status unclear for international applicants"
+        "Unpaid internship",
+        "Must be able to financially support themselves",
+        "Remote position, no visa sponsorship implied"
       ],
       "job_profile": {
-        "profession": "logistics",
-        "management_level": "senior_manager",
+        "profession": "operations and administration",
+        "management_level": "entry",
         "years_experience_required": null,
-        "degree_required": null,
+        "degree_required": "equivalent_experience_accepted",
         "education_field": null,
-        "languages_required": [],
+        "languages_required": [
+          "English"
+        ],
         "international_recruitment": true,
         "warnings": [
-          "No explicit language requirements stated",
-          "No degree or experience requirements specified",
-          "Visa status unclear for international applicants"
+          "Unpaid internship",
+          "Must be able to financially support themselves",
+          "Remote position, no visa sponsorship implied"
         ]
       }
     }
