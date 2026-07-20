@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:32:22.504Z",
+  "generated_at": "2026-07-20T08:12:33.995Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,10 +15,13 @@
     "best_match_today": "Tupande Administration Supervisor (Fixed-Term) (One Acre Fund)"
   },
   "hidden_breakdown": {
+    "Low match (cleaning)": 1,
+    "Low match (finance)": 3,
+    "Low match (logistics)": 2,
+    "Low match (business development)": 1,
     "National-only": 7,
     "Low match (programme management)": 12,
     "Low match (audit)": 1,
-    "Low match (finance)": 2,
     "Low match (award management)": 1,
     "Low match (social work)": 1,
     "Low match (community navigation)": 1,
@@ -27,13 +30,13 @@
     "Low match (clinical program management)": 1,
     "Low match (electrical maintenance)": 1,
     "Low match (mechanical maintenance)": 1,
-    "Low match (operations)": 1,
+    "Low match (operations / production)": 1,
     "Low match (support services)": 1,
     "Low match (administration)": 2,
-    "Low match (business development)": 1,
+    "Low match (business development services)": 1,
     "Low match (nutrition and health)": 1,
     "Low match (distribution coordination)": 1,
-    "Low match (information management)": 1,
+    "Low match (information coordination)": 1,
     "Low match (humanitarian access, safety and security)": 1,
     "Low match (procurement)": 1,
     "Low match (grants and proposal writing)": 1,
@@ -41,32 +44,13 @@
     "Low match (communications)": 1,
     "Low match (grants and partnership management)": 1,
     "Low match (grants management)": 2,
-    "Low match (logistics)": 1,
     "Low match (humanitarian mine action)": 2,
     "Low match (medical)": 1,
     "Low match (liaison)": 1,
     "Low match (community kitchen management)": 1,
-    "Low match (anti-corruption and compliance)": 1,
-    "Low match (volunteer management)": 1,
-    "Low match (WASH (Water, Sanitation and Hygiene))": 1,
-    "Low match (protection)": 1,
-    "Low match (supply chain / procurement)": 1
+    "Low match (anti-corruption and compliance)": 1
   },
   "near_misses": [
-    {
-      "title": "Nigeria Administrative Coordinator - Lafia, Nasarawa (Fixed-Term)",
-      "score": 36,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ fleet",
-        "- meal",
-        "- may be overqualified (15y vs 3y required)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (administration)",
-        "- somewhat senior for this level"
-      ]
-    },
     {
       "title": "Humanitarian Mine Action Operations Manager (re-advertisement)",
       "score": 34,
@@ -106,17 +90,16 @@
       ]
     },
     {
-      "title": "Assistant Supply Officer (Proximity Sourcing Specialist)",
-      "score": 24,
+      "title": "Nigeria Administrative Coordinator - Lafia, Nasarawa (Fixed-Term)",
+      "score": 21,
       "reasons": [
+        "+ transport",
         "+ logistics",
-        "+ supply chain",
-        "+ procurement",
-        "- education",
-        "- research",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (supply chain / procurement)",
-        "- significantly overqualified for this level"
+        "+ fleet",
+        "- meal",
+        "- may be overqualified (15y vs 3y required)",
+        "+ profession matches your experience (administration)",
+        "- somewhat senior for this level"
       ]
     },
     {
@@ -191,29 +174,27 @@
         "+ logistics manager",
         "+ logistics (title)",
         "+ procurement",
-        "- may be overqualified (15y vs 3y required)",
+        "- may be overqualified (15y vs 2y required)",
         "+ profession matches your experience (logistics)",
         "- somewhat senior for this level"
       ],
       "warnings": [
-        "Experience range 2-3 years, using upper bound",
-        "No degree requirement stated",
-        "No languages specified",
-        "International recruitment status unclear"
+        "Experience range given as 2-3 years, but minimum is 2",
+        "No mention of work authorization or visa support",
+        "Location not explicitly stated but likely Kenya (Kakamega or Nairobi)"
       ],
       "job_profile": {
         "profession": "logistics",
         "management_level": "coordinator",
-        "years_experience_required": 3,
+        "years_experience_required": 2,
         "degree_required": null,
         "education_field": null,
         "languages_required": [],
         "international_recruitment": null,
         "warnings": [
-          "Experience range 2-3 years, using upper bound",
-          "No degree requirement stated",
-          "No languages specified",
-          "International recruitment status unclear"
+          "Experience range given as 2-3 years, but minimum is 2",
+          "No mention of work authorization or visa support",
+          "Location not explicitly stated but likely Kenya (Kakamega or Nairobi)"
         ]
       }
     }
