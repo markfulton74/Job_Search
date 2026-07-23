@@ -1,223 +1,59 @@
 {
-  "generated_at": "2026-07-22T07:39:29.227Z",
+  "generated_at": "2026-07-23T07:39:46.545Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 2,
+    "displayed": 0,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 0,
-    "hidden_low_score": 58,
+    "hidden_national_restriction": 6,
+    "hidden_low_score": 54,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 1,
-    "average_score": 49,
-    "best_match_today": "ITT FY27-225 Fleet Management and Vehicle Telematics Solutions (Plan International)"
+    "review_matches": 0,
+    "average_score": 0,
+    "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match (logistics)": 6,
-    "Low match (gender, diversity, inclusion and protection)": 1,
-    "Low match (audit)": 3,
-    "Low match (marketing and communication)": 2,
-    "Low match (finance)": 7,
-    "Low match (security and access)": 1,
-    "Low match (programme management)": 13,
+    "Low match (research)": 3,
+    "Low match (programme management)": 10,
+    "Low match (human resources)": 3,
     "Low match (supply chain)": 1,
-    "Low match (safeguarding)": 1,
-    "Low match (data collection)": 1,
-    "Low match (information technology)": 1,
-    "Low match (grants management)": 1,
-    "Low match (research management)": 1,
-    "Low match (human resources)": 2,
-    "Low match (fundraising)": 1,
-    "Low match (information management)": 1,
-    "Low match (childcare)": 1,
-    "Low match (public health / eye health)": 1,
-    "Low match (employability support)": 1,
-    "Low match (humanitarian aid)": 1,
-    "Low match (education)": 1,
-    "Low match (administration)": 1,
+    "Low match (engineering)": 1,
+    "National-only": 6,
     "Low match (grants and partnership management)": 1,
+    "Low match (monitoring and evaluation)": 4,
+    "Low match (compliance)": 1,
+    "Low match (monitoring, evaluation and learning)": 2,
+    "Low match (grants management)": 1,
+    "Low match (media and communications)": 1,
+    "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
+    "Low match (security and access management)": 1,
+    "Low match (finance and human resources)": 1,
+    "Low match (field coordination)": 1,
+    "Low match (hospital management)": 1,
+    "Low match (finance)": 1,
+    "Low match (education)": 1,
+    "Low match (communications / media production)": 1,
+    "Low match (support services management)": 1,
+    "Low match (protection)": 1,
+    "Low match (knowledge management)": 1,
+    "Low match (civil engineering)": 1,
+    "Low match (videography / documentary production)": 1,
     "Low match (project management)": 1,
-    "Low match (monitoring and evaluation)": 1,
-    "Low match (electrical maintenance)": 1,
-    "Low match (association network coordination)": 1,
-    "Low match (driver)": 1,
-    "Low match (security management)": 1,
-    "Low match (humanitarian access safety and security)": 1,
-    "Low match (transport)": 1
+    "Low match (public health epidemiology)": 1,
+    "Low match (risk education)": 1,
+    "Low match (education programme evaluation)": 1,
+    "Low match (food security analysis)": 1,
+    "Low match (debris and rubble management)": 1,
+    "Low match (archaeology)": 1,
+    "Low match (social and behavioural change)": 1,
+    "Low match (business development)": 1,
+    "Low match (health and wash coordination)": 1,
+    "Low match (human resources and administration)": 1,
+    "Low match (finance and administration)": 1,
+    "Low match (logistics)": 1
   },
-  "near_misses": [
-    {
-      "title": "Venezuela - Gerente Logistica (Nacional)",
-      "score": 37,
-      "reasons": [
-        "+ transport",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Cleaner/Driver",
-      "score": 35,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "- medical",
-        "+ experience matches (15y vs 7y required)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Logistics & Admin Assistant (Maternity Cover",
-      "score": 32,
-      "reasons": [
-        "+ logistics (title)",
-        "+ procurement",
-        "- finance",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Tupande Senior Transport Officer",
-      "score": 22,
-      "reasons": [
-        "+ transport (title)",
-        "+ procurement",
-        "- legal",
-        "+ management level matches"
-      ]
-    },
-    {
-      "title": "Global Surge Team Roster: Emergency Supply Chain Coordinator",
-      "score": 19,
-      "reasons": [
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
-        "- medical",
-        "- legal",
-        "- education",
-        "+ profession matches your preferred field (supply chain)",
-        "- somewhat senior for this level"
-      ]
-    },
-    {
-      "title": "Agent.e Polyvalent.e Services Généraux F/H",
-      "score": 17,
-      "reasons": [
-        "+ transport",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Venezuela: Oficial de Cadena de Suministro (Caracas)",
-      "score": 17,
-      "reasons": [
-        "+ transport",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Sr. Administrative Assistant (Multiple Positions)",
-      "score": 16,
-      "reasons": [
-        "- medical",
-        "- education",
-        "- may be overqualified (15y vs 4y required)",
-        "+ education field aligned (Business Administration, Social Sciences, Health Sciences or a related field)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (administration)",
-        "- significantly overqualified for this level"
-      ]
-    }
-  ],
-  "jobs": [
-    {
-      "title": "ITT FY27-225 Fleet Management and Vehicle Telematics Solutions",
-      "org": "Plan International",
-      "country": "Unspecified",
-      "url": "https://reliefweb.int/job/4222145/itt-fy27-225-fleet-management-and-vehicle-telematics-solutions",
-      "posted": "2026-07-20T16:22:57+00:00",
-      "closing": "2026-08-17T00:00:00+00:00",
-      "category": "Information and Communications Technology",
-      "score": 56,
-      "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
-      },
-      "reasons": [
-        "+ transport",
-        "+ fleet (title)",
-        "+ profession matches your experience (fleet management and vehicle telematics)"
-      ],
-      "warnings": [
-        "No explicit language requirements stated",
-        "No experience or degree requirements mentioned",
-        "International recruitment implied but visa/work authorization not addressed"
-      ],
-      "job_profile": {
-        "profession": "fleet management and vehicle telematics",
-        "management_level": null,
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "No explicit language requirements stated",
-          "No experience or degree requirements mentioned",
-          "International recruitment implied but visa/work authorization not addressed"
-        ]
-      }
-    },
-    {
-      "title": "Safety Manager (Deputy Head of Safety) (re-advertisement)",
-      "org": "Danish Refugee Council",
-      "country": "Ukraine",
-      "url": "https://reliefweb.int/job/4222327/safety-manager-deputy-head-safety-re-advertisement",
-      "posted": "2026-07-21T14:30:19+00:00",
-      "closing": "2026-08-31T00:00:00+00:00",
-      "category": "Monitoring and Evaluation",
-      "score": 42,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ area manager",
-        "+ international recruitment|internationall",
-        "+ family (duty station|package)",
-        "+ experience matches (15y vs 5y required)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Position based in Kyiv, Ukraine - high risk context",
-        "Requires minimum 5 years experience in security management with 3 years as Security Manager/Advisor for NGO in high risk context"
-      ],
-      "job_profile": {
-        "profession": "safety and security",
-        "management_level": "manager",
-        "years_experience_required": 5,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [
-          "Ukrainian",
-          "English"
-        ],
-        "international_recruitment": true,
-        "warnings": [
-          "Position based in Kyiv, Ukraine - high risk context",
-          "Requires minimum 5 years experience in security management with 3 years as Security Manager/Advisor for NGO in high risk context"
-        ]
-      }
-    }
-  ]
+  "near_misses": [],
+  "jobs": []
 }
