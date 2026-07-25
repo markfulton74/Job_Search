@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-24T07:37:54.061Z",
+  "generated_at": "2026-07-25T07:29:41.165Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 0,
-    "hidden_hard_reject": 0,
-    "hidden_national_restriction": 6,
-    "hidden_low_score": 54,
+    "hidden_hard_reject": 2,
+    "hidden_national_restriction": 0,
+    "hidden_low_score": 58,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
@@ -15,46 +15,26 @@
     "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match (research)": 2,
-    "Low match (programme management)": 10,
-    "Low match (human resources)": 3,
-    "Low match (supply chain)": 1,
-    "Low match (engineering)": 1,
-    "Low match (policy research)": 1,
-    "National-only": 6,
-    "Low match (grants and partnership management)": 1,
-    "Low match (monitoring and evaluation)": 5,
-    "Low match (compliance)": 1,
-    "Low match (monitoring, evaluation and learning)": 1,
-    "Low match (grants management / programme management)": 1,
-    "Low match (media and communications)": 1,
-    "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
-    "Low match (security and access management)": 1,
-    "Low match (finance and human resources)": 1,
-    "Low match (field coordination)": 1,
-    "Low match (hospital management)": 1,
-    "Low match (finance)": 1,
-    "Low match (education)": 1,
-    "Low match (communications / media production)": 1,
-    "Low match (support services)": 1,
-    "Low match (protection)": 1,
-    "Low match (knowledge management)": 1,
-    "Low match (WASH & Shelter Engineering)": 1,
-    "Low match (videography / documentary production)": 1,
-    "Low match (project management)": 1,
-    "Low match (public health epidemiology)": 1,
-    "Low match (risk education)": 1,
-    "Low match (education programme evaluation)": 1,
-    "Low match (food security analysis)": 1,
-    "Low match (debris and rubble management)": 1,
-    "Low match (archaeology)": 1,
-    "Low match (social and behavioural change)": 1,
-    "Low match (business development)": 1,
-    "Low match (health and wash coordination)": 1,
-    "Low match (human resources and administration)": 1,
-    "Low match (finance and administration)": 1,
-    "Low match (logistics)": 1
+    "Low match": 58,
+    "Internal/restricted recruitment": 2
   },
-  "near_misses": [],
+  "near_misses": [
+    {
+      "title": "Field Coordinator – Phone Surveys",
+      "score": 26,
+      "reasons": [
+        "+ field coordinator (title)",
+        "- research"
+      ]
+    },
+    {
+      "title": "Field Coordinator – Phone Surveys",
+      "score": 26,
+      "reasons": [
+        "+ field coordinator (title)",
+        "- research"
+      ]
+    }
+  ],
   "jobs": []
 }
