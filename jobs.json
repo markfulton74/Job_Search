@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-25T07:29:41.165Z",
+  "generated_at": "2026-07-26T07:47:17.283Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 0,
-    "hidden_hard_reject": 2,
-    "hidden_national_restriction": 0,
-    "hidden_low_score": 58,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 1,
+    "hidden_low_score": 59,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
@@ -15,12 +15,12 @@
     "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match": 58,
-    "Internal/restricted recruitment": 2
+    "Low match": 59,
+    "National-only": 1
   },
   "near_misses": [
     {
-      "title": "Field Coordinator – Phone Surveys",
+      "title": "Field Coordinator– Quantitative Survey in Sudan",
       "score": 26,
       "reasons": [
         "+ field coordinator (title)",
@@ -28,10 +28,27 @@
       ]
     },
     {
-      "title": "Field Coordinator – Phone Surveys",
+      "title": "Field Coordinator (Syrian Arabic-Speaking) – Phone Survey with Syrian Refugees",
       "score": 26,
       "reasons": [
         "+ field coordinator (title)",
+        "- research"
+      ]
+    },
+    {
+      "title": "Dari-Speaking Field Coordinator – Phone Surveys",
+      "score": 26,
+      "reasons": [
+        "+ field coordinator (title)",
+        "- research"
+      ]
+    },
+    {
+      "title": "ICTJ Field Coordinator – Chad program",
+      "score": 20,
+      "reasons": [
+        "+ field coordinator (title)",
+        "- education",
         "- research"
       ]
     }
