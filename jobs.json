@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:39:33.807Z",
+  "generated_at": "2026-07-28T07:44:07.007Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -30,9 +30,8 @@
     "Low match (grants management)": 2,
     "Low match (finance)": 3,
     "National-only": 1,
-    "Low match (procurement)": 1,
+    "Low match (logistics)": 2,
     "Low match (communications)": 1,
-    "Low match (logistics)": 1,
     "Low match (consultancy)": 2,
     "Low match (driver)": 1,
     "Low match (food security analysis)": 1,
@@ -46,7 +45,7 @@
     "Low match (engineering)": 2,
     "Low match (IT project management)": 1,
     "Low match (nutrition and health)": 1,
-    "Low match (counter-terrorism)": 1,
+    "Low match (counter-terrorism advisory)": 1,
     "Low match (fundraising operations)": 1,
     "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
     "Low match (health safety and environment)": 1,
@@ -63,6 +62,14 @@
         "- may be overqualified (15y vs 2y required)",
         "+ profession matches your experience (logistics)",
         "+ management level matches"
+      ]
+    },
+    {
+      "title": "CONVOCATORIA A LICITACIÓN – SERVICIOS DE GESTIÓN DE VIAJES CORPORATIVOS PARA LA REGIÓN DE LAS AMÉRICAS (ROA)",
+      "score": 25,
+      "reasons": [
+        "+ profession matches your experience (logistics)",
+        "- somewhat senior for this level"
       ]
     },
     {
@@ -83,14 +90,6 @@
         "- education",
         "+ degree can be substituted by experience -- good fit",
         "+ profession matches your preferred field (fundraising operations)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "CONVOCATORIA A LICITACIÓN – SERVICIOS DE GESTIÓN DE VIAJES CORPORATIVOS PARA LA REGIÓN DE LAS AMÉRICAS (ROA)",
-      "score": 15,
-      "reasons": [
-        "+ profession matches your experience (procurement)",
         "- significantly overqualified for this level"
       ]
     }
