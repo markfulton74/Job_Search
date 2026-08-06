@@ -1,145 +1,189 @@
 {
-  "generated_at": "2026-08-04T07:45:20.220Z",
+  "generated_at": "2026-08-06T07:45:53.299Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 1,
-    "hidden_hard_reject": 2,
-    "hidden_national_restriction": 3,
-    "hidden_low_score": 54,
+    "displayed": 2,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 5,
+    "hidden_low_score": 53,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 1,
-    "average_score": 58,
-    "best_match_today": "Fertilizer Procurement Associate (One Acre Fund)"
+    "review_matches": 0,
+    "average_score": 47,
+    "best_match_today": "Senior Operations Manager for Sudan, Roving (IMPACT Initiatives)"
   },
   "hidden_breakdown": {
-    "Low match (data analysis)": 1,
-    "Low match (shelter/programme)": 1,
-    "Low match (governance and institutional development consultancy)": 1,
-    "Low match (audit and compliance)": 1,
-    "Low match (consultancy)": 2,
-    "Low match (finance)": 5,
+    "Low match (cleaning)": 1,
+    "Low match (security)": 1,
+    "Low match (finance)": 9,
     "Low match (human resources)": 4,
-    "Low match (social work)": 1,
-    "Low match (financial sustainability and resource mobilization consulting)": 1,
-    "Internal/restricted recruitment": 2,
-    "Low match (humanitarian affairs)": 5,
-    "Low match (electrical technician)": 1,
-    "Low match (project management)": 1,
-    "Low match (supply chain management)": 1,
+    "Low match (IT Program Management and Business Analysis)": 1,
+    "Low match (nutrition)": 1,
+    "Low match (evaluation)": 1,
+    "National-only": 5,
+    "Low match (humanitarian research and communication)": 1,
+    "Low match (programme management)": 6,
+    "Low match (laboratory systems and diagnostics)": 1,
+    "Low match (monitoring and evaluation)": 1,
     "Low match (audit)": 1,
-    "Low match (programme management)": 5,
-    "Low match (pharmacy management)": 1,
-    "Low match (volunteer)": 1,
+    "Low match (executive support / business development)": 1,
+    "Low match (facilitation)": 1,
+    "Low match (reporting and documentation)": 1,
+    "Low match (governance and peacebuilding)": 1,
+    "Low match (administration)": 1,
+    "Low match (sales management)": 1,
+    "Low match (procurement)": 1,
+    "Low match (product operations)": 1,
+    "Low match (office management)": 1,
+    "Low match (accounting)": 1,
+    "Low match (public health / health promotion)": 1,
+    "Low match (shelter/programme management)": 1,
+    "Low match (shelter)": 1,
+    "Low match (programme administration and logistics)": 1,
+    "Low match (humanitarian mine action and advocacy)": 1,
+    "Low match (nursing)": 1,
+    "Low match (finance and administration)": 1,
+    "Low match (policing / law enforcement capacity development)": 1,
+    "Low match (midwifery)": 1,
     "Low match (medical)": 1,
-    "Low match (conservation research)": 2,
-    "National-only": 3,
-    "Low match (logistics)": 1,
-    "Low match (training and capacity development)": 1,
-    "Low match (data management)": 1,
-    "Low match (grants management and compliance)": 1,
-    "Low match (policy and advocacy)": 1,
-    "Low match (safeguarding and programme management)": 1,
-    "Low match (humanitarian security management)": 1,
-    "Low match (administration)": 2,
-    "Low match (business development)": 1,
-    "Low match (maintenance/civil engineering)": 1,
-    "Low match (accounting)": 2,
-    "Low match (media)": 1,
-    "Low match (development/fundraising)": 1,
-    "Low match (evaluation consultant)": 1,
-    "Low match (project management / financial management)": 1,
-    "Low match (public health / emergency response)": 1
+    "Low match (procurement/supply chain)": 1,
+    "Low match (procurement and supply chain)": 1,
+    "Low match (evaluation/consultancy)": 1,
+    "Low match (liaison)": 1,
+    "Low match (safety and security)": 1
   },
   "near_misses": [
     {
-      "title": "ASISTENTE DE TRANSPARENCIA Y CONFORMIDAD",
-      "score": 35,
+      "title": "Call for Tenders for the Supply and Delivery of Food Assistance Kits",
+      "score": 23,
       "reasons": [
-        "- may be overqualified (15y vs 1y required)",
-        "+ education field aligned (accounting or administration)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (audit and compliance)",
-        "- significantly overqualified for this level"
+        "+ transport",
+        "+ procurement",
+        "- legal",
+        "+ profession matches your experience (procurement/supply chain)"
       ]
     },
     {
-      "title": "Supply Chain Assistant (Syria - Lattakia)",
-      "score": 20,
+      "title": "Officer, Procurement",
+      "score": 21,
       "reasons": [
-        "+ supply chain manager",
         "+ transport",
         "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "- medical",
-        "- education",
-        "- may be overqualified (15y vs 2y required)",
-        "+ education field aligned (health sector, Business Administration, or related field)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
+        "+ supply chain",
+        "+ procurement (title)",
+        "- finance",
+        "- research",
+        "- nutrition",
+        "+ profession matches your experience (procurement)",
         "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Regional Advisor for Humanitarian Access & Risk for Africa (F/M) - Nigeria or Ethiopia",
-      "score": 17,
+      "title": "Product Operations Lead (Fixed-Term)",
+      "score": 19,
       "reasons": [
-        "- medical",
-        "+ education field aligned (humanitarian security, security management, or related field)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ slightly senior for this level -- likely fine"
+        "+ logistics",
+        "+ profession matches your preferred field (product operations)",
+        "- somewhat senior for this level"
       ]
     },
     {
-      "title": "RFP - Mid-Term Review and Governance Capability Development for the Transport and Infrastructure Sector",
-      "score": 16,
+      "title": "Call for Tenders for the Supply and Delivery of Seeds and agricultural Kits",
+      "score": 18,
       "reasons": [
-        "+ transport (title)",
+        "+ transport",
+        "+ procurement",
+        "- legal",
+        "+ profession matches your experience (procurement and supply chain)",
         "- somewhat senior for this level"
       ]
     }
   ],
   "jobs": [
     {
-      "title": "Fertilizer Procurement Associate",
-      "org": "One Acre Fund",
-      "country": "Kenya",
-      "url": "https://reliefweb.int/job/4224218/fertilizer-procurement-associate",
-      "posted": "2026-08-04T05:26:07+00:00",
-      "closing": "2026-09-16T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 58,
+      "title": "Senior Operations Manager for Sudan, Roving",
+      "org": "IMPACT Initiatives",
+      "country": "Sudan",
+      "url": "https://reliefweb.int/job/4224428/senior-operations-manager-sudan-roving",
+      "posted": "2026-08-05T08:37:45+00:00",
+      "closing": "2026-08-31T00:00:00+00:00",
+      "category": "Program/Project Management",
+      "score": 51,
       "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
+        "label": "Low match",
+        "tier": "skip"
       },
       "reasons": [
-        "+ supply chain",
-        "+ procurement (title)",
-        "+ profession matches your experience (procurement)",
-        "+ slightly senior for this level -- likely fine"
+        "+ operations manager (title)",
+        "+ transport",
+        "- education",
+        "- research",
+        "- monitoring and evaluation",
+        "+ profession matches your preferred field (operations management)",
+        "+ management level matches"
       ],
       "warnings": [
-        "Location not specified; may require relocation to one of the nine African countries where One Acre Fund operates.",
-        "Language requirements not stated; may need local language depending on country.",
-        "Visa status unclear for international applicants."
+        "Location is Sudan, a high-risk environment with active conflict",
+        "Contract duration is only 6 months",
+        "Roving position may require frequent travel within Sudan",
+        "No explicit mention of visa or work permit support",
+        "Language requirements not specified; English likely required but not stated"
       ],
       "job_profile": {
-        "profession": "procurement",
-        "management_level": "manager",
+        "profession": "operations management",
+        "management_level": "senior_manager",
         "years_experience_required": null,
         "degree_required": null,
         "education_field": null,
         "languages_required": [],
         "international_recruitment": true,
         "warnings": [
-          "Location not specified; may require relocation to one of the nine African countries where One Acre Fund operates.",
-          "Language requirements not stated; may need local language depending on country.",
-          "Visa status unclear for international applicants."
+          "Location is Sudan, a high-risk environment with active conflict",
+          "Contract duration is only 6 months",
+          "Roving position may require frequent travel within Sudan",
+          "No explicit mention of visa or work permit support",
+          "Language requirements not specified; English likely required but not stated"
+        ]
+      }
+    },
+    {
+      "title": "Volunteer Logistics Assistant",
+      "org": "Lifting Hands International",
+      "country": "Greece",
+      "url": "https://reliefweb.int/job/4224347/volunteer-logistics-assistant",
+      "posted": "2026-08-05T12:20:19+00:00",
+      "closing": "2026-08-25T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 43,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ logistics manager",
+        "+ logistics (title)",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
+      ],
+      "warnings": [
+        "Volunteer position, not paid",
+        "Location in Greece, visa/work permit not mentioned",
+        "Requires valid driving licence, may need international permit"
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "entry",
+        "years_experience_required": null,
+        "degree_required": "none",
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": true,
+        "warnings": [
+          "Volunteer position, not paid",
+          "Location in Greece, visa/work permit not mentioned",
+          "Requires valid driving licence, may need international permit"
         ]
       }
     }
