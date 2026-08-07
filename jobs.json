@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:45:53.299Z",
+  "generated_at": "2026-08-07T06:13:34.089Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -19,8 +19,8 @@
     "Low match (security)": 1,
     "Low match (finance)": 9,
     "Low match (human resources)": 4,
-    "Low match (IT Program Management and Business Analysis)": 1,
-    "Low match (nutrition)": 1,
+    "Low match (IT project management and business analysis)": 1,
+    "Low match (nutrition and social protection)": 1,
     "Low match (evaluation)": 1,
     "National-only": 5,
     "Low match (humanitarian research and communication)": 1,
@@ -66,6 +66,16 @@
       ]
     },
     {
+      "title": "Call for Tenders for the Supply and Delivery of Seeds and agricultural Kits",
+      "score": 23,
+      "reasons": [
+        "+ transport",
+        "+ procurement",
+        "- legal",
+        "+ profession matches your experience (procurement and supply chain)"
+      ]
+    },
+    {
       "title": "Officer, Procurement",
       "score": 21,
       "reasons": [
@@ -86,17 +96,6 @@
       "reasons": [
         "+ logistics",
         "+ profession matches your preferred field (product operations)",
-        "- somewhat senior for this level"
-      ]
-    },
-    {
-      "title": "Call for Tenders for the Supply and Delivery of Seeds and agricultural Kits",
-      "score": 18,
-      "reasons": [
-        "+ transport",
-        "+ procurement",
-        "- legal",
-        "+ profession matches your experience (procurement and supply chain)",
         "- somewhat senior for this level"
       ]
     }
@@ -125,11 +124,10 @@
         "+ management level matches"
       ],
       "warnings": [
-        "Location is Sudan, a high-risk environment with active conflict",
+        "Location is Sudan, roving, which is a high-risk environment",
         "Contract duration is only 6 months",
-        "Roving position may require frequent travel within Sudan",
-        "No explicit mention of visa or work permit support",
-        "Language requirements not specified; English likely required but not stated"
+        "No specific degree or years of experience stated, but 'strong operational background' is required",
+        "Language requirements not specified; may need to infer from context"
       ],
       "job_profile": {
         "profession": "operations management",
@@ -140,11 +138,10 @@
         "languages_required": [],
         "international_recruitment": true,
         "warnings": [
-          "Location is Sudan, a high-risk environment with active conflict",
+          "Location is Sudan, roving, which is a high-risk environment",
           "Contract duration is only 6 months",
-          "Roving position may require frequent travel within Sudan",
-          "No explicit mention of visa or work permit support",
-          "Language requirements not specified; English likely required but not stated"
+          "No specific degree or years of experience stated, but 'strong operational background' is required",
+          "Language requirements not specified; may need to infer from context"
         ]
       }
     },
@@ -170,7 +167,7 @@
       "warnings": [
         "Volunteer position, not paid",
         "Location in Greece, visa/work permit not mentioned",
-        "Requires valid driving licence, may need international permit"
+        "Requires valid driving licence, may need to be valid in Greece"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -183,7 +180,7 @@
         "warnings": [
           "Volunteer position, not paid",
           "Location in Greece, visa/work permit not mentioned",
-          "Requires valid driving licence, may need international permit"
+          "Requires valid driving licence, may need to be valid in Greece"
         ]
       }
     }
