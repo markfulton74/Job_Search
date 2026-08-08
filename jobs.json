@@ -1,186 +1,213 @@
 {
-  "generated_at": "2026-08-07T06:13:34.089Z",
+  "generated_at": "2026-08-08T05:48:11.618Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 2,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 5,
-    "hidden_low_score": 53,
+    "hidden_national_restriction": 0,
+    "hidden_low_score": 58,
     "excellent_matches": 0,
-    "strong_matches": 0,
+    "strong_matches": 1,
     "review_matches": 0,
-    "average_score": 47,
-    "best_match_today": "Senior Operations Manager for Sudan, Roving (IMPACT Initiatives)"
+    "average_score": 57,
+    "best_match_today": "Logistics Officer - Fleet & Asset Management (Plan International)"
   },
   "hidden_breakdown": {
-    "Low match (cleaning)": 1,
-    "Low match (security)": 1,
-    "Low match (finance)": 9,
     "Low match (human resources)": 4,
-    "Low match (IT project management and business analysis)": 1,
-    "Low match (nutrition and social protection)": 1,
-    "Low match (evaluation)": 1,
-    "National-only": 5,
-    "Low match (humanitarian research and communication)": 1,
-    "Low match (programme management)": 6,
-    "Low match (laboratory systems and diagnostics)": 1,
-    "Low match (monitoring and evaluation)": 1,
-    "Low match (audit)": 1,
-    "Low match (executive support / business development)": 1,
-    "Low match (facilitation)": 1,
-    "Low match (reporting and documentation)": 1,
-    "Low match (governance and peacebuilding)": 1,
-    "Low match (administration)": 1,
-    "Low match (sales management)": 1,
-    "Low match (procurement)": 1,
-    "Low match (product operations)": 1,
-    "Low match (office management)": 1,
-    "Low match (accounting)": 1,
-    "Low match (public health / health promotion)": 1,
-    "Low match (shelter/programme management)": 1,
-    "Low match (shelter)": 1,
-    "Low match (programme administration and logistics)": 1,
-    "Low match (humanitarian mine action and advocacy)": 1,
-    "Low match (nursing)": 1,
-    "Low match (finance and administration)": 1,
-    "Low match (policing / law enforcement capacity development)": 1,
-    "Low match (midwifery)": 1,
+    "Low match (logistics)": 1,
+    "Low match (legal)": 1,
+    "Low match (supply chain / asset management)": 1,
+    "Low match (programme management)": 11,
+    "Low match (WASH (Water, Sanitation, and Hygiene) and Climate Health)": 1,
+    "Low match (finance)": 3,
+    "Low match (MEAL and Project Development)": 1,
+    "Low match (field operations / programme management)": 1,
+    "Low match (fundraising operations)": 1,
     "Low match (medical)": 1,
-    "Low match (procurement/supply chain)": 1,
-    "Low match (procurement and supply chain)": 1,
-    "Low match (evaluation/consultancy)": 1,
-    "Low match (liaison)": 1,
-    "Low match (safety and security)": 1
+    "Low match (data analysis)": 1,
+    "Low match (field research / data collection)": 1,
+    "Low match (research / survey management)": 1,
+    "Low match (quantitative research / statistics / sampling)": 1,
+    "Low match (casework)": 1,
+    "Low match (business development / SME advisory)": 1,
+    "Low match (business development)": 1,
+    "Low match (marketing and packaging)": 1,
+    "Low match (training and capacity building)": 1,
+    "Low match (humanitarian affairs)": 1,
+    "Low match (data science / AI and machine learning)": 1,
+    "Low match (finance and administration)": 1,
+    "Low match (communication and research)": 1,
+    "Low match (finance and human resources management)": 1,
+    "Low match (research management)": 1,
+    "Low match (humanitarian mine action)": 1,
+    "Low match (construction)": 1,
+    "Low match (research/evaluation)": 1,
+    "Low match (nursing)": 1,
+    "Low match (accountability and transparency)": 1,
+    "Low match (accountability and compliance investigations)": 1,
+    "Low match (procurement and grants management)": 1,
+    "Low match (driver)": 1,
+    "Low match (compliance/audit)": 1,
+    "Low match (pharmacy)": 1,
+    "Low match (compliance)": 1,
+    "Low match (knowledge management)": 1,
+    "Low match (training and development)": 1,
+    "Low match (event management and logistics)": 1,
+    "Low match (information technology)": 1,
+    "Low match (training and education services)": 1,
+    "Low match (investigation)": 1
   },
   "near_misses": [
     {
-      "title": "Call for Tenders for the Supply and Delivery of Food Assistance Kits",
-      "score": 23,
+      "title": "ASISTENTE DE TRANSPARENCIA Y CONFORMIDAD CARACAS - (PROFESIONAL JUNIOR -SOLO PERSONAL LOCAL)",
+      "score": 35,
       "reasons": [
-        "+ transport",
-        "+ procurement",
-        "- legal",
-        "+ profession matches your experience (procurement/supply chain)"
-      ]
-    },
-    {
-      "title": "Call for Tenders for the Supply and Delivery of Seeds and agricultural Kits",
-      "score": 23,
-      "reasons": [
-        "+ transport",
-        "+ procurement",
-        "- legal",
-        "+ profession matches your experience (procurement and supply chain)"
-      ]
-    },
-    {
-      "title": "Officer, Procurement",
-      "score": 21,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ supply chain",
-        "+ procurement (title)",
-        "- finance",
-        "- research",
-        "- nutrition",
-        "+ profession matches your experience (procurement)",
+        "- may be overqualified (15y vs 1y required)",
+        "+ education field aligned (accounting or administration)",
+        "+ degree can be substituted by experience -- good fit",
+        "+ profession matches your experience (compliance/audit)",
         "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Product Operations Lead (Fixed-Term)",
-      "score": 19,
+      "title": "Logistics Assistant (Incentive Worker)-Damascus",
+      "score": 24,
       "reasons": [
+        "+ supply chain manager",
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- finance",
+        "- medical",
+        "- meal",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "Area Manager Chad Iriba",
+      "score": 18,
+      "reasons": [
+        "+ area manager (title)",
+        "- finance",
+        "- may be overqualified (15y vs 3y required)",
+        "+ education field aligned (Social Sciences, Economics, Administration, or related field)",
+        "- requires bachelor's degree",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Call for Expressions of Interest - Event Management and Logistical Support Services for an Expert Workshop in Beirut",
+      "score": 18,
+      "reasons": [
+        "+ transport",
         "+ logistics",
-        "+ profession matches your preferred field (product operations)",
+        "- legal",
+        "+ profession matches your experience (event management and logistics)",
         "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Procurement and Grants Officer",
+      "score": 15,
+      "reasons": [
+        "+ procurement (title)",
+        "- finance",
+        "- research",
+        "- monitoring and evaluation",
+        "+ profession matches your experience (procurement and grants management)",
+        "- significantly overqualified for this level"
       ]
     }
   ],
   "jobs": [
     {
-      "title": "Senior Operations Manager for Sudan, Roving",
-      "org": "IMPACT Initiatives",
-      "country": "Sudan",
-      "url": "https://reliefweb.int/job/4224428/senior-operations-manager-sudan-roving",
-      "posted": "2026-08-05T08:37:45+00:00",
-      "closing": "2026-08-31T00:00:00+00:00",
-      "category": "Program/Project Management",
-      "score": 51,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ operations manager (title)",
-        "+ transport",
-        "- education",
-        "- research",
-        "- monitoring and evaluation",
-        "+ profession matches your preferred field (operations management)",
-        "+ management level matches"
-      ],
-      "warnings": [
-        "Location is Sudan, roving, which is a high-risk environment",
-        "Contract duration is only 6 months",
-        "No specific degree or years of experience stated, but 'strong operational background' is required",
-        "Language requirements not specified; may need to infer from context"
-      ],
-      "job_profile": {
-        "profession": "operations management",
-        "management_level": "senior_manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Location is Sudan, roving, which is a high-risk environment",
-          "Contract duration is only 6 months",
-          "No specific degree or years of experience stated, but 'strong operational background' is required",
-          "Language requirements not specified; may need to infer from context"
-        ]
-      }
-    },
-    {
-      "title": "Volunteer Logistics Assistant",
-      "org": "Lifting Hands International",
-      "country": "Greece",
-      "url": "https://reliefweb.int/job/4224347/volunteer-logistics-assistant",
-      "posted": "2026-08-05T12:20:19+00:00",
-      "closing": "2026-08-25T00:00:00+00:00",
+      "title": "Logistics Officer - Fleet & Asset Management",
+      "org": "Plan International",
+      "country": "Kenya",
+      "url": "https://reliefweb.int/job/4224683/logistics-officer-fleet-asset-management",
+      "posted": "2026-08-06T15:45:19+00:00",
+      "closing": "2026-08-20T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 43,
+      "score": 71,
       "verdict": {
-        "label": "Low match",
-        "tier": "skip"
+        "label": "Strong match",
+        "tier": "strong"
       },
       "reasons": [
-        "+ logistics manager",
+        "+ supply chain manager",
+        "+ transport",
         "+ logistics (title)",
+        "+ supply chain",
+        "+ fleet (title)",
         "+ profession matches your experience (logistics)",
         "- significantly overqualified for this level"
       ],
       "warnings": [
-        "Volunteer position, not paid",
-        "Location in Greece, visa/work permit not mentioned",
-        "Requires valid driving licence, may need to be valid in Greece"
+        "Location not specified (MEESA region implied)",
+        "No explicit language requirements stated",
+        "No explicit degree or experience requirements stated"
       ],
       "job_profile": {
         "profession": "logistics",
-        "management_level": "entry",
+        "management_level": "officer",
         "years_experience_required": null,
-        "degree_required": "none",
+        "degree_required": null,
         "education_field": null,
         "languages_required": [],
+        "international_recruitment": null,
+        "warnings": [
+          "Location not specified (MEESA region implied)",
+          "No explicit language requirements stated",
+          "No explicit degree or experience requirements stated"
+        ]
+      }
+    },
+    {
+      "title": "MANAGER LOGISTIQUE - RENFORCEMENT DES CAPACITES - République Démocratique du Congo",
+      "org": "Humanity & Inclusion",
+      "country": "Democratic Republic of the Congo",
+      "url": "https://reliefweb.int/job/4224824/manager-logistique-renforcement-des-capacites-republique-democratique-du-congo",
+      "posted": "2026-08-07T14:59:50+00:00",
+      "closing": "2026-08-28T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 42,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ logistics",
+        "+ \\br&r\\b",
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "Job posting is in French; French language proficiency is implied but not explicitly stated as mandatory.",
+        "Contract duration is only 3 months, which may affect visa and relocation feasibility.",
+        "Location is Goma, DRC, a volatile security context; security risks may be a concern.",
+        "Specific years of experience and degree requirements are not stated in the provided excerpt."
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "manager",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [
+          "French"
+        ],
         "international_recruitment": true,
         "warnings": [
-          "Volunteer position, not paid",
-          "Location in Greece, visa/work permit not mentioned",
-          "Requires valid driving licence, may need to be valid in Greece"
+          "Job posting is in French; French language proficiency is implied but not explicitly stated as mandatory.",
+          "Contract duration is only 3 months, which may affect visa and relocation feasibility.",
+          "Location is Goma, DRC, a volatile security context; security risks may be a concern.",
+          "Specific years of experience and degree requirements are not stated in the provided excerpt."
         ]
       }
     }
