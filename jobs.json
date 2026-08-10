@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T05:52:35.054Z",
+  "generated_at": "2026-08-10T06:17:20.965Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,13 +15,16 @@
     "best_match_today": "Logistics Officer - Fleet & Asset Management (Plan International)"
   },
   "hidden_breakdown": {
+    "Low match (finance)": 4,
+    "Low match (communication)": 1,
+    "Low match (programme management)": 12,
+    "Low match (electrical engineering)": 1,
+    "Low match (mechanical engineering)": 1,
     "Low match (human resources)": 4,
     "Low match (logistics)": 1,
     "Low match (legal)": 1,
     "Low match (supply chain / asset management)": 1,
-    "Low match (programme management)": 11,
-    "Low match (WASH (Water, Sanitation, and Hygiene) and Climate Health)": 1,
-    "Low match (finance)": 3,
+    "Low match (WASH (Water, Sanitation and Hygiene) and Climate Health)": 1,
     "Low match (MEAL and Project Development)": 1,
     "Low match (field operations / programme management)": 1,
     "Low match (fundraising operations)": 1,
@@ -30,7 +33,7 @@
     "Low match (field research / data collection)": 1,
     "Low match (research / survey management)": 1,
     "Low match (quantitative research / statistics / sampling)": 1,
-    "Low match (social work / case management)": 1,
+    "Low match (casework)": 1,
     "Low match (business development / SME advisory)": 1,
     "Low match (business development)": 1,
     "Low match (marketing and packaging)": 1,
@@ -52,12 +55,7 @@
     "Low match (compliance/audit)": 1,
     "Low match (pharmacy)": 1,
     "Low match (compliance)": 1,
-    "Low match (knowledge management)": 1,
-    "Low match (training and development)": 1,
-    "Low match (event management and logistics)": 1,
-    "Low match (information technology)": 1,
-    "Low match (training and education services)": 1,
-    "Low match (investigation)": 1
+    "Low match (knowledge management)": 1
   },
   "near_misses": [
     {
@@ -102,17 +100,6 @@
       ]
     },
     {
-      "title": "Call for Expressions of Interest - Event Management and Logistical Support Services for an Expert Workshop in Beirut",
-      "score": 18,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "- legal",
-        "+ profession matches your experience (event management and logistics)",
-        "- somewhat senior for this level"
-      ]
-    },
-    {
       "title": "Procurement and Grants Officer",
       "score": 15,
       "reasons": [
@@ -149,9 +136,9 @@
         "- significantly overqualified for this level"
       ],
       "warnings": [
-        "Location not specified (MEESA region implied)",
+        "Location not specified, likely in MEESA region",
         "No explicit language requirements stated",
-        "No explicit degree or experience requirements stated"
+        "No degree or experience requirements stated"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -162,9 +149,9 @@
         "languages_required": [],
         "international_recruitment": null,
         "warnings": [
-          "Location not specified (MEESA region implied)",
+          "Location not specified, likely in MEESA region",
           "No explicit language requirements stated",
-          "No explicit degree or experience requirements stated"
+          "No degree or experience requirements stated"
         ]
       }
     },
@@ -188,9 +175,10 @@
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Job posting is in French; French language proficiency is implied.",
-        "Location is Goma, DRC, which may have security and visa considerations.",
-        "Contract duration is only 3 months, which may affect visa and relocation logistics."
+        "Contract duration is only 3 months",
+        "Location is Goma, DRC, a volatile security context",
+        "French language required, no mention of English",
+        "Visa and work permit details not specified"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -203,9 +191,10 @@
         ],
         "international_recruitment": true,
         "warnings": [
-          "Job posting is in French; French language proficiency is implied.",
-          "Location is Goma, DRC, which may have security and visa considerations.",
-          "Contract duration is only 3 months, which may affect visa and relocation logistics."
+          "Contract duration is only 3 months",
+          "Location is Goma, DRC, a volatile security context",
+          "French language required, no mention of English",
+          "Visa and work permit details not specified"
         ]
       }
     }
