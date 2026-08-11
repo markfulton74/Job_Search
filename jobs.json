@@ -1,74 +1,60 @@
 {
-  "generated_at": "2026-08-10T06:17:20.965Z",
+  "generated_at": "2026-08-11T05:58:56.869Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 2,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 0,
-    "hidden_low_score": 58,
+    "hidden_national_restriction": 2,
+    "hidden_low_score": 56,
     "excellent_matches": 0,
-    "strong_matches": 1,
+    "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 57,
-    "best_match_today": "Logistics Officer - Fleet & Asset Management (Plan International)"
+    "average_score": 43,
+    "best_match_today": "Logistics Coordinator - UKRAINE (H/F/X) (Croix-Rouge Française)"
   },
   "hidden_breakdown": {
+    "Low match (marine ecology and ecosystems management)": 1,
+    "Low match (cleaning and driving)": 1,
+    "Low match (medical content / digital health)": 1,
+    "Low match (supply chain management)": 2,
+    "Low match (education)": 1,
+    "Low match (finance and human resources management)": 1,
+    "Low match (programme management)": 13,
+    "Low match (WASH program management)": 1,
+    "Low match (information management)": 1,
+    "Low match (fundraising)": 1,
+    "Low match (grants management and compliance)": 1,
+    "National-only": 2,
+    "Low match (pharmacy)": 1,
+    "Low match (research and evaluation consultancy)": 1,
+    "Low match (ecological monitoring / conservation science)": 1,
+    "Low match (training and development)": 1,
+    "Low match (funding and compliance)": 1,
+    "Low match (accounting)": 1,
     "Low match (finance)": 4,
+    "Low match (procurement)": 1,
+    "Low match (human resources)": 3,
+    "Low match (engineering)": 1,
+    "Low match (logistics)": 2,
+    "Low match (data management)": 1,
+    "Low match (conservation / biodiversity monitoring)": 1,
+    "Low match (Monitoring, Evaluation, Accountability and Learning (MEAL))": 1,
+    "Low match (conservation biology / biodiversity monitoring)": 1,
+    "Low match (GIS)": 1,
+    "Low match (governance)": 1,
+    "Low match (public health)": 1,
+    "Low match (grants management)": 1,
     "Low match (communication)": 1,
-    "Low match (programme management)": 12,
     "Low match (electrical engineering)": 1,
     "Low match (mechanical engineering)": 1,
-    "Low match (human resources)": 4,
-    "Low match (logistics)": 1,
-    "Low match (legal)": 1,
-    "Low match (supply chain / asset management)": 1,
-    "Low match (WASH (Water, Sanitation and Hygiene) and Climate Health)": 1,
+    "Low match (WASH (Water, Sanitation, and Hygiene) and Climate Health)": 1,
     "Low match (MEAL and Project Development)": 1,
     "Low match (field operations / programme management)": 1,
-    "Low match (fundraising operations)": 1,
-    "Low match (medical)": 1,
-    "Low match (data analysis)": 1,
-    "Low match (field research / data collection)": 1,
-    "Low match (research / survey management)": 1,
-    "Low match (quantitative research / statistics / sampling)": 1,
-    "Low match (casework)": 1,
-    "Low match (business development / SME advisory)": 1,
-    "Low match (business development)": 1,
-    "Low match (marketing and packaging)": 1,
-    "Low match (training and capacity building)": 1,
-    "Low match (humanitarian affairs)": 1,
-    "Low match (data science / AI and machine learning)": 1,
-    "Low match (finance and administration)": 1,
-    "Low match (communication and research)": 1,
-    "Low match (finance and human resources management)": 1,
-    "Low match (research management)": 1,
-    "Low match (humanitarian mine action)": 1,
-    "Low match (construction)": 1,
-    "Low match (research/evaluation)": 1,
-    "Low match (nursing)": 1,
-    "Low match (accountability and transparency)": 1,
-    "Low match (accountability and compliance investigations)": 1,
-    "Low match (procurement and grants management)": 1,
-    "Low match (driver)": 1,
-    "Low match (compliance/audit)": 1,
-    "Low match (pharmacy)": 1,
-    "Low match (compliance)": 1,
-    "Low match (knowledge management)": 1
+    "Low match (fundraising operations)": 1
   },
   "near_misses": [
-    {
-      "title": "ASISTENTE DE TRANSPARENCIA Y CONFORMIDAD CARACAS - (PROFESIONAL JUNIOR -SOLO PERSONAL LOCAL)",
-      "score": 35,
-      "reasons": [
-        "- may be overqualified (15y vs 1y required)",
-        "+ education field aligned (accounting or administration)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (compliance/audit)",
-        "- significantly overqualified for this level"
-      ]
-    },
     {
       "title": "Logistics Assistant (Incentive Worker)-Damascus",
       "score": 24,
@@ -100,58 +86,79 @@
       ]
     },
     {
-      "title": "Procurement and Grants Officer",
+      "title": "Institutional Funding and Compliance Consultant (US & UN Portfolios)",
+      "score": 16,
+      "reasons": [
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement",
+        "+ fleet",
+        "- legal",
+        "- education",
+        "- human resources",
+        "+ profession matches your experience (funding and compliance)"
+      ]
+    },
+    {
+      "title": "Venezuela: Oficial de Compras (Caracas)",
       "score": 15,
       "reasons": [
-        "+ procurement (title)",
-        "- finance",
-        "- research",
-        "- monitoring and evaluation",
-        "+ profession matches your experience (procurement and grants management)",
+        "+ profession matches your experience (procurement)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "Vehicle Rental including Driver (monthly basis contract)-Raqqa",
+      "score": 15,
+      "reasons": [
+        "+ profession matches your experience (logistics)",
         "- significantly overqualified for this level"
       ]
     }
   ],
   "jobs": [
     {
-      "title": "Logistics Officer - Fleet & Asset Management",
-      "org": "Plan International",
-      "country": "Kenya",
-      "url": "https://reliefweb.int/job/4224683/logistics-officer-fleet-asset-management",
-      "posted": "2026-08-06T15:45:19+00:00",
-      "closing": "2026-08-20T00:00:00+00:00",
+      "title": "Logistics Coordinator - UKRAINE (H/F/X)",
+      "org": "Croix-Rouge Française",
+      "country": "Ukraine",
+      "url": "https://reliefweb.int/job/4225007/logistics-coordinator-ukraine-hfx",
+      "posted": "2026-08-10T13:05:05+00:00",
+      "closing": "2026-09-30T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 71,
+      "score": 43,
       "verdict": {
-        "label": "Strong match",
-        "tier": "strong"
+        "label": "Low match",
+        "tier": "skip"
       },
       "reasons": [
-        "+ supply chain manager",
-        "+ transport",
         "+ logistics (title)",
         "+ supply chain",
-        "+ fleet (title)",
+        "+ procurement",
+        "- finance",
+        "- education",
+        "+ experience matches (15y vs 5y required)",
+        "+ education field aligned (logistics, supply chain management, or related field)",
+        "- requires master's degree",
         "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
+        "- somewhat senior for this level"
       ],
       "warnings": [
-        "Location not specified, likely in MEESA region",
-        "No explicit language requirements stated",
-        "No degree or experience requirements stated"
+        "No language requirements specified, but French Red Cross may require French or English; unclear",
+        "Driving licence (manual gear) required",
+        "Position based in Ukraine, security risks due to conflict"
       ],
       "job_profile": {
         "profession": "logistics",
-        "management_level": "officer",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
+        "management_level": "coordinator",
+        "years_experience_required": 5,
+        "degree_required": "master",
+        "education_field": "logistics, supply chain management, or related field",
         "languages_required": [],
-        "international_recruitment": null,
+        "international_recruitment": true,
         "warnings": [
-          "Location not specified, likely in MEESA region",
-          "No explicit language requirements stated",
-          "No degree or experience requirements stated"
+          "No language requirements specified, but French Red Cross may require French or English; unclear",
+          "Driving licence (manual gear) required",
+          "Position based in Ukraine, security risks due to conflict"
         ]
       }
     },
@@ -176,7 +183,7 @@
       ],
       "warnings": [
         "Contract duration is only 3 months",
-        "Location is Goma, DRC, a volatile security context",
+        "Position based in Goma, DRC, a volatile security context",
         "French language required, no mention of English",
         "Visa and work permit details not specified"
       ],
@@ -192,7 +199,7 @@
         "international_recruitment": true,
         "warnings": [
           "Contract duration is only 3 months",
-          "Location is Goma, DRC, a volatile security context",
+          "Position based in Goma, DRC, a volatile security context",
           "French language required, no mention of English",
           "Visa and work permit details not specified"
         ]
