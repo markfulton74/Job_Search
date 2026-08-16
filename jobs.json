@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:32:27.251Z",
+  "generated_at": "2026-08-16T05:35:31.798Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,14 +15,16 @@
     "best_match_today": null
   },
   "hidden_breakdown": {
+    "Low match (procurement)": 2,
     "Low match (information security)": 1,
     "Low match (travel services)": 1,
     "Low match (Monitoring, Evaluation, Accountability and Learning (MEAL))": 1,
-    "Low match (programme management)": 7,
+    "Low match (programme management)": 6,
     "Low match (legal and policy)": 1,
     "Low match (safety and security)": 1,
     "Low match (mental health)": 1,
-    "Low match (evaluation)": 2,
+    "Low match (education evaluation)": 1,
+    "Low match (evaluation)": 1,
     "National-only": 4,
     "Low match (administration)": 1,
     "Low match (human resources)": 3,
@@ -47,15 +49,14 @@
     "Low match (training and capacity building)": 1,
     "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
     "Low match (research)": 1,
-    "Low match (procurement)": 1,
+    "Low match (gender equality and social inclusion)": 1,
     "Low match (business analysis)": 1,
-    "Low match (business intelligence)": 1,
+    "Low match (Business Intelligence)": 1,
     "Low match (security management)": 1,
     "Low match (partnerships and resource mobilization)": 1,
     "Low match (humanitarian affairs)": 1,
-    "Low match (evaluation/research)": 1,
+    "Low match (evaluation and research)": 1,
     "Low match (external relations and partnerships)": 1,
-    "Low match (driver)": 1,
     "Low match (MEAL (Monitoring, Evaluation, Accountability, and Learning))": 1
   },
   "near_misses": [
@@ -78,7 +79,7 @@
         "+ logistics",
         "+ procurement",
         "- education",
-        "- may be overqualified (15y vs 3y required)",
+        "- may be overqualified (15y vs 4y required)",
         "+ education field aligned (business administration)",
         "+ degree can be substituted by experience -- good fit",
         "+ profession matches your experience (administration)",
@@ -97,6 +98,13 @@
         "- requires bachelor's degree",
         "+ profession matches your experience (procurement)",
         "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "COL_ITB_BOG1_POP_Visibilidad_20260814",
+      "score": 30,
+      "reasons": [
+        "+ profession matches your experience (procurement)"
       ]
     },
     {
