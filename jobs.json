@@ -1,123 +1,118 @@
 {
-  "generated_at": "2026-08-18T05:37:04.133Z",
+  "generated_at": "2026-08-19T05:37:55.116Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 0,
+    "displayed": 1,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 4,
-    "hidden_low_score": 56,
+    "hidden_national_restriction": 1,
+    "hidden_low_score": 58,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 0,
-    "best_match_today": null
+    "average_score": 52,
+    "best_match_today": "Logistics & Procurement Officer - Emergency Response Roster Home (Community Organized Relief Effort)"
   },
   "hidden_breakdown": {
-    "Low match (fisheries and aquaculture programme management)": 1,
-    "Low match (finance)": 6,
-    "Low match (administration)": 2,
-    "Low match (community mobilization)": 1,
-    "Low match (education in emergencies)": 1,
-    "Low match (programme management)": 7,
-    "Low match (procurement)": 2,
-    "Low match (information security)": 1,
-    "Low match (travel services)": 1,
-    "Low match (Monitoring, Evaluation, Accountability and Learning (MEAL))": 1,
-    "Low match (legal and policy)": 1,
-    "Low match (safety and security)": 1,
-    "Low match (mental health)": 1,
-    "Low match (education evaluation)": 1,
-    "Low match (evaluation)": 1,
-    "National-only": 4,
-    "Low match (human resources)": 2,
-    "Low match (grants management)": 1,
-    "Low match (IT training and support)": 1,
-    "Low match (fundraising and partnerships)": 1,
-    "Low match (public health)": 1,
-    "Low match (advocacy)": 2,
-    "Low match (pharmacist)": 1,
-    "Low match (software development)": 2,
+    "Low match (programme management)": 14,
+    "Low match (project management)": 1,
+    "Low match (human resources)": 3,
+    "Low match (fisheries science)": 1,
+    "Low match (event management)": 1,
+    "Low match (audit)": 1,
     "Low match (information technology)": 1,
-    "Low match (data governance)": 1,
-    "Low match (evaluation/consultancy)": 1,
-    "Low match (monitoring and evaluation)": 1,
-    "Low match (education)": 1,
-    "Low match (logistics)": 1,
-    "Low match (community program volunteer)": 1,
-    "Low match (marine spatial modeling)": 1,
-    "Low match (mental health and psychosocial support (MHPSS))": 1,
-    "Low match (nursing)": 1,
-    "Low match (training and capacity building)": 1,
-    "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
-    "Low match (research)": 1,
-    "Low match (gender equality and social inclusion)": 1,
-    "Low match (business analysis)": 1,
-    "Low match (business intelligence)": 1,
-    "Low match (security management)": 1
+    "Low match (aviation / conservation pilot)": 1,
+    "Low match (humanitarian programme management)": 1,
+    "Low match (economic development / gender and market analysis)": 1,
+    "Low match (evaluation)": 1,
+    "Low match (strategic communications)": 1,
+    "Low match (humanitarian program management)": 1,
+    "Low match (shelter and settlements)": 1,
+    "National-only": 1,
+    "Low match (security training)": 1,
+    "Low match (training)": 1,
+    "Low match (communications)": 3,
+    "Low match (energy management)": 1,
+    "Low match (clinical research)": 1,
+    "Low match (finance)": 5,
+    "Low match (monitoring and evaluation)": 2,
+    "Low match (health programme support)": 1,
+    "Low match (evaluation consultant)": 1,
+    "Low match (business development)": 1,
+    "Low match (labour mobility specialist)": 1,
+    "Low match (administration)": 2,
+    "Low match (operations)": 1,
+    "Low match (administration and finance)": 1,
+    "Low match (migration data management)": 1,
+    "Low match (security risk management)": 1,
+    "Low match (operations and information technology)": 1,
+    "Low match (agriculture and rural development)": 1,
+    "Low match (legal)": 1,
+    "Low match (healthcare facility administration)": 1,
+    "Low match (research management)": 1
   },
   "near_misses": [
     {
-      "title": "Logistics & Facilities Manager",
-      "score": 39,
-      "reasons": [
-        "+ logistics (title)",
-        "+ fleet",
-        "- finance",
-        "- mental health",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Administrative Officer - Syria",
-      "score": 33,
+      "title": "HEAT & Security Training Expert",
+      "score": 18,
       "reasons": [
         "+ logistics",
-        "+ procurement",
-        "- education",
-        "- may be overqualified (15y vs 4y required)",
-        "+ education field aligned (business administration)",
+        "+ humanitarian operations",
+        "- research",
+        "+ education field aligned (security management, risk management, crisis management, humanitarian operations, military/police studies, emergency management, or another relevant discipline)",
         "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (administration)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Procurement Officer",
-      "score": 31,
-      "reasons": [
-        "+ procurement (title)",
-        "- finance",
-        "- education",
-        "+ experience matches (15y vs 6.5y required)",
-        "+ education field aligned (law, finance, procurement, administration, international relations, sustainable development)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (procurement)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "COL_ITB_BOG1_POP_Visibilidad_20260814",
-      "score": 30,
-      "reasons": [
-        "+ profession matches your experience (procurement)"
-      ]
-    },
-    {
-      "title": "Partnerships and Grants Manager",
-      "score": 15,
-      "reasons": [
-        "+ operations manager",
-        "+ procurement",
-        "- meal",
-        "+ experience matches (15y vs 6y required)",
-        "+ education field aligned (International Development, Business Administration, Political Science, or related field)",
-        "- requires bachelor's degree",
-        "+ slightly senior for this level -- likely fine"
+        "- somewhat senior for this level"
       ]
     }
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Logistics & Procurement Officer - Emergency Response Roster Home",
+      "org": "Community Organized Relief Effort",
+      "country": "Venezuela (Bolivarian Republic of)",
+      "url": "https://reliefweb.int/job/4226051/logistics-procurement-officer-emergency-response-roster-home",
+      "posted": "2026-08-18T13:58:00+00:00",
+      "closing": "2026-09-30T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 52,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement (title)",
+        "+ fleet",
+        "+ warehousing",
+        "- legal",
+        "- education",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
+      ],
+      "warnings": [
+        "On-call roster role, not full-time employment",
+        "Deployment to domestic and international emergency settings on short notice",
+        "No explicit language requirements stated, but international deployment may require additional languages",
+        "Visa and work authorization for deployments not specified"
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "officer",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": true,
+        "warnings": [
+          "On-call roster role, not full-time employment",
+          "Deployment to domestic and international emergency settings on short notice",
+          "No explicit language requirements stated, but international deployment may require additional languages",
+          "Visa and work authorization for deployments not specified"
+        ]
+      }
+    }
+  ]
 }
