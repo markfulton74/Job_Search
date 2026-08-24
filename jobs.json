@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:36:33.410Z",
+  "generated_at": "2026-08-24T05:45:44.104Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -10,72 +10,64 @@
     "hidden_low_score": 55,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 0,
-    "average_score": 46,
-    "best_match_today": "Administrative and Logistics Assistant - Venezuela (MENTOR Initiative)"
+    "review_matches": 1,
+    "average_score": 52,
+    "best_match_today": "LOGISTICS (Procurement) Assistant (Agency for Technical Cooperation and Development)"
   },
   "hidden_breakdown": {
-    "Low match (finance)": 5,
-    "Low match (programme management)": 14,
+    "Low match (public health / monitoring and evaluation)": 1,
+    "Low match (education sector consultancy)": 1,
+    "Low match (finance)": 6,
+    "Low match (business development)": 1,
+    "Low match (programme management)": 10,
     "Low match (public health / health workforce planning)": 1,
     "National-only": 2,
     "Low match (human resources)": 2,
     "Low match (public health / health programme management)": 1,
     "Low match (data management)": 1,
     "Low match (medical)": 1,
-    "Low match (agroforestry/programme management)": 1,
+    "Low match (agroforestry)": 1,
     "Low match (electrical engineering)": 1,
     "Low match (mechanical engineering)": 1,
-    "Low match (supply chain management)": 2,
-    "Low match (logistics)": 2,
+    "Low match (logistics)": 3,
     "Low match (community liaison / mine action)": 1,
     "Low match (audit)": 1,
+    "Low match (operations)": 1,
     "Low match (training and curriculum development)": 1,
     "Low match (grant management)": 1,
     "Low match (counter-terrorism)": 1,
     "Internal/restricted recruitment": 1,
     "Low match (information management)": 1,
-    "Low match (procurement / supply chain)": 1,
+    "Low match (supply chain / procurement)": 1,
     "Low match (monitoring and evaluation / research)": 1,
-    "Low match (WASH engineering)": 1,
+    "Low match (engineering)": 1,
     "Low match (administration)": 1,
-    "Low match (media and communications)": 1,
+    "Low match (media)": 1,
     "Low match (public health / maternal and child health)": 1,
     "Low match (mine action)": 1,
     "Low match (general services / facilities maintenance)": 1,
     "Low match (MEAL (Monitoring, Evaluation, Accountability, and Learning))": 1,
     "Low match (security management)": 1,
-    "Low match (protection (GBV))": 1,
+    "Low match (protection)": 1,
+    "Low match (supply chain management)": 1,
     "Low match (event management)": 1,
     "Low match (communications)": 1,
     "Low match (conservation research)": 1,
     "Low match (health and nutrition)": 1,
-    "Low match (MEAL and Compliance)": 1,
-    "Low match (supply chain / logistics)": 1
+    "Low match (MEAL and Compliance)": 1
   },
   "near_misses": [
     {
       "title": "Responsable des Achats Intersection (F/H) - Basé.e au Niger",
       "score": 35,
       "reasons": [
-        "+ profession matches your experience (procurement / supply chain)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Country Security Manager",
-      "score": 26,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ fleet",
-        "+ international recruitment|internationall",
+        "+ profession matches your experience (supply chain / procurement)",
         "+ slightly senior for this level -- likely fine"
       ]
     },
     {
       "title": "Operations & Supply Chain Manager",
-      "score": 25,
+      "score": 33,
       "reasons": [
         "+ supply chain manager (title)",
         "+ transport",
@@ -92,7 +84,18 @@
         "- may be overqualified (15y vs 4y required)",
         "+ education field aligned (Logistics, Supply Chain Management, Business Administration, or related field)",
         "- requires bachelor's degree",
-        "+ profession matches your preferred field (supply chain management)",
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Country Security Manager",
+      "score": 26,
+      "reasons": [
+        "+ transport",
+        "+ logistics",
+        "+ fleet",
+        "+ international recruitment|internationall",
         "+ slightly senior for this level -- likely fine"
       ]
     },
@@ -105,63 +108,49 @@
         "+ profession matches your experience (logistics)",
         "+ slightly senior for this level -- likely fine"
       ]
-    },
-    {
-      "title": "Coordinateur.trice Approvisionnement (f/x/h) – Haiti – MSF Belgique",
-      "score": 20,
-      "reasons": [
-        "+ transport",
-        "- finance",
-        "+ profession matches your preferred field (supply chain management)",
-        "+ slightly senior for this level -- likely fine"
-      ]
     }
   ],
   "jobs": [
     {
-      "title": "Administrative and Logistics Assistant - Venezuela",
-      "org": "MENTOR Initiative",
-      "country": "Venezuela (Bolivarian Republic of)",
-      "url": "https://reliefweb.int/job/4226323/administrative-and-logistics-assistant-venezuela",
-      "posted": "2026-08-20T07:22:46+00:00",
-      "closing": "2026-08-24T00:00:00+00:00",
-      "category": "Administration/Finance",
-      "score": 47,
+      "title": "LOGISTICS (Procurement) Assistant",
+      "org": "Agency for Technical Cooperation and Development",
+      "country": "Syrian Arab Republic",
+      "url": "https://reliefweb.int/job/4226696/logistics-procurement-assistant",
+      "posted": "2026-08-23T14:22:49+00:00",
+      "closing": "2026-09-05T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 59,
       "verdict": {
-        "label": "Low match",
-        "tier": "skip"
+        "label": "Worth reviewing",
+        "tier": "review"
       },
       "reasons": [
-        "+ transport",
+        "+ logistics manager",
+        "+ country logistics",
         "+ logistics (title)",
-        "+ procurement",
-        "- accounting",
-        "- education",
-        "- may be overqualified (15y vs 2y required)",
-        "+ education field aligned (business administration, logistics, accounting or related fields)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (administration and logistics)",
+        "+ supply chain",
+        "+ procurement (title)",
+        "- finance",
+        "+ profession matches your experience (logistics)",
         "- significantly overqualified for this level"
       ],
       "warnings": [
-        "Position based in Venezuela; international applicants may require work authorization",
-        "English is an asset but not required",
-        "Duration is only four months with possibility of extension"
+        "Location is Damascus, Syria, which may have security and visa challenges",
+        "No explicit language requirements stated, but Arabic may be necessary for local procurement",
+        "No information on salary or benefits"
       ],
       "job_profile": {
-        "profession": "administration and logistics",
-        "management_level": "officer",
-        "years_experience_required": 2,
-        "degree_required": "equivalent_experience_accepted",
-        "education_field": "business administration, logistics, accounting or related fields",
-        "languages_required": [
-          "Spanish"
-        ],
+        "profession": "logistics",
+        "management_level": "entry",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
         "international_recruitment": null,
         "warnings": [
-          "Position based in Venezuela; international applicants may require work authorization",
-          "English is an asset but not required",
-          "Duration is only four months with possibility of extension"
+          "Location is Damascus, Syria, which may have security and visa challenges",
+          "No explicit language requirements stated, but Arabic may be necessary for local procurement",
+          "No information on salary or benefits"
         ]
       }
     },
@@ -192,9 +181,9 @@
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "No specific language requirements stated, but working language may be English; French or Dutch may be useful.",
+        "No specific language requirements stated, but working language may be English; French or other languages may be beneficial.",
         "Visa sponsorship not mentioned; international applicants may need to secure their own work authorization.",
-        "Location not explicitly stated, but likely Amsterdam, Netherlands; relocation may be required."
+        "Location not explicitly stated, but based on MSF OCA headquarters in Amsterdam, Netherlands."
       ],
       "job_profile": {
         "profession": "procurement",
@@ -205,9 +194,9 @@
         "languages_required": [],
         "international_recruitment": true,
         "warnings": [
-          "No specific language requirements stated, but working language may be English; French or Dutch may be useful.",
+          "No specific language requirements stated, but working language may be English; French or other languages may be beneficial.",
           "Visa sponsorship not mentioned; international applicants may need to secure their own work authorization.",
-          "Location not explicitly stated, but likely Amsterdam, Netherlands; relocation may be required."
+          "Location not explicitly stated, but based on MSF OCA headquarters in Amsterdam, Netherlands."
         ]
       }
     }
