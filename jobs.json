@@ -1,52 +1,54 @@
 {
-  "generated_at": "2026-08-27T16:21:10.173Z",
+  "generated_at": "2026-08-28T17:18:23.696Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 3,
+    "displayed": 4,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 1,
-    "hidden_low_score": 56,
+    "hidden_national_restriction": 2,
+    "hidden_low_score": 54,
     "excellent_matches": 2,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 73,
+    "average_score": 68,
     "best_match_today": "Area Logistics Manager Sudan - Khartoum (Humanity & Inclusion)"
   },
   "hidden_breakdown": {
+    "Low match (research)": 1,
+    "Low match (research and learning)": 1,
+    "Low match (WASH/Environmental Health)": 1,
+    "Low match (programme management)": 14,
+    "Low match (administration and logistics)": 1,
+    "Low match (finance)": 6,
+    "Low match (compliance)": 1,
+    "Low match (accounting)": 2,
+    "National-only": 2,
+    "Low match (human resources)": 3,
+    "Low match (disaster risk management)": 1,
+    "Low match (logistics data analysis)": 1,
     "Low match (quantity surveying)": 1,
     "Low match (construction management)": 1,
-    "Low match (programme management)": 12,
     "Low match (field research / data collection)": 1,
     "Low match (cash and voucher assistance (CVA))": 1,
-    "Low match (finance)": 10,
     "Low match (research management)": 1,
-    "Low match (operations management)": 2,
+    "Low match (operations management)": 1,
     "Low match (safeguarding)": 1,
     "Low match (finance and operations)": 1,
-    "Low match (accounting)": 2,
-    "National-only": 1,
     "Low match (data analysis)": 1,
-    "Low match (communications)": 2,
+    "Low match (communications)": 1,
     "Low match (monitoring and evaluation)": 1,
     "Low match (business development)": 1,
     "Low match (research/assessment consultant)": 1,
     "Low match (supply chain)": 1,
     "Low match (legal)": 1,
-    "Low match (human resources)": 2,
     "Low match (administration)": 1,
     "Low match (supply chain and procurement)": 1,
     "Low match (protection / safeguarding)": 1,
     "Low match (project management)": 1,
-    "Low match (case management)": 2,
+    "Low match (case management)": 1,
     "Low match (data collection)": 1,
-    "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1,
-    "Low match (grant and contract management)": 1,
-    "Low match (WASH coordination)": 1,
-    "Low match (community kitchen management)": 1,
-    "Low match (rule of law / justice sector reform)": 1,
-    "Low match (data collection / enumerator)": 1
+    "Low match (MEAL (Monitoring, Evaluation, Accountability and Learning))": 1
   },
   "near_misses": [
     {
@@ -67,39 +69,12 @@
       ]
     },
     {
-      "title": "Operations Director - Afghanistan",
-      "score": 29,
+      "title": "Spécialiste de la Conformité (Relations avec le Gouvernement) (Fixed-term)",
+      "score": 16,
       "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ supply chain",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
         "- finance",
-        "- legal",
-        "+ international recruitment|internationall",
-        "+ profession matches your preferred field (operations management)"
-      ]
-    },
-    {
-      "title": "Head of Programmes",
-      "score": 29,
-      "reasons": [
-        "- education",
-        "+ international recruitment|internationall",
-        "+ experience matches (15y vs 7y required)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Senior Advisor – Government Liaison and EU Coordination (TA Hub)",
-      "score": 15,
-      "reasons": [
-        "+ experience matches (15y vs 8y required)",
-        "+ education field aligned (political science, international relations, public administration, law, development economics, or related field)",
-        "- requires master's degree",
-        "+ management level matches"
+        "+ profession matches your experience (compliance)",
+        "- somewhat senior for this level"
       ]
     }
   ],
@@ -111,7 +86,7 @@
       "url": "https://reliefweb.int/job/4227408/area-logistics-manager-sudan-khartoum",
       "posted": "2026-08-27T16:15:28+00:00",
       "closing": "2026-09-04T00:00:00+00:00",
-      "category": "",
+      "category": "Logistics/Procurement",
       "score": 91,
       "verdict": {
         "label": "Excellent match",
@@ -119,7 +94,7 @@
       },
       "reasons": [
         "+ logistics manager (title)",
-        "+ area manager",
+        "+ country logistics",
         "+ transport",
         "+ logistics (title)",
         "- medical",
@@ -129,9 +104,9 @@
       ],
       "warnings": [
         "Contract duration is only 2 months, which may affect visa and work permit feasibility.",
-        "Location is Khartoum, Sudan, which may have security and visa restrictions.",
-        "Specific language requirements not stated; French may be useful but not required.",
-        "Experience requirements not explicitly stated; implied from manager level."
+        "Location is Khartoum, Sudan, which may have security and access constraints.",
+        "No explicit language requirements stated, but French may be useful given the organization's francophone background.",
+        "Specific experience in humanitarian logistics is implied but not quantified."
       ],
       "job_profile": {
         "profession": "logistics",
@@ -143,9 +118,9 @@
         "international_recruitment": true,
         "warnings": [
           "Contract duration is only 2 months, which may affect visa and work permit feasibility.",
-          "Location is Khartoum, Sudan, which may have security and visa restrictions.",
-          "Specific language requirements not stated; French may be useful but not required.",
-          "Experience requirements not explicitly stated; implied from manager level."
+          "Location is Khartoum, Sudan, which may have security and access constraints.",
+          "No explicit language requirements stated, but French may be useful given the organization's francophone background.",
+          "Specific experience in humanitarian logistics is implied but not quantified."
         ]
       }
     },
@@ -175,7 +150,8 @@
       ],
       "warnings": [
         "Location is Ndjamena, Chad, but mission is for Sudan operations; visa and work authorization for Chad may be required.",
-        "Job posting is truncated; some details may be missing."
+        "Desired start date is in the future (Oct 2026), which may affect application timing.",
+        "Duration is 10 months, indicating a fixed-term contract."
       ],
       "job_profile": {
         "profession": "logistics",
@@ -187,7 +163,48 @@
         "international_recruitment": true,
         "warnings": [
           "Location is Ndjamena, Chad, but mission is for Sudan operations; visa and work authorization for Chad may be required.",
-          "Job posting is truncated; some details may be missing."
+          "Desired start date is in the future (Oct 2026), which may affect application timing.",
+          "Duration is 10 months, indicating a fixed-term contract."
+        ]
+      }
+    },
+    {
+      "title": "Regional Operational Procurement Manager (f/x/m) - Rio de Janeiro – MSF Belgium",
+      "org": "Médecins Sans Frontières",
+      "country": "Brazil",
+      "url": "https://reliefweb.int/job/4227516/regional-operational-procurement-manager-fxm-rio-de-janeiro-msf-belgium",
+      "posted": "2026-08-28T10:25:21+00:00",
+      "closing": "2026-09-17T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 52,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ supply chain",
+        "+ procurement (title)",
+        "- education",
+        "+ profession matches your experience (procurement)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "Location is Rio de Janeiro, Brazil; international applicants may need visa sponsorship.",
+        "Language requirements not specified; Portuguese and/or Spanish likely needed for regional role.",
+        "MSF internal acronyms (OCB, GPU, ASU) may require familiarity with MSF structure."
+      ],
+      "job_profile": {
+        "profession": "procurement",
+        "management_level": "manager",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": true,
+        "warnings": [
+          "Location is Rio de Janeiro, Brazil; international applicants may need visa sponsorship.",
+          "Language requirements not specified; Portuguese and/or Spanish likely needed for regional role.",
+          "MSF internal acronyms (OCB, GPU, ASU) may require familiarity with MSF structure."
         ]
       }
     },
@@ -217,9 +234,10 @@
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Visa status unclear",
-        "Security situation volatile",
-        "French preferred but not stated as mandatory"
+        "No explicit language requirements stated; likely English or French needed but not specified",
+        "Visa and work authorization details not mentioned",
+        "Security situation in Sudan may pose risks; Khartoum described as relatively calm but conflict-affected",
+        "Starting date is November 2026, which is far in the future; application deadline September 2026"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -230,9 +248,10 @@
         "languages_required": [],
         "international_recruitment": true,
         "warnings": [
-          "Visa status unclear",
-          "Security situation volatile",
-          "French preferred but not stated as mandatory"
+          "No explicit language requirements stated; likely English or French needed but not specified",
+          "Visa and work authorization details not mentioned",
+          "Security situation in Sudan may pose risks; Khartoum described as relatively calm but conflict-affected",
+          "Starting date is November 2026, which is far in the future; application deadline September 2026"
         ]
       }
     }
