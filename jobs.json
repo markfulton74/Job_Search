@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:27:00.123Z",
+  "generated_at": "2026-08-31T11:32:07.147Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,39 +15,49 @@
     "best_match_today": "Area Logistics Manager Sudan - Khartoum (Humanity & Inclusion)"
   },
   "hidden_breakdown": {
-    "Low match (logistics)": 1,
+    "Low match (programme management)": 19,
+    "Low match (logistics)": 2,
+    "National-only": 2,
+    "Low match (construction)": 1,
+    "Low match (consultancy/strategy development)": 1,
+    "Low match (volunteer coordination)": 1,
+    "Low match (fundraising)": 2,
+    "Low match (evaluation)": 1,
+    "Low match (communications)": 1,
+    "Low match (education)": 1,
+    "Low match (consultancy)": 1,
     "Low match (human resources)": 3,
-    "Low match (programme management)": 15,
-    "Low match (business development)": 2,
+    "Low match (business development)": 1,
     "Low match (supply chain management)": 1,
     "Low match (administration)": 1,
-    "Low match (finance and operations)": 2,
+    "Low match (finance and operations)": 1,
     "Internal/restricted recruitment": 1,
-    "Low match (information systems / functional coordination)": 1,
     "Low match (career coaching)": 1,
     "Low match (research)": 1,
     "Low match (research and learning)": 1,
     "Low match (WASH/Environmental Health)": 1,
     "Low match (administration and logistics)": 1,
-    "Low match (finance)": 6,
+    "Low match (finance)": 2,
     "Low match (compliance)": 1,
-    "Low match (accounting)": 2,
-    "National-only": 2,
-    "Low match (disaster risk reduction / recovery coordination)": 1,
+    "Low match (accounting)": 1,
+    "Low match (disaster risk reduction and recovery)": 1,
     "Low match (logistics data analysis)": 1,
     "Low match (quantity surveying)": 1,
     "Low match (construction management)": 1,
     "Low match (field research / data collection)": 1,
     "Low match (cash and voucher assistance (CVA))": 1,
-    "Low match (research management)": 1,
-    "Low match (operations management)": 1,
-    "Low match (safeguarding)": 1,
-    "Low match (data analysis)": 1,
-    "Low match (communications)": 1,
-    "Low match (monitoring and evaluation)": 1,
-    "Low match (research/assessment consultant)": 1
+    "Low match (research management)": 1
   },
   "near_misses": [
+    {
+      "title": "Gerente Logistica (Nacional)",
+      "score": 37,
+      "reasons": [
+        "+ transport",
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
     {
       "title": "Warehouse Inventory and Logistics Support",
       "score": 29,
@@ -155,8 +165,8 @@
       ],
       "warnings": [
         "Location is Ndjamena, Chad, but mission is for Sudan operations; visa and work authorization for Chad may be required.",
-        "Desired start date is in the future (Oct 2026); availability may be a concern.",
-        "Duration is 10 months; contract length may affect visa or residency."
+        "No explicit language requirements stated; French may be useful in Chad but not mentioned.",
+        "Desired start date is in the future (Oct 2026), which may affect application timing."
       ],
       "job_profile": {
         "profession": "logistics",
@@ -168,8 +178,8 @@
         "international_recruitment": true,
         "warnings": [
           "Location is Ndjamena, Chad, but mission is for Sudan operations; visa and work authorization for Chad may be required.",
-          "Desired start date is in the future (Oct 2026); availability may be a concern.",
-          "Duration is 10 months; contract length may affect visa or residency."
+          "No explicit language requirements stated; French may be useful in Chad but not mentioned.",
+          "Desired start date is in the future (Oct 2026), which may affect application timing."
         ]
       }
     },
@@ -194,9 +204,9 @@
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Based in Brazil; work authorization not specified",
-        "Language requirements not stated; likely Portuguese and/or Spanish needed",
-        "MSF internal context may require prior MSF experience"
+        "Location is Rio de Janeiro, Brazil; work authorization may be required.",
+        "Language requirements not specified; likely Portuguese and/or Spanish may be needed for regional role.",
+        "MSF Belgium contract; conditions for international applicants not detailed."
       ],
       "job_profile": {
         "profession": "procurement",
@@ -207,9 +217,9 @@
         "languages_required": [],
         "international_recruitment": null,
         "warnings": [
-          "Based in Brazil; work authorization not specified",
-          "Language requirements not stated; likely Portuguese and/or Spanish needed",
-          "MSF internal context may require prior MSF experience"
+          "Location is Rio de Janeiro, Brazil; work authorization may be required.",
+          "Language requirements not specified; likely Portuguese and/or Spanish may be needed for regional role.",
+          "MSF Belgium contract; conditions for international applicants not detailed."
         ]
       }
     },
