@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-09-01T09:54:41.342Z",
+  "generated_at": "2026-09-02T09:25:58.206Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 4,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 2,
-    "hidden_low_score": 53,
-    "excellent_matches": 2,
+    "displayed": 0,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 4,
+    "hidden_low_score": 56,
+    "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 68,
-    "best_match_today": "Area Logistics Manager Sudan - Khartoum (Humanity & Inclusion)"
+    "average_score": 0,
+    "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match (programme management)": 18,
-    "Low match (logistics)": 2,
-    "National-only": 2,
+    "Low match (finance)": 2,
+    "Low match (programme management)": 17,
+    "Low match (shelter project management)": 1,
+    "Low match (health project management)": 1,
+    "Low match (WASH (Water, Sanitation, and Hygiene))": 1,
+    "Low match (logistics)": 4,
+    "Low match (data management)": 1,
+    "Low match (mine action coordination)": 1,
+    "Low match (conservation research)": 1,
+    "Low match (supply chain management)": 2,
+    "Low match (grants management)": 2,
+    "Low match (evaluation)": 2,
+    "Low match (research)": 1,
+    "Low match (training)": 1,
+    "Low match (project management)": 1,
+    "National-only": 4,
+    "Low match (business development and grants management)": 1,
+    "Low match (monitoring and evaluation)": 1,
+    "Low match (resource mobilization)": 1,
+    "Low match (administration)": 2,
+    "Low match (multimedia production)": 1,
+    "Low match (solid waste management)": 1,
+    "Low match (public health / rehabilitation)": 1,
     "Low match (construction)": 1,
     "Low match (consultancy/strategy development)": 1,
     "Low match (volunteer coordination)": 1,
-    "Low match (fundraising)": 2,
-    "Low match (evaluation)": 1,
+    "Low match (fundraising and project support)": 1,
+    "Low match (fundraising)": 1,
     "Low match (communications)": 1,
     "Low match (education)": 1,
     "Low match (consultancy)": 1,
-    "Low match (human resources)": 3,
-    "Low match (business development)": 1,
-    "Low match (supply chain management)": 1,
-    "Low match (administration)": 1,
-    "Low match (finance and operations)": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (information systems / functional coordination)": 1,
-    "Low match (career coaching)": 1,
-    "Low match (research)": 1,
-    "Low match (research and learning)": 1,
-    "Low match (WASH/Environmental Health)": 1,
-    "Low match (administration and logistics)": 1,
-    "Low match (finance)": 2,
-    "Low match (compliance)": 1,
-    "Low match (accounting)": 1,
-    "Low match (disaster risk management)": 1,
-    "Low match (logistics data analysis)": 1,
-    "Low match (quantity surveying)": 1,
-    "Low match (construction management)": 1,
-    "Low match (field research / data collection)": 1,
-    "Low match (cash and voucher assistance (CVA))": 1,
-    "Low match (research management)": 1
+    "Low match (human resources)": 1,
+    "Low match (business development)": 1
   },
   "near_misses": [
     {
@@ -74,6 +74,50 @@
       ]
     },
     {
+      "title": "Emergency Supply Chain Coordinator",
+      "score": 27,
+      "reasons": [
+        "+ field coordinator",
+        "+ operations coordinator",
+        "+ transport",
+        "+ logistics",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- finance",
+        "- medical",
+        "- education",
+        "+ profession matches your preferred field (supply chain management)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Executive Assistant to the Country Director - Beirut (Open for nationals only)",
+      "score": 23,
+      "reasons": [
+        "+ transport",
+        "+ logistics",
+        "+ procurement",
+        "+ fleet",
+        "- finance",
+        "- education",
+        "+ international recruitment|internationall",
+        "+ profession matches your experience (administration)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "COORDINATEUR OU COORDINATRICE ADJOINT.E LOGISTIQUE - ITURI H/F",
+      "score": 21,
+      "reasons": [
+        "+ transport",
+        "- nutrition",
+        "+ profession matches your experience (logistics)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
       "title": "Deputy Director, Supply Chain Business Development and Program Delivery",
       "score": 21,
       "reasons": [
@@ -85,189 +129,7 @@
         "- nutrition",
         "+ profession matches your preferred field (supply chain management)"
       ]
-    },
-    {
-      "title": "Spécialiste de la Conformité (Relations avec le Gouvernement) (Fixed-term)",
-      "score": 16,
-      "reasons": [
-        "- finance",
-        "+ profession matches your experience (compliance)",
-        "- somewhat senior for this level"
-      ]
     }
   ],
-  "jobs": [
-    {
-      "title": "Area Logistics Manager Sudan - Khartoum",
-      "org": "Humanity & Inclusion",
-      "country": "Sudan",
-      "url": "https://reliefweb.int/job/4227408/area-logistics-manager-sudan-khartoum",
-      "posted": "2026-08-27T16:15:28+00:00",
-      "closing": "2026-09-04T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 91,
-      "verdict": {
-        "label": "Excellent match",
-        "tier": "apply-now"
-      },
-      "reasons": [
-        "+ logistics manager (title)",
-        "+ country logistics",
-        "+ transport",
-        "+ logistics (title)",
-        "- medical",
-        "+ \\br&r\\b",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Contract duration is only 2 months, which may be short-term and require rapid deployment.",
-        "Location is Khartoum, Sudan, which may have security and visa considerations.",
-        "Specific language requirements are not stated; French may be preferred given the organization's francophone background, but not mentioned."
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Contract duration is only 2 months, which may be short-term and require rapid deployment.",
-          "Location is Khartoum, Sudan, which may have security and visa considerations.",
-          "Specific language requirements are not stated; French may be preferred given the organization's francophone background, but not mentioned."
-        ]
-      }
-    },
-    {
-      "title": "Sudan - Logistics Manager, Core Pipeline - Ndjamena",
-      "org": "Solidarités International",
-      "country": "Sudan",
-      "url": "https://reliefweb.int/job/4227390/sudan-logistics-manager-core-pipeline-ndjamena",
-      "posted": "2026-08-27T14:13:07+00:00",
-      "closing": "2026-10-01T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 88,
-      "verdict": {
-        "label": "Excellent match",
-        "tier": "apply-now"
-      },
-      "reasons": [
-        "+ logistics manager (title)",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
-        "+ procurement",
-        "+ warehousing",
-        "- medical",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Location is Ndjamena, Chad, but mission is for Sudan operations; visa and work permit requirements unclear.",
-        "Language requirements not specified; French may be useful in Chad but not stated."
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Location is Ndjamena, Chad, but mission is for Sudan operations; visa and work permit requirements unclear.",
-          "Language requirements not specified; French may be useful in Chad but not stated."
-        ]
-      }
-    },
-    {
-      "title": "Regional Operational Procurement Manager (f/x/m) - Rio de Janeiro – MSF Belgium",
-      "org": "Médecins Sans Frontières",
-      "country": "Brazil",
-      "url": "https://reliefweb.int/job/4227516/regional-operational-procurement-manager-fxm-rio-de-janeiro-msf-belgium",
-      "posted": "2026-08-28T10:25:21+00:00",
-      "closing": "2026-09-17T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 52,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ supply chain",
-        "+ procurement (title)",
-        "- education",
-        "+ profession matches your experience (procurement)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Location is Rio de Janeiro, Brazil; work authorization may be required",
-        "Language requirements not specified; Portuguese and/or Spanish may be needed for regional role",
-        "MSF Belgium is the employer; international recruitment likely but not explicitly stated"
-      ],
-      "job_profile": {
-        "profession": "procurement",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Location is Rio de Janeiro, Brazil; work authorization may be required",
-          "Language requirements not specified; Portuguese and/or Spanish may be needed for regional role",
-          "MSF Belgium is the employer; international recruitment likely but not explicitly stated"
-        ]
-      }
-    },
-    {
-      "title": "Country Logistic Manager Sudan - Khartoum",
-      "org": "Humanity & Inclusion",
-      "country": "Sudan",
-      "url": "https://reliefweb.int/job/4227402/country-logistic-manager-sudan-khartoum",
-      "posted": "2026-08-27T15:49:40+00:00",
-      "closing": "2026-09-10T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 40,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ logistics manager",
-        "+ country logistics",
-        "+ transport",
-        "+ logistics",
-        "+ procurement",
-        "+ fleet",
-        "- medical",
-        "+ \\br&r\\b",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "No explicit language requirements stated; likely English or French needed but not specified",
-        "Visa and work permit details not mentioned",
-        "Security situation in Sudan may pose risks; Khartoum described as relatively calm but conflict-affected",
-        "Starting date is November 2026, which is far in the future; application deadline September 2026"
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "No explicit language requirements stated; likely English or French needed but not specified",
-          "Visa and work permit details not mentioned",
-          "Security situation in Sudan may pose risks; Khartoum described as relatively calm but conflict-affected",
-          "Starting date is November 2026, which is far in the future; application deadline September 2026"
-        ]
-      }
-    }
-  ]
+  "jobs": []
 }
