@@ -1,22 +1,40 @@
 {
-  "generated_at": "2026-09-08T09:31:07.214Z",
+  "generated_at": "2026-09-09T09:34:00.159Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 4,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 3,
-    "hidden_low_score": 52,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 0,
+    "hidden_low_score": 56,
     "excellent_matches": 0,
-    "strong_matches": 0,
+    "strong_matches": 1,
     "review_matches": 2,
-    "average_score": 54,
-    "best_match_today": "Executive Operations Manager (UN Development Programme)"
+    "average_score": 62,
+    "best_match_today": "LOGISTICS MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS (Médecins Sans Frontières)"
   },
   "hidden_breakdown": {
+    "Low match (logistics)": 3,
+    "Low match (law and justice advisory)": 1,
+    "Low match (protection / case management)": 1,
+    "Low match (software development)": 1,
+    "Low match (supply chain)": 2,
+    "Low match (programme management)": 14,
+    "Low match (education)": 1,
+    "Low match (partnership development)": 1,
+    "Low match (information systems management)": 1,
+    "Low match (consultancy/research)": 1,
+    "Low match (partnership management)": 1,
+    "Low match (programme development / proposal development consultant)": 1,
+    "Low match (employment services / workforce development)": 1,
+    "Low match (pharmacy)": 1,
+    "Low match (media and communications)": 2,
+    "Low match (Armed Violence Reduction (AVR) Specialist)": 1,
+    "Low match (water infrastructure engineering)": 1,
+    "Low match (gender and social inclusion analysis)": 1,
+    "Low match (monitoring and evaluation)": 1,
     "Low match (digital solutions consultant)": 1,
-    "Low match (programme management)": 12,
     "Low match (training and workshop facilitation)": 1,
     "Low match (capacity building / human resources)": 1,
     "Low match (research/data collection)": 1,
@@ -24,38 +42,38 @@
     "Low match (epidemiology)": 1,
     "Low match (water, hygiene and sanitation (WASH) management)": 1,
     "Low match (finance and human resources)": 1,
-    "Low match (documentation and communications)": 1,
-    "Low match (consultancy)": 2,
-    "Low match (finance)": 4,
+    "Low match (consultancy)": 1,
+    "Low match (finance)": 1,
     "Low match (human resources / recruitment)": 1,
-    "Low match (shelter and emergency response)": 1,
-    "Low match (supply chain)": 1,
+    "Low match (shelter and humanitarian response)": 1,
     "Low match (ICT / Systems Administration)": 1,
     "Low match (administration)": 1,
     "Low match (civil/structural engineering)": 1,
     "Low match (sales)": 1,
-    "Low match (food service)": 1,
+    "Low match (procurement)": 1,
     "Low match (medical department management)": 1,
     "Low match (security)": 1,
-    "Low match (human resources)": 1,
-    "Low match (fundraising and partnerships)": 1,
-    "Low match (learning and development)": 1,
-    "Low match (compliance)": 1,
-    "Low match (supply chain management)": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (Monitoring, Evaluation, Accountability and Learning (MEAL))": 1,
-    "Low match (grants and compliance management)": 1,
-    "Low match (advocacy and communications)": 1,
-    "Low match (evaluation consultant)": 1,
-    "Low match (information management)": 1,
-    "Low match (legal)": 1,
-    "Low match (grants management)": 1,
-    "Low match (data engineering)": 1,
-    "National-only": 3,
-    "Low match (medical)": 1,
-    "Low match (risk and compliance management)": 1
+    "Low match (human resources)": 1
   },
   "near_misses": [
+    {
+      "title": "Area Manager – South Central Syria (SCS)",
+      "score": 37,
+      "reasons": [
+        "+ area manager (title)",
+        "- finance",
+        "- education",
+        "+ international recruitment|internationall",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "ITB_COL _Llorente_Servicio de Alimentación (Restaurante)_20260907",
+      "score": 30,
+      "reasons": [
+        "+ profession matches your experience (procurement)"
+      ]
+    },
     {
       "title": "Supply Chain Intern",
       "score": 22,
@@ -70,18 +88,87 @@
       ]
     },
     {
-      "title": "Grants and Compliance Manager",
+      "title": "ERT Supply Chain Coordinator",
+      "score": 21,
+      "reasons": [
+        "+ transport",
+        "+ logistics",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- medical",
+        "- legal",
+        "- education",
+        "+ profession matches your preferred field (supply chain)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Venezuela: Asistente Logístico de Salud (Caracas)",
       "score": 17,
       "reasons": [
-        "+ procurement",
-        "- finance",
-        "- accounting",
-        "+ profession matches your experience (grants and compliance management)",
-        "+ slightly senior for this level -- likely fine"
+        "+ transport",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
       ]
     }
   ],
   "jobs": [
+    {
+      "title": "LOGISTICS MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS",
+      "org": "Médecins Sans Frontières",
+      "country": "Brazil",
+      "url": "https://reliefweb.int/job/4228788/logistics-manager-international-humanitarian-missions",
+      "posted": "2026-09-08T08:53:14+00:00",
+      "closing": "2026-10-26T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 79,
+      "verdict": {
+        "label": "Strong match",
+        "tier": "strong"
+      },
+      "reasons": [
+        "+ logistics manager (title)",
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "- medical",
+        "- education",
+        "- meal",
+        "+ international recruitment|internationall",
+        "- may be overqualified (15y vs 2y required)",
+        "- education field mismatch (engineering or architecture)",
+        "+ degree can be substituted by experience -- good fit",
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "Work venue is where needs require, implying frequent relocation",
+        "Minimum availability of 6 months required",
+        "Spanish at C1 level is essential, which may be a barrier for non-Spanish speakers",
+        "French at B2 level is essential, which may be a barrier for non-French speakers"
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "manager",
+        "years_experience_required": 2,
+        "degree_required": "equivalent_experience_accepted",
+        "education_field": "engineering or architecture",
+        "languages_required": [
+          "English",
+          "Spanish",
+          "French"
+        ],
+        "international_recruitment": true,
+        "warnings": [
+          "Work venue is where needs require, implying frequent relocation",
+          "Minimum availability of 6 months required",
+          "Spanish at C1 level is essential, which may be a barrier for non-Spanish speakers",
+          "French at B2 level is essential, which may be a barrier for non-French speakers"
+        ]
+      }
+    },
     {
       "title": "Executive Operations Manager",
       "org": "UN Development Programme",
@@ -102,9 +189,8 @@
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Position is restricted to Saudi Nationals",
-        "Job description link not accessible in posting",
-        "Duration is only 6 months with possibility of extension"
+        "Position is for Saudi Nationals only",
+        "Job description not fully provided; link may contain additional requirements"
       ],
       "job_profile": {
         "profession": "operations management",
@@ -115,9 +201,8 @@
         "languages_required": [],
         "international_recruitment": false,
         "warnings": [
-          "Position is restricted to Saudi Nationals",
-          "Job description link not accessible in posting",
-          "Duration is only 6 months with possibility of extension"
+          "Position is for Saudi Nationals only",
+          "Job description not fully provided; link may contain additional requirements"
         ]
       }
     },
@@ -148,8 +233,8 @@
         "- significantly overqualified for this level"
       ],
       "warnings": [
-        "Duty station is in Manila (GSSC), likely local recruitment; salary in Philippine pesos",
-        "Language requirements not stated; may need to infer English proficiency",
+        "Duty station is in Manila, Philippines; salary in Philippine pesos; likely local recruitment",
+        "No language requirements specified; English proficiency may be implied but not stated",
         "Experience requirement varies: 3 years with Bachelor's, 5 years with High School diploma"
       ],
       "job_profile": {
@@ -161,63 +246,9 @@
         "languages_required": [],
         "international_recruitment": false,
         "warnings": [
-          "Duty station is in Manila (GSSC), likely local recruitment; salary in Philippine pesos",
-          "Language requirements not stated; may need to infer English proficiency",
+          "Duty station is in Manila, Philippines; salary in Philippine pesos; likely local recruitment",
+          "No language requirements specified; English proficiency may be implied but not stated",
           "Experience requirement varies: 3 years with Bachelor's, 5 years with High School diploma"
-        ]
-      }
-    },
-    {
-      "title": "LOGISTICS MANAGER FOR INTERNATIONAL HUMANITARIAN MISSIONS",
-      "org": "Médecins Sans Frontières",
-      "country": "Brazil",
-      "url": "https://reliefweb.int/job/4228788/logistics-manager-international-humanitarian-missions",
-      "posted": "2026-09-08T08:53:14+00:00",
-      "closing": "2026-10-26T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 49,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ logistics manager (title)",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
-        "- medical",
-        "- education",
-        "- meal",
-        "+ international recruitment|internationall",
-        "- may be overqualified (15y vs 2y required)",
-        "- education field mismatch (engineering or architecture)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Work venue is where needs require, implying frequent relocation",
-        "Minimum availability of 6 months required",
-        "Motivation letter and CV must be in English",
-        "Salary is in USD and may vary based on experience"
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "manager",
-        "years_experience_required": 2,
-        "degree_required": "bachelor",
-        "education_field": "engineering or architecture",
-        "languages_required": [
-          "English",
-          "Spanish",
-          "French"
-        ],
-        "international_recruitment": true,
-        "warnings": [
-          "Work venue is where needs require, implying frequent relocation",
-          "Minimum availability of 6 months required",
-          "Motivation letter and CV must be in English",
-          "Salary is in USD and may vary based on experience"
         ]
       }
     },
@@ -242,9 +273,9 @@
         "- significantly overqualified for this level"
       ],
       "warnings": [
-        "Permiso de trabajo válido en Venezuela requerido",
-        "Licencia de conducir venezolana requerida",
-        "Idioma no especificado, pero el anuncio está en español"
+        "Requires valid work permit in Venezuela, so international applicants need to secure this themselves.",
+        "Job posting is in Spanish; fluency in Spanish is implied but not explicitly stated.",
+        "Specific location: Caracas and La Guaira, Venezuela."
       ],
       "job_profile": {
         "profession": "logistics",
@@ -255,9 +286,9 @@
         "languages_required": [],
         "international_recruitment": false,
         "warnings": [
-          "Permiso de trabajo válido en Venezuela requerido",
-          "Licencia de conducir venezolana requerida",
-          "Idioma no especificado, pero el anuncio está en español"
+          "Requires valid work permit in Venezuela, so international applicants need to secure this themselves.",
+          "Job posting is in Spanish; fluency in Spanish is implied but not explicitly stated.",
+          "Specific location: Caracas and La Guaira, Venezuela."
         ]
       }
     }
