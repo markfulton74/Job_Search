@@ -1,62 +1,63 @@
 {
-  "generated_at": "2026-09-10T09:32:49.403Z",
+  "generated_at": "2026-09-11T09:30:15.338Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 3,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 9,
-    "hidden_low_score": 48,
+    "hidden_national_restriction": 2,
+    "hidden_low_score": 55,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 2,
-    "average_score": 53,
-    "best_match_today": "Fertilizer Procurement Associate (One Acre Fund)"
+    "review_matches": 3,
+    "average_score": 57,
+    "best_match_today": "Operations Manager / Responsable Opérations (AVSI Foundation – ETS)"
   },
   "hidden_breakdown": {
-    "Low match (programme management)": 13,
-    "Low match (logistics)": 4,
+    "Low match (procurement/logistics)": 1,
+    "Low match (human resources)": 2,
+    "Low match (programme management)": 16,
+    "Low match (project support management)": 1,
+    "Low match (monitoring and evaluation)": 3,
+    "Low match (supply chain digitalization / programme management)": 1,
+    "National-only": 2,
+    "Low match (procurement)": 2,
+    "Low match (finance)": 5,
+    "Low match (public health / NCD programme management)": 1,
+    "Low match (volunteer / education support)": 1,
+    "Low match (WASH (Water, Sanitation and Hygiene))": 1,
+    "Low match (partnerships)": 1,
+    "Low match (health program management)": 1,
+    "Low match (emergency response management)": 1,
+    "Low match (agricultural extension and aggregation)": 2,
+    "Low match (governance and citizen engagement)": 1,
+    "Low match (grants and compliance)": 1,
+    "Low match (engineering)": 2,
+    "Low match (fundraising operations)": 1,
+    "Low match (medical)": 1,
+    "Low match (logistics)": 1,
     "Low match (information management / GIS)": 1,
-    "Low match (finance)": 3,
     "Low match (partnerships management)": 1,
-    "Low match (engineering)": 1,
     "Low match (mine action / explosive ordnance risk education (EORE) quality assurance)": 1,
-    "Low match (support services management (logistics, HR, finance))": 1,
+    "Low match (support services management (logistics, human resources, finance))": 1,
     "Low match (IT network and systems administration)": 1,
     "Low match (humanitarian mine action / explosive ordnance disposal)": 1,
-    "Low match (environmental action / humanitarian programme support)": 1,
+    "Low match (environmental action)": 1,
     "Low match (pharmacy)": 1,
-    "Low match (humanitarian mine action)": 1,
-    "Low match (resource mobilisation and partnerships)": 1,
-    "National-only": 9,
-    "Low match (economic development / livelihoods)": 1,
-    "Low match (administration)": 1,
-    "Low match (consulting)": 1,
-    "Low match (catering services)": 1,
-    "Low match (local economic development)": 1,
-    "Low match (operations information management and GIS)": 1,
-    "Low match (health policy)": 1,
-    "Low match (governance and EU integration)": 1,
-    "Low match (research)": 1,
-    "Low match (IT support)": 1,
-    "Low match (supply chain management)": 1,
-    "Low match (law and justice advisory)": 1,
-    "Low match (protection case management)": 1,
-    "Low match (software development)": 1,
-    "Low match (supply chain)": 1,
-    "Low match (education)": 1,
-    "Low match (partnership development)": 1
+    "Low match (humanitarian mine action)": 1
   },
   "near_misses": [
     {
-      "title": "Area Manager – South Central Syria (SCS)",
-      "score": 37,
+      "title": "Senior Manager, Supply Chain Digitalization Benchmarking and Pilots",
+      "score": 36,
       "reasons": [
-        "+ area manager (title)",
-        "- finance",
+        "+ logistics",
+        "+ supply chain (title)",
         "- education",
-        "+ international recruitment|internationall",
+        "- research",
+        "- monitoring and evaluation",
+        "+ profession matches your preferred field (supply chain digitalization / programme management)",
         "+ slightly senior for this level -- likely fine"
       ]
     },
@@ -81,33 +82,92 @@
       ]
     },
     {
-      "title": "ERT Supply Chain Coordinator",
-      "score": 21,
+      "title": "Intersectional Field Procurement Advisor",
+      "score": 28,
       "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
+        "+ supply chain",
+        "+ procurement (title)",
         "- medical",
         "- legal",
         "- education",
-        "+ profession matches your preferred field (supply chain)",
-        "- somewhat senior for this level"
+        "+ profession matches your experience (procurement)",
+        "+ slightly senior for this level -- likely fine"
       ]
     },
     {
-      "title": "Venezuela: Asistente Logístico de Salud (Caracas)",
-      "score": 17,
+      "title": "Tupande Cashew Extension and Aggregation Supervisor (Fixed-term)",
+      "score": 22,
       "reasons": [
-        "+ transport",
-        "+ profession matches your experience (logistics)",
+        "+ procurement",
+        "- may be overqualified (15y vs 2y required)",
+        "+ education field aligned (Agriculture, Agribusiness, Community Development, or related field)",
+        "+ degree can be substituted by experience -- good fit"
+      ]
+    },
+    {
+      "title": "Venezuela: Oficial de Compras (Caracas)",
+      "score": 15,
+      "reasons": [
+        "+ profession matches your experience (procurement/logistics)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "Venezuela: Asistente de Compras (Caracas)",
+      "score": 15,
+      "reasons": [
+        "+ profession matches your experience (procurement)",
         "- significantly overqualified for this level"
       ]
     }
   ],
   "jobs": [
+    {
+      "title": "Operations Manager / Responsable Opérations",
+      "org": "AVSI Foundation – ETS",
+      "country": "Côte d'Ivoire",
+      "url": "https://reliefweb.int/job/4229317/operations-manager-responsable-operations",
+      "posted": "2026-09-10T12:41:43+00:00",
+      "closing": "2026-10-02T00:00:00+00:00",
+      "category": "Administration/Finance",
+      "score": 58,
+      "verdict": {
+        "label": "Worth reviewing",
+        "tier": "review"
+      },
+      "reasons": [
+        "+ operations manager (title)",
+        "- finance",
+        "+ experience matches (15y vs 7y required)",
+        "+ education field aligned (business administration, economics, or equivalent)",
+        "- requires master's degree",
+        "+ profession matches your preferred field (operations management)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "Posting is in French; French fluency required",
+        "Work authorization/visa status not stated",
+        "International recruitment not explicitly stated",
+        "Experience requirement text appears truncated ('Au moins 7')"
+      ],
+      "job_profile": {
+        "profession": "operations management",
+        "management_level": "manager",
+        "years_experience_required": 7,
+        "degree_required": "master",
+        "education_field": "business administration, economics, or equivalent",
+        "languages_required": [
+          "French"
+        ],
+        "international_recruitment": null,
+        "warnings": [
+          "Posting is in French; French fluency required",
+          "Work authorization/visa status not stated",
+          "International recruitment not explicitly stated",
+          "Experience requirement text appears truncated ('Au moins 7')"
+        ]
+      }
+    },
     {
       "title": "Fertilizer Procurement Associate",
       "org": "One Acre Fund",
@@ -130,8 +190,8 @@
       "warnings": [
         "Job posting appears truncated; qualifications section incomplete",
         "No explicit years of experience stated",
-        "No degree requirement specified",
-        "No language requirements specified",
+        "No degree requirement stated",
+        "No language requirements stated",
         "International recruitment status unclear",
         "Location not specified"
       ],
@@ -146,8 +206,8 @@
         "warnings": [
           "Job posting appears truncated; qualifications section incomplete",
           "No explicit years of experience stated",
-          "No degree requirement specified",
-          "No language requirements specified",
+          "No degree requirement stated",
+          "No language requirements stated",
           "International recruitment status unclear",
           "Location not specified"
         ]
@@ -180,10 +240,9 @@
         "- significantly overqualified for this level"
       ],
       "warnings": [
-        "Position is explicitly national, so international applicants are likely ineligible",
-        "No years of experience specified",
-        "No degree or education requirement specified",
-        "No language requirements stated"
+        "Position is national, not open to international applicants",
+        "No explicit years of experience or degree requirement stated",
+        "Language requirements not specified"
       ],
       "job_profile": {
         "profession": "logistics and supply chain",
@@ -194,58 +253,9 @@
         "languages_required": [],
         "international_recruitment": false,
         "warnings": [
-          "Position is explicitly national, so international applicants are likely ineligible",
-          "No years of experience specified",
-          "No degree or education requirement specified",
-          "No language requirements stated"
-        ]
-      }
-    },
-    {
-      "title": "Operations Manager - Sudan",
-      "org": "Handicap International Belgium",
-      "country": "Sudan",
-      "url": "https://reliefweb.int/job/4229072/operations-manager-sudan",
-      "posted": "2026-09-09T12:20:49+00:00",
-      "closing": "2026-09-23T00:00:00+00:00",
-      "category": "Program/Project Management",
-      "score": 46,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ operations manager (title)",
-        "+ transport",
-        "+ logistics",
-        "- medical",
-        "- meal",
-        "- human resources",
-        "+ \\br&r\\b",
-        "+ profession matches your preferred field (operations management)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Visa process unclear; route to base depends on visa outcome",
-        "Security situation in Khartoum described as relatively calm but city destroyed by ongoing conflict",
-        "HAS Manager still under recruitment; security pack and contingency plan not yet finalized",
-        "No explicit years of experience or degree requirements stated",
-        "No languages explicitly required in posting"
-      ],
-      "job_profile": {
-        "profession": "operations management",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Visa process unclear; route to base depends on visa outcome",
-          "Security situation in Khartoum described as relatively calm but city destroyed by ongoing conflict",
-          "HAS Manager still under recruitment; security pack and contingency plan not yet finalized",
-          "No explicit years of experience or degree requirements stated",
-          "No languages explicitly required in posting"
+          "Position is national, not open to international applicants",
+          "No explicit years of experience or degree requirement stated",
+          "Language requirements not specified"
         ]
       }
     }
