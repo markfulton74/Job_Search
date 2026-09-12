@@ -1,51 +1,53 @@
 {
-  "generated_at": "2026-09-11T09:30:15.338Z",
+  "generated_at": "2026-09-12T09:10:36.580Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 3,
+    "displayed": 1,
     "hidden_hard_reject": 0,
     "hidden_national_restriction": 2,
-    "hidden_low_score": 55,
+    "hidden_low_score": 57,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 3,
-    "average_score": 57,
+    "review_matches": 1,
+    "average_score": 58,
     "best_match_today": "Operations Manager / Responsable Opérations (AVSI Foundation – ETS)"
   },
   "hidden_breakdown": {
-    "Low match (procurement/logistics)": 1,
-    "Low match (human resources)": 2,
+    "Low match (logistics)": 3,
+    "Low match (resource development / fundraising)": 1,
     "Low match (programme management)": 16,
-    "Low match (project support management)": 1,
+    "Low match (mechatronics, automation and CNC technical education)": 1,
+    "Low match (legal)": 1,
+    "Low match (administrative management)": 1,
+    "Low match (Weapons and Ammunition Management (WAM) / mine action technical operations)": 1,
+    "Low match (medical)": 1,
+    "Low match (circular economy programme support)": 1,
+    "Low match (humanitarian programme management / donor engagement and resource mobilization)": 1,
     "Low match (monitoring and evaluation)": 3,
+    "Low match (volunteer network management / fundraising)": 1,
+    "Low match (human resources / recruitment)": 1,
+    "Low match (event and logistics management)": 1,
+    "Low match (private sector partnerships / business development)": 1,
+    "Low match (human resources)": 3,
+    "Low match (advocacy)": 1,
+    "Low match (communications)": 1,
+    "Low match (finance)": 4,
+    "Low match (support coordination (finance, HR, logistics))": 1,
+    "Low match (documentation)": 1,
+    "Low match (procurement/logistics)": 1,
+    "Low match (project support management)": 1,
     "Low match (supply chain digitalization / programme management)": 1,
     "National-only": 2,
+    "Low match (program development and awards management)": 1,
     "Low match (procurement)": 2,
-    "Low match (finance)": 5,
     "Low match (public health / NCD programme management)": 1,
-    "Low match (volunteer / education support)": 1,
+    "Low match (volunteering / education support)": 1,
     "Low match (WASH (Water, Sanitation and Hygiene))": 1,
     "Low match (partnerships)": 1,
     "Low match (health program management)": 1,
-    "Low match (emergency response management)": 1,
-    "Low match (agricultural extension and aggregation)": 2,
-    "Low match (governance and citizen engagement)": 1,
-    "Low match (grants and compliance)": 1,
-    "Low match (engineering)": 2,
-    "Low match (fundraising operations)": 1,
-    "Low match (medical)": 1,
-    "Low match (logistics)": 1,
-    "Low match (information management / GIS)": 1,
-    "Low match (partnerships management)": 1,
-    "Low match (mine action / explosive ordnance risk education (EORE) quality assurance)": 1,
-    "Low match (support services management (logistics, human resources, finance))": 1,
-    "Low match (IT network and systems administration)": 1,
-    "Low match (humanitarian mine action / explosive ordnance disposal)": 1,
-    "Low match (environmental action)": 1,
-    "Low match (pharmacy)": 1,
-    "Low match (humanitarian mine action)": 1
+    "Low match (monitoring, evaluation, accountability and learning (MEAL))": 1
   },
   "near_misses": [
     {
@@ -62,23 +64,13 @@
       ]
     },
     {
-      "title": "Logistics and Supply Coordinator - HR Roster",
-      "score": 35,
+      "title": "Area Manager - Sudan",
+      "score": 28,
       "reasons": [
-        "+ field coordinator",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
-        "+ procurement",
-        "+ fleet",
-        "- finance",
+        "+ area manager (title)",
         "- medical",
-        "- research",
-        "- human resources",
         "+ \\br&r\\b",
-        "+ family (duty station|package)",
-        "+ profession matches your experience (logistics)",
-        "- somewhat senior for this level"
+        "+ slightly senior for this level -- likely fine"
       ]
     },
     {
@@ -95,13 +87,41 @@
       ]
     },
     {
-      "title": "Tupande Cashew Extension and Aggregation Supervisor (Fixed-term)",
-      "score": 22,
+      "title": "Oficial Administrativo – Bogota, Colombia",
+      "score": 25,
       "reasons": [
-        "+ procurement",
-        "- may be overqualified (15y vs 2y required)",
-        "+ education field aligned (Agriculture, Agribusiness, Community Development, or related field)",
-        "+ degree can be substituted by experience -- good fit"
+        "+ experience matches (15y vs 5y required)",
+        "+ education field aligned (public administration or related field)",
+        "+ degree can be substituted by experience -- good fit",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "International Study Tour to Egypt: Strengthening Institutional Capacity and Governance of the Iraqi Company for Bank Guarantees (ICBG)",
+      "score": 18,
+      "reasons": [
+        "+ logistics",
+        "- finance",
+        "+ profession matches your experience (event and logistics management)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "rfx_10706_ROAS - Support Ministry of Youth and Sports in Baghdad to Roll out Job Search Clubs - PROSPECT in Baghdad",
+      "score": 17,
+      "reasons": [
+        "+ transport",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "Support Ministry of Youth and Sports in Ninawa to Roll out Job Search Clubs - PROSPECT",
+      "score": 17,
+      "reasons": [
+        "+ transport",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
       ]
     },
     {
@@ -146,9 +166,9 @@
       ],
       "warnings": [
         "Posting is in French; French fluency required",
-        "Work authorization/visa status not stated",
-        "International recruitment not explicitly stated",
-        "Experience requirement text appears truncated ('Au moins 7')"
+        "International recruitment status not stated",
+        "Visa/work authorization not mentioned",
+        "Experience requirement truncated in posting"
       ],
       "job_profile": {
         "profession": "operations management",
@@ -162,100 +182,9 @@
         "international_recruitment": null,
         "warnings": [
           "Posting is in French; French fluency required",
-          "Work authorization/visa status not stated",
-          "International recruitment not explicitly stated",
-          "Experience requirement text appears truncated ('Au moins 7')"
-        ]
-      }
-    },
-    {
-      "title": "Fertilizer Procurement Associate",
-      "org": "One Acre Fund",
-      "country": "Kenya",
-      "url": "https://reliefweb.int/job/4229249/fertilizer-procurement-associate",
-      "posted": "2026-09-10T06:22:58+00:00",
-      "closing": "2026-10-16T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 58,
-      "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
-      },
-      "reasons": [
-        "+ supply chain",
-        "+ procurement (title)",
-        "+ profession matches your experience (procurement)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Job posting appears truncated; qualifications section incomplete",
-        "No explicit years of experience stated",
-        "No degree requirement stated",
-        "No language requirements stated",
-        "International recruitment status unclear",
-        "Location not specified"
-      ],
-      "job_profile": {
-        "profession": "procurement",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": null,
-        "warnings": [
-          "Job posting appears truncated; qualifications section incomplete",
-          "No explicit years of experience stated",
-          "No degree requirement stated",
-          "No language requirements stated",
-          "International recruitment status unclear",
-          "Location not specified"
-        ]
-      }
-    },
-    {
-      "title": "SENIOR LOGISTICS & SUPPLY CHAIN OFFICER - National",
-      "org": "Oxfam GB",
-      "country": "Syrian Arab Republic",
-      "url": "https://reliefweb.int/job/4229140/senior-logistics-supply-chain-officer-national",
-      "posted": "2026-09-09T14:09:47+00:00",
-      "closing": "2026-09-24T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 55,
-      "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
-      },
-      "reasons": [
-        "+ logistics manager",
-        "+ country logistics",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ warehousing",
-        "- finance",
-        "- legal",
-        "+ profession matches your experience (logistics and supply chain)",
-        "- significantly overqualified for this level"
-      ],
-      "warnings": [
-        "Position is national, not open to international applicants",
-        "No explicit years of experience or degree requirement stated",
-        "Language requirements not specified"
-      ],
-      "job_profile": {
-        "profession": "logistics and supply chain",
-        "management_level": "officer",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": false,
-        "warnings": [
-          "Position is national, not open to international applicants",
-          "No explicit years of experience or degree requirement stated",
-          "Language requirements not specified"
+          "International recruitment status not stated",
+          "Visa/work authorization not mentioned",
+          "Experience requirement truncated in posting"
         ]
       }
     }
