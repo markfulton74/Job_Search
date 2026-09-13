@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:10:36.580Z",
+  "generated_at": "2026-09-13T10:07:43.900Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,39 +15,38 @@
     "best_match_today": "Operations Manager / Responsable Opérations (AVSI Foundation – ETS)"
   },
   "hidden_breakdown": {
+    "Low match (investigations)": 1,
+    "Low match (protection case management)": 2,
     "Low match (logistics)": 3,
     "Low match (resource development / fundraising)": 1,
-    "Low match (programme management)": 16,
-    "Low match (mechatronics, automation and CNC technical education)": 1,
+    "Low match (programme management)": 15,
+    "Low match (technical education and industrial automation)": 1,
     "Low match (legal)": 1,
     "Low match (administrative management)": 1,
     "Low match (Weapons and Ammunition Management (WAM) / mine action technical operations)": 1,
     "Low match (medical)": 1,
     "Low match (circular economy programme support)": 1,
-    "Low match (humanitarian programme management / donor engagement and resource mobilization)": 1,
+    "Low match (humanitarian programme management / donor engagement)": 1,
     "Low match (monitoring and evaluation)": 3,
-    "Low match (volunteer network management / fundraising)": 1,
-    "Low match (human resources / recruitment)": 1,
+    "Low match (network management / volunteer coordination)": 1,
+    "Low match (human resources)": 4,
     "Low match (event and logistics management)": 1,
     "Low match (private sector partnerships / business development)": 1,
-    "Low match (human resources)": 3,
     "Low match (advocacy)": 1,
     "Low match (communications)": 1,
     "Low match (finance)": 4,
-    "Low match (support coordination (finance, HR, logistics))": 1,
+    "Low match (support services coordination (finance, HR, logistics))": 1,
     "Low match (documentation)": 1,
     "Low match (procurement/logistics)": 1,
     "Low match (project support management)": 1,
     "Low match (supply chain digitalization / programme management)": 1,
     "National-only": 2,
-    "Low match (program development and awards management)": 1,
+    "Low match (program development and award management)": 1,
     "Low match (procurement)": 2,
     "Low match (public health / NCD programme management)": 1,
     "Low match (volunteering / education support)": 1,
     "Low match (WASH (Water, Sanitation and Hygiene))": 1,
-    "Low match (partnerships)": 1,
-    "Low match (health program management)": 1,
-    "Low match (monitoring, evaluation, accountability and learning (MEAL))": 1
+    "Low match (partnerships)": 1
   },
   "near_misses": [
     {
@@ -168,7 +167,7 @@
         "Posting is in French; French fluency required",
         "International recruitment status not stated",
         "Visa/work authorization not mentioned",
-        "Experience requirement truncated in posting"
+        "Experience requirement truncated ('Au moins 7')"
       ],
       "job_profile": {
         "profession": "operations management",
@@ -184,7 +183,7 @@
           "Posting is in French; French fluency required",
           "International recruitment status not stated",
           "Visa/work authorization not mentioned",
-          "Experience requirement truncated in posting"
+          "Experience requirement truncated ('Au moins 7')"
         ]
       }
     }
