@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:31:18.326Z",
+  "generated_at": "2026-09-15T09:58:46.808Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,47 +15,81 @@
     "best_match_today": "Procurement Senior Coordinator (One Acre Fund)"
   },
   "hidden_breakdown": {
-    "Low match (project management)": 1,
-    "Low match (training and capacity building (NGO governance and accountability))": 1,
+    "Low match (programme management)": 7,
+    "Low match (information technology)": 1,
+    "Low match (network development)": 1,
+    "Low match (logistics)": 2,
+    "Low match (finance)": 3,
+    "Low match (administrative assistance)": 1,
+    "Low match (human resources)": 3,
+    "Low match (data and records management)": 1,
+    "Low match (WASH / humanitarian technical project management)": 1,
+    "Low match (medical)": 2,
+    "Low match (Women's Protection and Empowerment (GBV prevention and response))": 1,
+    "Low match (livelihoods and training)": 1,
+    "Low match (climate change adaptation and mitigation)": 1,
+    "Low match (translation)": 1,
+    "Low match (operations management)": 2,
+    "Low match (event management)": 1,
+    "Low match (child protection programme management)": 1,
+    "Low match (early childhood care and education programme management)": 1,
+    "Low match (administration / operations management)": 1,
+    "Low match (pharmacy)": 1,
+    "Low match (procurement/supply)": 1,
+    "Low match (procurement/supply chain)": 1,
+    "Low match (data entry)": 1,
+    "Low match (interior design and office fit-out)": 1,
+    "Low match (digital marketing)": 1,
+    "Low match (project management)": 2,
+    "Low match (training and capacity building)": 1,
     "Low match (psychosocial / MHPSS programme management)": 1,
-    "Low match (programme management)": 14,
     "Low match (electrical engineering)": 2,
-    "Low match (financial services)": 1,
+    "Low match (financial services / payment services)": 1,
     "Low match (operations)": 1,
     "Low match (information and communications technology)": 1,
     "Low match (civil engineering)": 1,
     "Low match (nursing)": 1,
-    "Low match (construction)": 1,
-    "Low match (human resources)": 5,
-    "Low match (communications)": 2,
+    "Low match (construction/office renovation)": 1,
+    "Low match (communications)": 1,
     "Internal/restricted recruitment": 1,
     "Low match (crop sourcing / supply chain management)": 1,
     "Low match (research)": 1,
     "Low match (epidemiology)": 1,
     "Low match (finance systems control)": 1,
     "Low match (investigations)": 1,
-    "Low match (protection case management)": 2,
-    "Low match (logistics)": 1,
-    "Low match (resource development / fundraising)": 1,
-    "Low match (technical education and industrial automation)": 1,
-    "Low match (legal)": 1,
-    "Low match (administrative management)": 1,
-    "Low match (Weapons and Ammunition Management (WAM) / mine action technical operations)": 1,
-    "Low match (medical)": 1,
-    "Low match (circular economy programme support)": 1,
-    "Low match (humanitarian programme management / donor engagement)": 1,
-    "Low match (monitoring and evaluation)": 1,
-    "Low match (network management / volunteer coordination)": 1,
-    "Low match (event and logistics management)": 1,
-    "Low match (private sector partnerships / business development)": 1,
-    "Low match (advocacy)": 1,
-    "Low match (finance)": 1,
-    "Low match (support coordination (finance, HR, logistics))": 1,
-    "Low match (documentation)": 1,
-    "Low match (procurement/logistics)": 1,
-    "Low match (project support management)": 1
+    "Low match (protection case management)": 2
   },
   "near_misses": [
+    {
+      "title": "Nigeria Trees Execution Specialist",
+      "score": 33,
+      "reasons": [
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement",
+        "+ profession matches your preferred field (operations management)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Supply and Delivery of Diesel ITT/Open Tender For Syria",
+      "score": 32,
+      "reasons": [
+        "+ procurement",
+        "+ profession matches your experience (procurement/supply)"
+      ]
+    },
+    {
+      "title": "Area Manager - Northern Hub",
+      "score": 31,
+      "reasons": [
+        "+ area manager (title)",
+        "+ logistics",
+        "+ procurement",
+        "- finance",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
     {
       "title": "Tupande Crop Sourcing Specialist (Fixed-Term)",
       "score": 31,
@@ -85,41 +119,32 @@
       ]
     },
     {
-      "title": "Area Manager - Sudan",
-      "score": 28,
+      "title": "CHEFFE OU CHEF DE PROJET TECHNIQUE - FIELD SUPPORT TEAM - FRANCE",
+      "score": 21,
       "reasons": [
-        "+ area manager (title)",
-        "- medical",
-        "+ \\br&r\\b",
-        "+ slightly senior for this level -- likely fine"
+        "+ transport",
+        "- nutrition",
+        "+ experience matches (15y vs 10y required)",
+        "+ management level matches"
       ]
     },
     {
-      "title": "Oficial Administrativo – Bogota, Colombia",
-      "score": 25,
-      "reasons": [
-        "+ experience matches (15y vs 5y required)",
-        "+ education field aligned (Public Administration or related field)",
-        "+ degree can be substituted by experience -- good fit",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "International Study Tour to Egypt: Strengthening Institutional Capacity and Governance of the Iraqi Company for Bank Guarantees (ICBG)",
+      "title": "SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF 3,000-LITRE BULK MILK COOLING TANKS, STANDBY GENERATORS, AUTOMATED CUP AND BOTTLE FILLING MACHINES,",
       "score": 18,
       "reasons": [
-        "+ logistics",
+        "+ supply chain",
         "- finance",
-        "+ profession matches your experience (event and logistics management)",
+        "+ profession matches your experience (procurement/supply chain)",
         "- somewhat senior for this level"
       ]
     },
     {
-      "title": "Venezuela: Oficial de Compras (Caracas)",
-      "score": 15,
+      "title": "Gestor de Operações",
+      "score": 17,
       "reasons": [
-        "+ profession matches your experience (procurement/logistics)",
-        "- significantly overqualified for this level"
+        "- legal",
+        "+ profession matches your preferred field (operations management)",
+        "+ slightly senior for this level -- likely fine"
       ]
     }
   ],
@@ -147,9 +172,9 @@
       "warnings": [
         "No explicit years of experience required",
         "No degree requirement stated",
-        "No language requirements specified",
+        "No language requirements stated",
         "International recruitment status unclear",
-        "Location and work authorization not specified"
+        "Visa/work authorization not mentioned"
       ],
       "job_profile": {
         "profession": "procurement",
@@ -162,9 +187,9 @@
         "warnings": [
           "No explicit years of experience required",
           "No degree requirement stated",
-          "No language requirements specified",
+          "No language requirements stated",
           "International recruitment status unclear",
-          "Location and work authorization not specified"
+          "Visa/work authorization not mentioned"
         ]
       }
     }
