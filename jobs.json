@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:58:46.808Z",
+  "generated_at": "2026-09-16T09:49:11.293Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -11,55 +11,55 @@
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 42,
-    "best_match_today": "Procurement Senior Coordinator (One Acre Fund)"
+    "average_score": 52,
+    "best_match_today": "Logistics Coordinator - Nigeria (Terre des hommes)"
   },
   "hidden_breakdown": {
-    "Low match (programme management)": 7,
-    "Low match (information technology)": 1,
+    "Low match (information management)": 1,
+    "Low match (programme management)": 8,
+    "Low match (legal)": 1,
+    "Internal/restricted recruitment": 1,
+    "Low match (logistics)": 5,
+    "Low match (engineering)": 1,
+    "Low match (research)": 1,
+    "Low match (human resources)": 4,
+    "Low match (protection)": 1,
+    "Low match (finance)": 8,
+    "Low match (mental health)": 1,
+    "Low match (humanitarian needs assessment / research)": 1,
+    "Low match (video production)": 1,
+    "Low match (information security)": 1,
+    "Low match (information security and systems)": 2,
+    "Low match (project coordination)": 1,
+    "Low match (financial resilience / livelihoods development)": 1,
     "Low match (network development)": 1,
-    "Low match (logistics)": 2,
-    "Low match (finance)": 3,
     "Low match (administrative assistance)": 1,
-    "Low match (human resources)": 3,
     "Low match (data and records management)": 1,
-    "Low match (WASH / humanitarian technical project management)": 1,
+    "Low match (WASH / humanitarian project management)": 1,
     "Low match (medical)": 2,
-    "Low match (Women's Protection and Empowerment (GBV prevention and response))": 1,
-    "Low match (livelihoods and training)": 1,
+    "Low match (women's protection and empowerment / GBV prevention and response)": 1,
+    "Low match (livelihood and training)": 1,
     "Low match (climate change adaptation and mitigation)": 1,
     "Low match (translation)": 1,
     "Low match (operations management)": 2,
     "Low match (event management)": 1,
-    "Low match (child protection programme management)": 1,
+    "Low match (child protection)": 1,
     "Low match (early childhood care and education programme management)": 1,
     "Low match (administration / operations management)": 1,
     "Low match (pharmacy)": 1,
     "Low match (procurement/supply)": 1,
-    "Low match (procurement/supply chain)": 1,
     "Low match (data entry)": 1,
-    "Low match (interior design and office fit-out)": 1,
-    "Low match (digital marketing)": 1,
-    "Low match (project management)": 2,
-    "Low match (training and capacity building)": 1,
-    "Low match (psychosocial / MHPSS programme management)": 1,
-    "Low match (electrical engineering)": 2,
-    "Low match (financial services / payment services)": 1,
-    "Low match (operations)": 1,
-    "Low match (information and communications technology)": 1,
-    "Low match (civil engineering)": 1,
-    "Low match (nursing)": 1,
-    "Low match (construction/office renovation)": 1,
-    "Low match (communications)": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (crop sourcing / supply chain management)": 1,
-    "Low match (research)": 1,
-    "Low match (epidemiology)": 1,
-    "Low match (finance systems control)": 1,
-    "Low match (investigations)": 1,
-    "Low match (protection case management)": 2
+    "Low match (interior design and office fit-out)": 1
   },
   "near_misses": [
+    {
+      "title": "Consultancy Services for the Design, Development and Implementation of a Cloud-Based Warehouse Management System",
+      "score": 35,
+      "reasons": [
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
     {
       "title": "Nigeria Trees Execution Specialist",
       "score": 33,
@@ -80,41 +80,32 @@
       ]
     },
     {
-      "title": "Area Manager - Northern Hub",
-      "score": 31,
+      "title": "AV Driver (HH)",
+      "score": 27,
       "reasons": [
-        "+ area manager (title)",
-        "+ logistics",
-        "+ procurement",
-        "- finance",
-        "+ slightly senior for this level -- likely fine"
+        "+ transport",
+        "- may be overqualified (15y vs 2y required)",
+        "+ degree can be substituted by experience -- good fit",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Tupande Crop Sourcing Specialist (Fixed-Term)",
-      "score": 31,
+      "title": "Coordinator, Logistics",
+      "score": 27,
       "reasons": [
-        "+ logistics",
+        "+ country logistics",
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
         "+ procurement",
-        "+ profession matches your preferred field (crop sourcing / supply chain management)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Operations Coordinator",
-      "score": 29,
-      "reasons": [
-        "+ operations manager",
-        "+ operations coordinator (title)",
-        "+ logistics",
-        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
         "- finance",
+        "- medical",
         "- education",
         "- human resources",
-        "- may be overqualified (15y vs 3y required)",
-        "+ education field aligned (Business Administration, Human Resources, Management, Logistics, Economics, or a related field)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (operations)",
+        "+ profession matches your experience (logistics)",
         "- somewhat senior for this level"
       ]
     },
@@ -129,16 +120,6 @@
       ]
     },
     {
-      "title": "SUPPLY, INSTALLATION, TESTING AND COMMISSIONING OF 3,000-LITRE BULK MILK COOLING TANKS, STANDBY GENERATORS, AUTOMATED CUP AND BOTTLE FILLING MACHINES,",
-      "score": 18,
-      "reasons": [
-        "+ supply chain",
-        "- finance",
-        "+ profession matches your experience (procurement/supply chain)",
-        "- somewhat senior for this level"
-      ]
-    },
-    {
       "title": "Gestor de Operações",
       "score": 17,
       "reasons": [
@@ -150,34 +131,37 @@
   ],
   "jobs": [
     {
-      "title": "Procurement Senior Coordinator",
-      "org": "One Acre Fund",
-      "country": "Kenya",
-      "url": "https://reliefweb.int/job/4229672/procurement-senior-coordinator",
-      "posted": "2026-09-14T09:24:50+00:00",
-      "closing": "2026-12-13T00:00:00+00:00",
+      "title": "Logistics Coordinator - Nigeria",
+      "org": "Terre des hommes",
+      "country": "Nigeria",
+      "url": "https://reliefweb.int/job/4229915/logistics-coordinator-nigeria",
+      "posted": "2026-09-15T12:56:05+00:00",
+      "closing": "2026-10-14T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 42,
+      "score": 52,
       "verdict": {
         "label": "Low match",
         "tier": "skip"
       },
       "reasons": [
-        "+ supply chain",
-        "+ procurement (title)",
-        "- research",
-        "+ profession matches your experience (procurement)",
+        "+ transport",
+        "+ logistics (title)",
+        "+ fleet",
+        "- education",
+        "+ \\br&r\\b",
+        "+ profession matches your experience (logistics)",
         "- somewhat senior for this level"
       ],
       "warnings": [
-        "No explicit years of experience required",
-        "No degree requirement stated",
-        "No language requirements stated",
+        "Years of experience not stated",
+        "Degree requirement not stated",
+        "Language requirements not stated",
         "International recruitment status unclear",
-        "Visa/work authorization not mentioned"
+        "Contract type 'CDM' ambiguous",
+        "Posting truncated at 'Conditions offered: Swi'"
       ],
       "job_profile": {
-        "profession": "procurement",
+        "profession": "logistics",
         "management_level": "coordinator",
         "years_experience_required": null,
         "degree_required": null,
@@ -185,11 +169,12 @@
         "languages_required": [],
         "international_recruitment": null,
         "warnings": [
-          "No explicit years of experience required",
-          "No degree requirement stated",
-          "No language requirements stated",
+          "Years of experience not stated",
+          "Degree requirement not stated",
+          "Language requirements not stated",
           "International recruitment status unclear",
-          "Visa/work authorization not mentioned"
+          "Contract type 'CDM' ambiguous",
+          "Posting truncated at 'Conditions offered: Swi'"
         ]
       }
     }
