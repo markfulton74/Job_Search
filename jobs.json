@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:53:07.419Z",
+  "generated_at": "2026-09-24T09:51:12.733Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -16,33 +16,32 @@
   },
   "hidden_breakdown": {
     "Low match (grants and partnerships coordination)": 1,
-    "Low match (programme management)": 7,
+    "Low match (programme management)": 8,
     "Low match (medical)": 4,
     "Low match (human resources)": 4,
     "Internal/restricted recruitment": 3,
-    "Low match (emergency programme coordination)": 1,
+    "Low match (emergency programme management)": 1,
     "Low match (finance)": 7,
     "Low match (logistics)": 5,
     "Low match (project management)": 1,
     "Low match (security and humanitarian access)": 1,
-    "Low match (emergency response training / humanitarian capacity building)": 1,
+    "Low match (emergency response training)": 1,
     "Low match (data engineering)": 1,
-    "Low match (HRIS / Product Management)": 1,
+    "Low match (HRIS / IT product management)": 1,
     "Low match (procurement)": 1,
-    "Low match (seed quality control / agriculture)": 1,
+    "Low match (seed quality control)": 1,
     "Low match (protection)": 1,
-    "Low match (screen-printing workshop assistance / social enterprise production support)": 1,
+    "Low match (screen-printing workshop support)": 1,
     "Low match (pharmacy)": 1,
-    "Low match (corporate partnership management)": 1,
+    "Low match (corporate partnerships / development)": 1,
     "Low match (monitoring and evaluation)": 1,
     "Low match (road safety / communications)": 1,
-    "Low match (Monitoring, Evaluation, Accountability and Learning (MEAL) / Project Cycle Management training)": 1,
     "Low match (migration policy and strategy consulting)": 1,
     "Low match (human resources / learning and development)": 1,
     "Low match (safeguarding)": 1,
     "Low match (grants management)": 1,
     "Low match (ethics and compliance)": 1,
-    "Low match (construction training / shelter technical specialist)": 1,
+    "Low match (construction training / shelter technical advisory)": 1,
     "Low match (crisis management)": 1,
     "Low match (fundraising and donor relations)": 1,
     "Low match (communication)": 1,
@@ -129,11 +128,11 @@
         "+ management level matches"
       ],
       "warnings": [
-        "Years of experience not stated",
-        "Degree/education requirements not stated",
-        "Language requirements not stated",
-        "Visa/work authorization status unclear",
-        "Role based in Kenya; international recruitment eligibility not specified"
+        "No years of experience specified",
+        "No degree or education requirements stated",
+        "No language requirements stated",
+        "Visa/work authorization status not mentioned",
+        "Role based in Kenya; international recruitment eligibility unclear"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -144,11 +143,11 @@
         "languages_required": [],
         "international_recruitment": null,
         "warnings": [
-          "Years of experience not stated",
-          "Degree/education requirements not stated",
-          "Language requirements not stated",
-          "Visa/work authorization status unclear",
-          "Role based in Kenya; international recruitment eligibility not specified"
+          "No years of experience specified",
+          "No degree or education requirements stated",
+          "No language requirements stated",
+          "Visa/work authorization status not mentioned",
+          "Role based in Kenya; international recruitment eligibility unclear"
         ]
       }
     },
