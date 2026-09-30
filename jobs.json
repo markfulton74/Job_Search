@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:15:25.389Z",
+  "generated_at": "2026-09-30T11:03:54.710Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -18,13 +18,12 @@
     "Low match (medical leadership)": 1,
     "Low match (monitoring, evaluation, accountability and learning (MEAL))": 1,
     "Low match (finance)": 5,
-    "Low match (governance / programme management)": 1,
-    "Low match (capacity building / programme management)": 1,
+    "Low match (governance / regulatory affairs)": 1,
+    "Low match (programme management)": 9,
     "Low match (WASH / Water Resources / Institutional Capacity Development)": 1,
-    "Low match (programme management)": 8,
     "Low match (compliance)": 1,
     "Low match (governance and legal operations)": 1,
-    "Low match (disaster risk reduction / local governance consulting)": 1,
+    "Low match (disaster risk reduction / local governance)": 1,
     "Low match (health)": 1,
     "Low match (programme coordination)": 1,
     "Low match (emergency programme coordination)": 1,
@@ -32,19 +31,19 @@
     "Low match (monitoring and evaluation)": 3,
     "Low match (information management)": 1,
     "Low match (logistics)": 4,
-    "Low match (Explosive Ordnance Risk Education (EORE) / Humanitarian Mine Action)": 1,
+    "Low match (Explosive Ordnance Risk Education (EORE))": 1,
     "Internal/restricted recruitment": 1,
     "Low match (child protection)": 1,
     "Low match (audit)": 1,
     "Low match (conservation research)": 1,
     "Low match (communications)": 1,
     "Low match (protection)": 1,
-    "Low match (human resources / recruitment administration)": 1,
+    "Low match (human resources administration)": 1,
     "Low match (procurement)": 1,
     "Low match (training facilitation)": 1,
     "Low match (human resources)": 2,
     "Low match (capacity development)": 1,
-    "Low match (proposal writing or monitoring and evaluation)": 1,
+    "Low match (proposal writing / monitoring and evaluation)": 1,
     "Low match (digitalization and technology for development)": 1,
     "Low match (value chain analysis and market systems development)": 1,
     "Low match (localization, partnerships, stakeholder mapping and local institutional capacity)": 1,
@@ -166,8 +165,8 @@
       "warnings": [
         "This is a tender/RFP for freight transport services, not an employment position",
         "No job role, experience, or education requirements stated",
-        "Local service providers in Norte de Santander and Bolívar, Colombia are the intended audience",
-        "No visa or relocation support mentioned"
+        "Local service providers in Colombia (Norte de Santander and Bolívar) targeted",
+        "Contact email provided for tender documents only"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -182,8 +181,8 @@
         "warnings": [
           "This is a tender/RFP for freight transport services, not an employment position",
           "No job role, experience, or education requirements stated",
-          "Local service providers in Norte de Santander and Bolívar, Colombia are the intended audience",
-          "No visa or relocation support mentioned"
+          "Local service providers in Colombia (Norte de Santander and Bolívar) targeted",
+          "Contact email provided for tender documents only"
         ]
       }
     }
