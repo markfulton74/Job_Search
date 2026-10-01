@@ -1,190 +1,108 @@
 {
-  "generated_at": "2026-09-30T11:03:54.710Z",
+  "generated_at": "2026-10-01T11:30:31.689Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 1,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 0,
+    "displayed": 0,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 2,
     "hidden_low_score": 58,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 51,
-    "best_match_today": "COL_RFP_NDS_&_BOL_Transporte_de_carga_20260923 (Danish Refugee Council)"
+    "average_score": 0,
+    "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match (medical leadership)": 1,
-    "Low match (monitoring, evaluation, accountability and learning (MEAL))": 1,
-    "Low match (finance)": 5,
-    "Low match (governance / regulatory affairs)": 1,
-    "Low match (programme management)": 9,
-    "Low match (WASH / Water Resources / Institutional Capacity Development)": 1,
-    "Low match (compliance)": 1,
-    "Low match (governance and legal operations)": 1,
-    "Low match (disaster risk reduction / local governance)": 1,
-    "Low match (health)": 1,
-    "Low match (programme coordination)": 1,
-    "Low match (emergency programme coordination)": 1,
-    "Low match (research)": 1,
-    "Low match (monitoring and evaluation)": 3,
-    "Low match (information management)": 1,
-    "Low match (logistics)": 4,
-    "Low match (Explosive Ordnance Risk Education (EORE))": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (child protection)": 1,
-    "Low match (audit)": 1,
-    "Low match (conservation research)": 1,
+    "Low match (programme management)": 8,
+    "Low match (safeguarding)": 1,
+    "Low match (agriculture engineering / project management)": 1,
+    "Low match (medical)": 1,
+    "Low match (nutrition and health)": 1,
+    "Low match (employment services / workforce development)": 1,
+    "Low match (CRM and fundraising systems management)": 1,
+    "Low match (communications and advocacy)": 1,
+    "Low match (marine engineering / technical supervision)": 1,
+    "Low match (research/consultancy)": 1,
+    "Low match (finance)": 7,
+    "Low match (social development / community-based service delivery)": 1,
+    "Low match (institutional capacity development / governance advisory)": 1,
+    "Low match (health advisory / emergency medical systems)": 1,
+    "Low match (public finance and governance advisory)": 1,
+    "Low match (public administration reform and capacity development)": 1,
+    "Low match (fundraising)": 2,
+    "Low match (financement / gestion des subventions)": 1,
+    "Low match (human resources)": 1,
+    "National-only": 2,
+    "Low match (architectural and engineering consultancy)": 1,
+    "Low match (electoral inclusion and accessibility consulting)": 1,
+    "Low match (information technology / data management)": 1,
+    "Low match (quantity surveying)": 1,
+    "Low match (intercultural mediation)": 1,
+    "Low match (education and training)": 1,
+    "Low match (civil engineering)": 1,
+    "Low match (monitoring, evaluation, research, learning and adaptation (MERLA))": 1,
     "Low match (communications)": 1,
-    "Low match (protection)": 1,
-    "Low match (human resources administration)": 1,
-    "Low match (procurement)": 1,
-    "Low match (training facilitation)": 1,
-    "Low match (human resources)": 2,
-    "Low match (capacity development)": 1,
-    "Low match (proposal writing / monitoring and evaluation)": 1,
-    "Low match (digitalization and technology for development)": 1,
-    "Low match (value chain analysis and market systems development)": 1,
-    "Low match (localization, partnerships, stakeholder mapping and local institutional capacity)": 1,
-    "Low match (facilities management)": 1,
-    "Low match (project management)": 1,
-    "Low match (complaints handling and PSEA (protection from sexual exploitation and abuse))": 1,
-    "Low match (data analysis / humanitarian research)": 1,
-    "Low match (logistics and supply chain management)": 1,
-    "Low match (internal audit)": 1,
-    "Low match (clinical research)": 1,
-    "Low match (procurement/supply)": 1,
-    "Low match (monitoring, evaluation, accountability and learning (MEAL) / mental health and psychosocial support (MHPSS))": 1
+    "Low match (agriculture, market systems and climate finance advisory)": 1,
+    "Low match (knowledge management)": 1,
+    "Low match (IT business relationship management)": 1,
+    "Low match (food safety quality assurance)": 1,
+    "Low match (quality assurance)": 1,
+    "Low match (data and analytics)": 1,
+    "Low match (humanitarian access and security)": 1,
+    "Low match (customer experience / contact centre management)": 1,
+    "Low match (logistics)": 1,
+    "Low match (finance and human resources management)": 1,
+    "Low match (legal translation)": 1,
+    "Low match (monitoring and evaluation)": 1,
+    "Low match (fundraising operations)": 1,
+    "Low match (support services management)": 1,
+    "Low match (humanitarian donor relations / fundraising)": 1,
+    "Low match (humanitarian disarmament and peacebuilding)": 1
   },
   "near_misses": [
     {
-      "title": "Chef de projet de services logistiques ATLAS – Bunia / RDC",
-      "score": 37,
+      "title": "Advisor Public Sector Reform and Capacity Development",
+      "score": 34,
       "reasons": [
-        "+ transport",
-        "- meal",
-        "+ \\br&r\\b",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Chef de projet de services logistiques ATLAS – Uvira / RDC",
-      "score": 37,
-      "reasons": [
-        "+ transport",
-        "- meal",
-        "+ \\br&r\\b",
-        "+ profession matches your experience (logistics)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Responsable de la logistique et de l'approvisionnement - Central African Republic",
-      "score": 35,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "- finance",
-        "+ \\br&r\\b",
-        "+ profession matches your experience (logistics and supply chain management)",
-        "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Coordinateur logistique voltigeur - Worldwide (F/H)",
-      "score": 28,
-      "reasons": [
-        "+ transport",
-        "- finance",
+        "- education",
         "+ experience matches (15y vs 5y required)",
-        "+ education field aligned (purchasing or logistics)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
-        "- somewhat senior for this level"
+        "+ education field aligned (public administration, political science, law, public management, human resource management, education or a related field)",
+        "- requires master's degree",
+        "+ profession matches your experience (public administration reform and capacity development)",
+        "+ slightly senior for this level -- likely fine"
       ]
     },
     {
-      "title": "Procurement Assistant",
-      "score": 25,
+      "title": "Rwanda Quantity Surveyor Lead (Fixed-Term)",
+      "score": 22,
       "reasons": [
-        "+ supply chain",
-        "+ procurement (title)",
-        "+ fleet",
-        "- finance",
-        "- education",
-        "+ profession matches your experience (procurement)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Supply Chain Assistant",
-      "score": 20,
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ supply chain (title)",
         "+ procurement",
-        "- finance",
-        "- education",
-        "- may be overqualified (15y vs 2y required)",
-        "+ education field aligned (Business Administration, Logistics, Supply Chain, Procurement, or another relevant field)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
+        "+ experience matches (15y vs 5y required)",
+        "+ slightly senior for this level -- likely fine"
       ]
     },
     {
-      "title": "BID NOTICE - Raqqa",
+      "title": "Tupande Quality Assurance Specialist (Fixed-term)",
+      "score": 16,
+      "reasons": [
+        "+ procurement",
+        "- education",
+        "+ experience matches (15y vs 5y required)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Humanitarian Access and Security Manager – Bunia / RDC",
       "score": 15,
       "reasons": [
-        "+ profession matches your experience (procurement/supply)",
-        "- significantly overqualified for this level"
+        "+ area manager",
+        "+ transport",
+        "+ \\br&r\\b",
+        "+ slightly senior for this level -- likely fine"
       ]
     }
   ],
-  "jobs": [
-    {
-      "title": "COL_RFP_NDS_&_BOL_Transporte_de_carga_20260923",
-      "org": "Danish Refugee Council",
-      "country": "Colombia",
-      "url": "https://reliefweb.int/job/4231530/colrfpndsboltransportedecarga20260923",
-      "posted": "2026-09-25T22:04:05+00:00",
-      "closing": "2026-10-20T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 51,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ transport (title)",
-        "+ profession matches your experience (logistics)"
-      ],
-      "warnings": [
-        "This is a tender/RFP for freight transport services, not an employment position",
-        "No job role, experience, or education requirements stated",
-        "Local service providers in Colombia (Norte de Santander and Bolívar) targeted",
-        "Contact email provided for tender documents only"
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": null,
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [
-          "Spanish"
-        ],
-        "international_recruitment": false,
-        "warnings": [
-          "This is a tender/RFP for freight transport services, not an employment position",
-          "No job role, experience, or education requirements stated",
-          "Local service providers in Colombia (Norte de Santander and Bolívar) targeted",
-          "Contact email provided for tender documents only"
-        ]
-      }
-    }
-  ]
+  "jobs": []
 }
