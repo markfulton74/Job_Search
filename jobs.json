@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:20:21.873Z",
+  "generated_at": "2026-10-04T11:03:23.858Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,25 +15,29 @@
     "best_match_today": null
   },
   "hidden_breakdown": {
+    "Low match (IT)": 1,
+    "Low match (finance and human resources)": 1,
+    "Low match (capacity development / mine action technical advisory)": 1,
+    "Low match (finance)": 3,
+    "Low match (programme management)": 8,
+    "Low match (humanitarian mine action / explosive ordnance disposal)": 1,
+    "Low match (community liaison / mine action)": 1,
+    "Low match (human resources)": 2,
     "Low match (finance, HR and logistics management)": 1,
-    "Low match (project management)": 1,
     "Low match (logistics)": 3,
     "Low match (operations management)": 1,
-    "Low match (grants management)": 2,
+    "Low match (grants management)": 1,
     "Low match (training and capacity building)": 1,
     "Low match (human resources compliance)": 1,
     "Low match (research/consultancy)": 1,
     "Low match (external assurance / audit)": 1,
     "Low match (executive leadership / NGO management)": 1,
     "Low match (monitoring, evaluation, accountability and learning (MEAL))": 2,
-    "Low match (human resources)": 1,
-    "Low match (programme management)": 11,
     "Low match (finance and administration)": 1,
     "Low match (information and communication technology)": 1,
     "Low match (maritime facilitation and digitalization)": 1,
-    "Low match (administration and support services management)": 1,
+    "Low match (administrative management)": 1,
     "Low match (internal oversight and ethics)": 1,
-    "Low match (finance)": 2,
     "Low match (travel administration)": 1,
     "Low match (travel management)": 1,
     "Low match (legal)": 1,
@@ -48,7 +52,7 @@
     "Low match (AI Platform Engineering)": 1,
     "Low match (humanitarian mine action)": 1,
     "Low match (international development and humanitarian assistance)": 1,
-    "Low match (gender equality / audit consultancy)": 1,
+    "Low match (gender equality / gender audit consultancy)": 1,
     "Low match (award management)": 1,
     "Low match (security)": 1,
     "Low match (medical)": 1,
@@ -56,9 +60,7 @@
     "Low match (facilities maintenance and cleaning)": 1,
     "Low match (gender equality and social inclusion)": 1,
     "Low match (software development)": 1,
-    "Low match (WASH (Water, Sanitation, and Hygiene))": 1,
-    "Low match (governance / board leadership)": 1,
-    "Low match (monitoring and evaluation)": 1
+    "Low match (WASH (Water, Sanitation, and Hygiene))": 1
   },
   "near_misses": [
     {
@@ -87,15 +89,6 @@
         "- human resources",
         "+ profession matches your preferred field (operations management)",
         "+ slightly senior for this level -- likely fine"
-      ]
-    },
-    {
-      "title": "Chief, Central Support Services (D.1)",
-      "score": 26,
-      "reasons": [
-        "+ procurement",
-        "- education",
-        "+ profession matches your experience (administration and support services management)"
       ]
     },
     {
