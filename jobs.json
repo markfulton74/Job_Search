@@ -1,61 +1,57 @@
 {
-  "generated_at": "2026-10-06T11:55:34.882Z",
+  "generated_at": "2026-10-07T11:40:12.038Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 4,
+    "displayed": 1,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 1,
+    "hidden_national_restriction": 4,
     "hidden_low_score": 55,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 2,
-    "average_score": 54,
-    "best_match_today": "Call for Expressions of Interest: Consultant – Global ESUPS Event Coordination (Welthungerhilfe)"
+    "review_matches": 0,
+    "average_score": 50,
+    "best_match_today": "Logistics and Management Services for ITCILO Digitalization of Artificial Intelligence Training of Trainers Event (International Labour Organization)"
   },
   "hidden_breakdown": {
-    "Low match (casework)": 1,
-    "Low match (operations management)": 1,
-    "Low match (programme management)": 10,
-    "Low match (monitoring and evaluation)": 3,
-    "Low match (real estate advisory / property consultancy)": 1,
     "Low match (finance)": 4,
-    "Low match (law and justice programme coordination)": 1,
-    "Low match (health regulatory liaison)": 1,
-    "Low match (nursing)": 1,
-    "Low match (humanitarian research and evaluation)": 1,
-    "Low match (humanitarian response coordination)": 1,
-    "Low match (research and evaluation)": 1,
-    "Low match (humanitarian consultancy)": 1,
-    "Low match (medical)": 2,
-    "Low match (human services / refugee resettlement casework)": 1,
-    "Low match (WASH and Shelter/NFI programme management)": 1,
-    "Low match (sign language interpretation)": 1,
-    "Low match (payroll administration)": 1,
-    "Low match (finance and human resources management)": 1,
-    "Low match (data collection)": 1,
-    "Low match (project management)": 1,
-    "Low match (ICT network, voice and security support)": 1,
-    "Low match (security and liaison)": 1,
-    "National-only": 1,
+    "Low match (inspection services)": 1,
+    "Low match (programme management)": 11,
+    "Low match (audit)": 1,
+    "Low match (safety and security)": 1,
+    "Low match (human resources compliance and payroll consulting)": 1,
+    "National-only": 4,
+    "Low match (human resources)": 5,
+    "Low match (procurement)": 2,
+    "Low match (training and capacity building in fisheries management)": 1,
+    "Low match (digital development and connectivity program management)": 1,
+    "Low match (governance and administration)": 1,
+    "Low match (Monitoring, Evaluation, Accountability and Learning (MEAL))": 1,
+    "Low match (partnerships)": 1,
+    "Low match (partnerships management)": 1,
+    "Low match (grants and partnership management)": 1,
     "Low match (logistics)": 1,
-    "Low match (procurement)": 1,
-    "Low match (executive leadership / NGO management)": 1,
-    "Low match (energy project implementation / renewable energy and energy efficiency)": 1,
-    "Low match (case management / resettlement support)": 1,
-    "Low match (risk management consulting)": 1,
-    "Low match (human resources)": 1,
-    "Low match (finance and administration)": 1,
-    "Low match (social safeguards)": 1,
-    "Low match (case management)": 1,
-    "Low match (partnerships and engagement)": 1,
-    "Low match (IT / AI architecture consulting)": 1,
-    "Low match (business development / resource mobilization)": 1,
-    "Low match (learning and development / coaching services)": 1,
-    "Low match (impact measurement and social performance management)": 1,
-    "Low match (field operations)": 1,
-    "Low match (communications)": 1
+    "Low match (information management)": 1,
+    "Low match (research)": 1,
+    "Low match (communications)": 1,
+    "Low match (logistics and administration)": 1,
+    "Low match (assistive technology / rehabilitation)": 1,
+    "Low match (project coordination)": 1,
+    "Low match (training and capacity development in banking operations)": 1,
+    "Low match (health and WaSH programme management)": 1,
+    "Low match (systems integration / software development)": 1,
+    "Low match (programme and administrative support)": 1,
+    "Low match (humanitarian affairs)": 2,
+    "Low match (support services management)": 1,
+    "Low match (research and data collection)": 1,
+    "Low match (international development / humanitarian research and project support)": 1,
+    "Low match (community conservation)": 1,
+    "Low match (medical)": 1,
+    "Low match (agronomy and extension)": 1,
+    "Low match (casework / social services)": 1,
+    "Low match (operations management)": 1,
+    "Low match (monitoring and evaluation)": 1
   },
   "near_misses": [
     {
@@ -76,126 +72,79 @@
       ]
     },
     {
-      "title": "Tender Announcement – Supply and Provision of School Desks",
-      "score": 34,
+      "title": "Consultoria para Conceção e Realização de uma Ação de Formação Especializada em Atividade Bancária no Âmbito da Implementação do Sistema Banco do Teso",
+      "score": 32,
       "reasons": [
-        "+ transport",
-        "+ procurement",
-        "+ profession matches your experience (procurement)"
+        "+ profession matches your preferred field (training and capacity development in banking operations)",
+        "+ management level matches"
       ]
     },
     {
-      "title": "Zambia Field Operations & Performance Specialist (Fixed-Term)",
-      "score": 29,
+      "title": "Procurement Assistant",
+      "score": 30,
       "reasons": [
         "+ logistics",
-        "+ profession matches your preferred field (field operations)",
-        "+ slightly senior for this level -- likely fine"
+        "+ supply chain",
+        "+ procurement (title)",
+        "- may be overqualified (15y vs 2y required)",
+        "+ education field aligned (Procurement and Supply Chain Management, Logistics, Business Administration, Commerce, or a related field)",
+        "- requires bachelor's degree",
+        "+ profession matches your experience (procurement)",
+        "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Manager logistique - MAROC (H/F/X)",
+      "title": "Consultant - Conformité Fiscale, Paie & Statut Juridique RH (7 Pays)",
       "score": 27,
       "reasons": [
         "+ transport",
-        "- may be overqualified (15y vs 3y required)",
-        "+ education field aligned (logistics)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
+        "- finance",
+        "- nutrition",
+        "+ profession matches your experience (human resources compliance and payroll consulting)",
+        "+ management level matches"
+      ]
+    },
+    {
+      "title": "HAITI - RESPONSABLE LOG ADMIN (H/F) - SAINT-MARC",
+      "score": 20,
+      "reasons": [
+        "- finance",
+        "- nutrition",
+        "+ profession matches your experience (logistics and administration)",
         "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "INTERNATIONAL TENDER PROCEDURE FOR Digital Learning Equipment and Related Services Ref: WW/AKELIUS/GLOBAL/2026/IOT02",
+      "score": 19,
+      "reasons": [
+        "- education",
+        "+ profession matches your experience (procurement)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Project Manager – Northeast Syria",
+      "score": 18,
+      "reasons": [
+        "- education",
+        "- nutrition",
+        "+ education field aligned (International Development, Project Management, Business Administration or another relevant field)",
+        "+ degree can be substituted by experience -- good fit",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Conductor",
+      "score": 17,
+      "reasons": [
+        "+ transport",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
       ]
     }
   ],
   "jobs": [
-    {
-      "title": "Call for Expressions of Interest: Consultant – Global ESUPS Event Coordination",
-      "org": "Welthungerhilfe",
-      "country": "Germany",
-      "url": "https://reliefweb.int/job/4232623/call-expressions-interest-consultant-global-esups-event-coordination",
-      "posted": "2026-10-05T13:25:48+00:00",
-      "closing": "2026-10-11T00:00:00+00:00",
-      "category": "Program/Project Management",
-      "score": 59,
-      "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
-      },
-      "reasons": [
-        "+ logistics",
-        "+ supply chain",
-        "+ experience matches (15y vs 10y required)",
-        "+ profession matches your experience (logistics)",
-        "+ management level matches"
-      ],
-      "warnings": [
-        "Event location in Stockholm is to be confirmed",
-        "French and Spanish are assets but not mandatory",
-        "Consultant role, not a staff position",
-        "Requires in-depth knowledge of ESUPS and the STOCKHOLM platform"
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "senior_manager",
-        "years_experience_required": 10,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [
-          "English"
-        ],
-        "international_recruitment": true,
-        "warnings": [
-          "Event location in Stockholm is to be confirmed",
-          "French and Spanish are assets but not mandatory",
-          "Consultant role, not a staff position",
-          "Requires in-depth knowledge of ESUPS and the STOCKHOLM platform"
-        ]
-      }
-    },
-    {
-      "title": "Fertilizer Procurement Strategy Associate",
-      "org": "One Acre Fund",
-      "country": "Kenya",
-      "url": "https://reliefweb.int/job/4232622/fertilizer-procurement-strategy-associate",
-      "posted": "2026-10-05T12:51:26+00:00",
-      "closing": "2026-11-16T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 58,
-      "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
-      },
-      "reasons": [
-        "+ supply chain",
-        "+ procurement (title)",
-        "+ profession matches your experience (procurement)",
-        "+ slightly senior for this level -- likely fine"
-      ],
-      "warnings": [
-        "Job posting appears truncated; qualifications section incomplete",
-        "No explicit years of experience stated",
-        "No degree requirement specified",
-        "No language requirements specified",
-        "International recruitment status unclear",
-        "Location and work authorization not mentioned"
-      ],
-      "job_profile": {
-        "profession": "procurement",
-        "management_level": "manager",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": null,
-        "warnings": [
-          "Job posting appears truncated; qualifications section incomplete",
-          "No explicit years of experience stated",
-          "No degree requirement specified",
-          "No language requirements specified",
-          "International recruitment status unclear",
-          "Location and work authorization not mentioned"
-        ]
-      }
-    },
     {
       "title": "Logistics and Management Services for ITCILO Digitalization of Artificial Intelligence Training of Trainers Event",
       "org": "International Labour Organization",
@@ -215,11 +164,10 @@
         "- somewhat senior for this level"
       ],
       "warnings": [
-        "No specific years of experience or degree requirements stated",
-        "Arabic language required for training delivery, but unclear if service provider staff must speak Arabic",
-        "Location is Erbil, Iraq; international applicants may face visa and security challenges",
-        "Hotel must be UNDSS approved, implying security constraints",
-        "Posting is for a service contract, not an employment position"
+        "Visa status unclear",
+        "Local recruitment likely (Erbil, Iraq)",
+        "Arabic required for training delivery",
+        "UNDSS-approved 4-star hotel required"
       ],
       "job_profile": {
         "profession": "logistics",
@@ -232,57 +180,10 @@
         ],
         "international_recruitment": false,
         "warnings": [
-          "No specific years of experience or degree requirements stated",
-          "Arabic language required for training delivery, but unclear if service provider staff must speak Arabic",
-          "Location is Erbil, Iraq; international applicants may face visa and security challenges",
-          "Hotel must be UNDSS approved, implying security constraints",
-          "Posting is for a service contract, not an employment position"
-        ]
-      }
-    },
-    {
-      "title": "Field Service Access & Transport Liaison, Togo",
-      "org": "Mercy Ships",
-      "country": "Togo",
-      "url": "https://reliefweb.int/job/4232700/field-service-access-transport-liaison-togo",
-      "posted": "2026-10-06T11:13:48+00:00",
-      "closing": "2026-10-11T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 47,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ operations manager",
-        "+ transport (title)",
-        "+ logistics",
-        "+ fleet",
-        "- education",
-        "+ profession matches your experience (logistics)",
-        "- somewhat senior for this level"
-      ],
-      "warnings": [
-        "Compensation range applies to U.S.-based hires; actual compensation may vary based on location",
-        "Visa/work authorization status not specified",
-        "Language requirements not stated",
-        "Fixed-term 5-month assignment, not permanent",
-        "Must be in-country by October 26"
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "coordinator",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": true,
-        "warnings": [
-          "Compensation range applies to U.S.-based hires; actual compensation may vary based on location",
-          "Visa/work authorization status not specified",
-          "Language requirements not stated",
-          "Fixed-term 5-month assignment, not permanent",
-          "Must be in-country by October 26"
+          "Visa status unclear",
+          "Local recruitment likely (Erbil, Iraq)",
+          "Arabic required for training delivery",
+          "UNDSS-approved 4-star hotel required"
         ]
       }
     }
