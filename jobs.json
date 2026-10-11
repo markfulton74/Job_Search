@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:04:23.789Z",
+  "generated_at": "2026-10-11T11:21:24.855Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
@@ -15,6 +15,7 @@
     "best_match_today": null
   },
   "hidden_breakdown": {
+    "Low match (finance)": 4,
     "Low match (program management)": 1,
     "Low match (programme management)": 10,
     "Low match (humanitarian response and recovery)": 1,
@@ -23,9 +24,8 @@
     "Low match (climate action and mobility)": 1,
     "Low match (security)": 1,
     "Low match (construction / civil works (WASH infrastructure))": 1,
-    "Low match (economic empowerment)": 1,
+    "Low match (economic empowerment / workforce development)": 1,
     "Low match (human resources / employer of record services)": 1,
-    "Low match (finance)": 3,
     "Low match (safeguarding)": 2,
     "Low match (research)": 1,
     "Low match (media production)": 1,
@@ -36,13 +36,13 @@
     "National-only": 3,
     "Low match (engineering)": 1,
     "Low match (survey research / monitoring and evaluation)": 1,
-    "Low match (consulting)": 1,
+    "Low match (consulting / digital systems feasibility and design)": 1,
     "Low match (IT / AI platform engineering)": 1,
     "Low match (mental health and protection)": 1,
     "Low match (entrepreneurship training and business coaching)": 1,
     "Low match (humanitarian mine action / programme management)": 1,
     "Low match (partnerships and grants management)": 1,
-    "Low match (medical and health coordination)": 1,
+    "Low match (medical and health programme coordination)": 1,
     "Low match (human resource management)": 1,
     "Low match (medical)": 1,
     "Low match (knowledge management and learning)": 1,
@@ -59,8 +59,7 @@
     "Low match (market systems development)": 1,
     "Low match (monitoring and evaluation / resilience research)": 1,
     "Low match (monitoring and evaluation)": 1,
-    "Low match (support services management)": 1,
-    "Low match (human resources)": 1
+    "Low match (support services management)": 1
   },
   "near_misses": [
     {
