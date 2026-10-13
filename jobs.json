@@ -1,85 +1,64 @@
 {
-  "generated_at": "2026-10-12T12:58:10.345Z",
+  "generated_at": "2026-10-13T12:35:09.202Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 0,
-    "hidden_hard_reject": 0,
-    "hidden_national_restriction": 2,
-    "hidden_low_score": 58,
+    "displayed": 2,
+    "hidden_hard_reject": 1,
+    "hidden_national_restriction": 4,
+    "hidden_low_score": 53,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 0,
-    "best_match_today": null
+    "average_score": 48,
+    "best_match_today": "Senior Procurement & Logistics Officer (HEKS/EPER)"
   },
   "hidden_breakdown": {
+    "Internal/restricted recruitment": 1,
+    "Low match (logistics)": 2,
+    "Low match (government relations)": 1,
+    "Low match (youth program management)": 2,
+    "Low match (programme management)": 7,
+    "Low match (marine ecology)": 1,
+    "Low match (monitoring and evaluation / vulnerability assessment and mapping)": 1,
+    "Low match (monitoring and evaluation)": 1,
+    "Low match (sales)": 1,
+    "Low match (nutrition programme management)": 1,
+    "Low match (printing and manufacturing)": 1,
+    "Low match (human resources)": 1,
+    "Low match (institutional reform / public administration)": 1,
+    "Low match (public administration reform)": 2,
+    "Low match (internal audit)": 1,
+    "Low match (operations management)": 2,
+    "Low match (procurement)": 3,
+    "Low match (security)": 2,
+    "Low match (climate finance)": 1,
+    "National-only": 4,
+    "Low match (construction / civil engineering)": 1,
+    "Low match (supply chain planning)": 1,
+    "Low match (internal auditing)": 1,
+    "Low match (training and capacity building)": 1,
+    "Low match (finance and compliance)": 1,
+    "Low match (media production)": 1,
+    "Low match (border management / capacity building)": 1,
     "Low match (advocacy and policy)": 1,
     "Low match (network engineering)": 1,
     "Low match (audit compliance)": 1,
-    "Low match (procurement)": 2,
-    "Low match (operations management)": 1,
     "Low match (health data auditing)": 1,
-    "Low match (research management)": 2,
+    "Low match (research and field site management)": 1,
     "Low match (communications)": 1,
-    "Low match (accountability / MEAL)": 1,
+    "Low match (accountability / monitoring and evaluation)": 1,
     "Low match (philanthropy / fundraising)": 1,
+    "Low match (research management)": 1,
     "Low match (partnership management)": 1,
-    "Low match (WASH/infrastructure engineering)": 1,
+    "Low match (WASH / infrastructure engineering)": 1,
     "Low match (WASH engineering)": 1,
-    "Low match (logistics)": 3,
+    "Low match (supply chain)": 1,
     "Low match (operations)": 1,
-    "Low match (programme management)": 9,
-    "Low match (finance and human resources)": 1,
-    "Low match (security)": 2,
-    "Low match (administration)": 1,
-    "Low match (prosthetics and orthotics)": 1,
-    "Low match (IT endpoint administration)": 1,
-    "Low match (grants management)": 1,
-    "Low match (partnerships and development)": 1,
-    "Low match (community engagement)": 1,
-    "Low match (finance)": 3,
-    "Low match (information management)": 1,
-    "National-only": 2,
-    "Low match (auditing)": 1,
-    "Low match (medical)": 2,
-    "Low match (pharmacy)": 1,
-    "Low match (midwifery)": 1,
-    "Low match (nutrition)": 1,
-    "Low match (program management)": 1,
-    "Low match (humanitarian response and recovery)": 1,
-    "Low match (multimedia production / creative agency)": 1,
-    "Low match (nursing)": 1,
-    "Low match (climate action and mobility)": 1,
-    "Low match (construction / civil works (WASH infrastructure))": 1,
-    "Low match (economic empowerment / workforce development)": 1,
-    "Low match (human resources / employer of record services)": 1,
-    "Low match (safeguarding)": 1,
-    "Low match (research)": 1,
-    "Low match (media production)": 1
+    "Low match (finance and human resources)": 1
   },
   "near_misses": [
-    {
-      "title": "IT Endpoint Administrator",
-      "score": 33,
-      "reasons": [
-        "- education",
-        "- research",
-        "+ experience matches (15y vs 7y required)",
-        "+ degree can be substituted by experience -- good fit",
-        "+ profession matches your experience (IT endpoint administration)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Tender Announcement: Provision of a Mobile Soil Analysis Laboratory.",
-      "score": 32,
-      "reasons": [
-        "+ procurement",
-        "+ profession matches your experience (procurement)"
-      ]
-    },
     {
       "title": "Procurement Coordinator Re-advertised - Syria Aleppo & Idleb",
       "score": 29,
@@ -97,39 +76,199 @@
       ]
     },
     {
-      "title": "Request for Proposals: Employer of Record Services",
+      "title": "Nigeria Regional Warehouse Coordinator (Fixed-term)",
+      "score": 28,
+      "reasons": [
+        "+ transport",
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement",
+        "- may be overqualified (15y vs 2y required)",
+        "+ profession matches your experience (logistics)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Procurement Officer-Damacus",
       "score": 25,
       "reasons": [
-        "+ international recruitment|internationall",
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement (title)",
+        "- finance",
+        "- education",
+        "+ profession matches your experience (procurement)",
+        "- significantly overqualified for this level"
+      ]
+    },
+    {
+      "title": "Area Manager - Syria",
+      "score": 21,
+      "reasons": [
+        "+ operations manager",
+        "+ area manager (title)",
+        "+ transport",
+        "- medical",
+        "- education",
+        "- nutrition",
+        "+ \\br&r\\b",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Institutional Reform Technical Expert - OMSAR",
+      "score": 21,
+      "reasons": [
+        "+ transport",
+        "- finance",
+        "- education",
+        "- research",
+        "+ profession matches your experience (institutional reform / public administration)",
         "+ management level matches"
       ]
     },
     {
-      "title": "Re-advertisement- Supply Chain Assistant",
-      "score": 20,
+      "title": "Public Administration Reform Implementation Specialist- OMSAR",
+      "score": 21,
       "reasons": [
         "+ transport",
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
         "- finance",
         "- education",
-        "- may be overqualified (15y vs 2y required)",
-        "+ education field aligned (Business Administration, Logistics, Supply Chain, Procurement, or another relevant field)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
+        "- research",
+        "+ profession matches your experience (public administration reform)",
+        "+ management level matches"
+      ]
+    },
+    {
+      "title": "Tender Announcement: Provision of a Mobile Soil Analysis Laboratory.",
+      "score": 17,
+      "reasons": [
+        "+ procurement",
+        "+ profession matches your experience (procurement)",
         "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Venezuela: Oficial de Cadena de Suministro (Caracas)",
-      "score": 17,
+      "title": "Venezuela - Coordinador/a de Operaciones (National)",
+      "score": 16,
       "reasons": [
         "+ transport",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
+        "+ procurement",
+        "- meal",
+        "+ profession matches your preferred field (operations management)",
+        "- somewhat senior for this level"
+      ]
+    },
+    {
+      "title": "Area Sales Manager- North Coast",
+      "score": 15,
+      "reasons": [
+        "+ experience matches (15y vs 6y required)",
+        "+ education field aligned (Business)",
+        "- requires bachelor's degree",
+        "+ slightly senior for this level -- likely fine"
       ]
     }
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Senior Procurement & Logistics Officer",
+      "org": "HEKS/EPER",
+      "country": "Uganda",
+      "url": "https://reliefweb.int/job/4233745/senior-procurement-logistics-officer",
+      "posted": "2026-10-13T08:15:31+00:00",
+      "closing": "2026-10-21T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 50,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ movement control",
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement (title)",
+        "+ fleet",
+        "- finance",
+        "- accounting",
+        "+ profession matches your experience (procurement and logistics)",
+        "- significantly overqualified for this level"
+      ],
+      "warnings": [
+        "No explicit years of experience stated",
+        "No degree or education requirement stated",
+        "No language requirements stated",
+        "International recruitment status unclear",
+        "Travel to South Sudan required, including at short notice",
+        "Job posting appears truncated"
+      ],
+      "job_profile": {
+        "profession": "procurement and logistics",
+        "management_level": "officer",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": null,
+        "warnings": [
+          "No explicit years of experience stated",
+          "No degree or education requirement stated",
+          "No language requirements stated",
+          "International recruitment status unclear",
+          "Travel to South Sudan required, including at short notice",
+          "Job posting appears truncated"
+        ]
+      }
+    },
+    {
+      "title": "Middle East Head of Operations",
+      "org": "Welthungerhilfe",
+      "country": "Jordan",
+      "url": "https://reliefweb.int/job/4233654/middle-east-head-operations",
+      "posted": "2026-10-12T15:28:08+00:00",
+      "closing": "2026-10-26T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 46,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ transport",
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- legal",
+        "+ international recruitment|internationall",
+        "+ profession matches your experience (operations)"
+      ],
+      "warnings": [
+        "Visa/permit handling mentioned as a responsibility, but no visa sponsorship or eligibility stated",
+        "No explicit years of experience or degree requirements stated",
+        "Language requirements not specified",
+        "International recruitment status unclear",
+        "Job posting appears truncated"
+      ],
+      "job_profile": {
+        "profession": "operations",
+        "management_level": "director",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": null,
+        "warnings": [
+          "Visa/permit handling mentioned as a responsibility, but no visa sponsorship or eligibility stated",
+          "No explicit years of experience or degree requirements stated",
+          "Language requirements not specified",
+          "International recruitment status unclear",
+          "Job posting appears truncated"
+        ]
+      }
+    }
+  ]
 }
