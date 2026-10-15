@@ -1,56 +1,57 @@
 {
-  "generated_at": "2026-10-14T10:02:29.743Z",
+  "generated_at": "2026-10-15T09:44:03.312Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 3,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 1,
-    "hidden_low_score": 55,
+    "hidden_hard_reject": 2,
+    "hidden_national_restriction": 2,
+    "hidden_low_score": 53,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 0,
-    "average_score": 48,
-    "best_match_today": "Senior Procurement & Logistics Officer (HEKS/EPER)"
+    "review_matches": 1,
+    "average_score": 49,
+    "best_match_today": "PROCUREMENT OF GROUP LIFE (GL) INSURANCE COVER. (Heifer International)"
   },
   "hidden_breakdown": {
-    "Low match (programme management)": 10,
+    "Low match (mental health and psychosocial support)": 1,
+    "Low match (programme management)": 7,
+    "Low match (finance)": 6,
+    "Low match (Gender Equality, Disability and Social Inclusion (GEDSI) advisory)": 1,
+    "Low match (fisheries science)": 1,
     "Low match (human resources)": 3,
-    "Low match (procurement)": 4,
-    "Low match (finance)": 4,
-    "Low match (policy and anti-corruption advisory)": 1,
-    "Low match (partnership management)": 1,
-    "Low match (medical)": 2,
-    "Low match (logistics)": 2,
-    "Low match (video production)": 1,
-    "Low match (social development)": 1,
-    "Low match (case management / legal data management)": 1,
-    "Low match (grants management)": 1,
-    "Low match (quality assurance / data analysis)": 1,
-    "Low match (ICT support)": 1,
-    "Low match (award management and partnerships)": 1,
-    "Low match (business development)": 1,
-    "Low match (documents management)": 1,
+    "Low match (casework / social services)": 1,
+    "Low match (logistics)": 3,
     "Low match (humanitarian programme management)": 1,
-    "National-only": 1,
-    "Low match (journalism/media production)": 1,
-    "Internal/restricted recruitment": 1,
-    "Low match (government relations)": 1,
-    "Low match (youth program management)": 2,
-    "Low match (marine ecology)": 1,
-    "Low match (research and monitoring)": 1,
-    "Low match (monitoring and evaluation / vulnerability assessment and mapping)": 1,
-    "Low match (monitoring and evaluation)": 1,
-    "Low match (sales)": 1,
-    "Low match (nutrition programme management)": 1,
-    "Low match (printing and manufacturing)": 1,
-    "Low match (institutional reform / public administration)": 1,
-    "Low match (public administration reform)": 2,
-    "Low match (internal audit)": 1,
-    "Low match (operations management)": 1,
-    "Low match (security)": 1,
-    "Low match (climate finance)": 1
+    "National-only": 2,
+    "Low match (early recovery / technical coordination)": 1,
+    "Low match (information management and digital transformation)": 1,
+    "Low match (gender mainstreaming and workplace integrity)": 1,
+    "Low match (change management and communications)": 1,
+    "Low match (community engagement and health promotion)": 1,
+    "Low match (food security and livelihoods (FSL) / distribution)": 1,
+    "Low match (artificial intelligence / data science)": 1,
+    "Low match (financial management and internal audit)": 1,
+    "Low match (research and mapping)": 1,
+    "Low match (governance and anti-corruption)": 1,
+    "Low match (liaison and partnership)": 1,
+    "Internal/restricted recruitment": 2,
+    "Low match (water, sanitation and hygiene (Watsan))": 1,
+    "Low match (medical)": 2,
+    "Low match (grant compliance)": 1,
+    "Low match (digital transformation / AI strategy)": 1,
+    "Low match (supplier/vendor registration)": 1,
+    "Low match (procurement/supplier prequalification)": 1,
+    "Low match (procurement/supply)": 1,
+    "Low match (insurance underwriting)": 1,
+    "Low match (fraud and compliance investigations)": 1,
+    "Low match (communications)": 1,
+    "Low match (conservation research)": 1,
+    "Low match (procurement)": 3,
+    "Low match (policy and governance advisory)": 1,
+    "Low match (partnership management)": 1,
+    "Low match (procurement and logistics)": 1
   },
   "near_misses": [
     {
@@ -64,7 +65,7 @@
         "- finance",
         "- may be overqualified (15y vs 3y required)",
         "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
+        "+ profession matches your experience (procurement and logistics)",
         "- significantly overqualified for this level"
       ]
     },
@@ -79,78 +80,55 @@
       ]
     },
     {
-      "title": "Nigeria Regional Warehouse Coordinator (Fixed-term)",
-      "score": 28,
+      "title": "Fraud and compliance investigations support Global",
+      "score": 25,
+      "reasons": [
+        "- legal",
+        "+ profession matches your experience (fraud and compliance investigations)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Local Project Coordinator - Consultancy",
+      "score": 15,
       "reasons": [
         "+ transport",
         "+ logistics",
-        "+ supply chain",
         "+ procurement",
-        "- may be overqualified (15y vs 2y required)",
+        "- research",
+        "- may be overqualified (15y vs 4y required)",
+        "+ education field aligned (Business Administration, Project Management, Communications, Social Sciences, or related fields)",
+        "- requires bachelor's degree",
         "+ profession matches your experience (logistics)",
         "- somewhat senior for this level"
       ]
     },
     {
-      "title": "Procurement Officer-Damacus",
-      "score": 25,
+      "title": "Logisticien.ne Projet, RDC (f/h/x)",
+      "score": 15,
       "reasons": [
+        "+ transport",
         "+ logistics",
         "+ supply chain",
-        "+ procurement (title)",
-        "- finance",
-        "- education",
-        "+ profession matches your experience (procurement)",
+        "- nutrition",
+        "+ profession matches your experience (logistics)",
         "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Area Manager - Syria",
-      "score": 21,
+      "title": "TNC SOUTH AFRICA - PREQUALIFICATION OF SUPPLIERS 2027 – 2028",
+      "score": 15,
       "reasons": [
-        "+ operations manager",
-        "+ area manager (title)",
-        "+ transport",
-        "- medical",
-        "- education",
-        "- nutrition",
-        "+ \\br&r\\b",
-        "+ slightly senior for this level -- likely fine"
+        "+ profession matches your experience (procurement/supplier prequalification)",
+        "- significantly overqualified for this level"
       ]
     },
     {
-      "title": "Institutional Reform Technical Expert - OMSAR",
-      "score": 21,
+      "title": "TNC Kenya - PREQUALIFICATION OF SUPPLIERS 2027 – 2028",
+      "score": 15,
       "reasons": [
-        "+ transport",
-        "- finance",
-        "- education",
-        "- research",
-        "+ profession matches your experience (institutional reform / public administration)",
-        "+ management level matches"
-      ]
-    },
-    {
-      "title": "Public Administration Reform Implementation Specialist- OMSAR",
-      "score": 21,
-      "reasons": [
-        "+ transport",
-        "- finance",
-        "- education",
-        "- research",
-        "+ profession matches your experience (public administration reform)",
-        "+ management level matches"
-      ]
-    },
-    {
-      "title": "Venezuela - Coordinador/a de Operaciones (National)",
-      "score": 16,
-      "reasons": [
-        "+ transport",
-        "+ procurement",
-        "- meal",
-        "+ profession matches your preferred field (operations management)",
-        "- somewhat senior for this level"
+        "+ profession matches your experience (procurement/supply)",
+        "- significantly overqualified for this level"
       ]
     },
     {
@@ -160,149 +138,31 @@
         "+ profession matches your experience (procurement)",
         "- significantly overqualified for this level"
       ]
-    },
-    {
-      "title": "Area Sales Manager- North Coast",
-      "score": 15,
-      "reasons": [
-        "+ experience matches (15y vs 6y required)",
-        "+ education field aligned (Business)",
-        "- requires bachelor's degree",
-        "+ slightly senior for this level -- likely fine"
-      ]
     }
   ],
   "jobs": [
     {
-      "title": "Senior Procurement & Logistics Officer",
-      "org": "HEKS/EPER",
-      "country": "Uganda",
-      "url": "https://reliefweb.int/job/4233745/senior-procurement-logistics-officer",
-      "posted": "2026-10-13T08:15:31+00:00",
-      "closing": "2026-10-21T00:00:00+00:00",
+      "title": "PROCUREMENT OF GROUP LIFE (GL) INSURANCE COVER.",
+      "org": "Heifer International",
+      "country": "Kenya",
+      "url": "https://reliefweb.int/job/4233964/procurement-group-life-gl-insurance-cover",
+      "posted": "2026-10-14T10:12:16+00:00",
+      "closing": "2026-10-29T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 50,
+      "score": 56,
       "verdict": {
-        "label": "Low match",
-        "tier": "skip"
+        "label": "Worth reviewing",
+        "tier": "review"
       },
       "reasons": [
-        "+ movement control",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
         "+ procurement (title)",
-        "+ fleet",
-        "- finance",
-        "- accounting",
-        "+ profession matches your experience (procurement and logistics)",
-        "- significantly overqualified for this level"
-      ],
-      "warnings": [
-        "No years of experience specified",
-        "No degree or education requirements stated",
-        "No language requirements stated",
-        "International recruitment status unclear",
-        "Position based in Uganda/South Sudan; work authorization not addressed",
-        "Travel to South Sudan required, which may involve security and visa considerations"
-      ],
-      "job_profile": {
-        "profession": "procurement and logistics",
-        "management_level": "officer",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": null,
-        "warnings": [
-          "No years of experience specified",
-          "No degree or education requirements stated",
-          "No language requirements stated",
-          "International recruitment status unclear",
-          "Position based in Uganda/South Sudan; work authorization not addressed",
-          "Travel to South Sudan required, which may involve security and visa considerations"
-        ]
-      }
-    },
-    {
-      "title": "Supply Chain Coordinator",
-      "org": "Danish Refugee Council",
-      "country": "Tunisia",
-      "url": "https://reliefweb.int/job/4233952/supply-chain-coordinator",
-      "posted": "2026-10-14T07:47:12+00:00",
-      "closing": "2026-11-01T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 48,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
-        "- legal",
-        "+ profession matches your experience (logistics)",
-        "- somewhat senior for this level"
-      ],
-      "warnings": [
-        "No specific years of experience stated",
-        "No degree or education requirements stated",
-        "No language requirements stated",
-        "Visa/work authorization status not mentioned",
-        "Posting text appears truncated at the end"
-      ],
-      "job_profile": {
-        "profession": "logistics",
-        "management_level": "coordinator",
-        "years_experience_required": null,
-        "degree_required": null,
-        "education_field": null,
-        "languages_required": [],
-        "international_recruitment": null,
-        "warnings": [
-          "No specific years of experience stated",
-          "No degree or education requirements stated",
-          "No language requirements stated",
-          "Visa/work authorization status not mentioned",
-          "Posting text appears truncated at the end"
-        ]
-      }
-    },
-    {
-      "title": "Procurement expert - HLGSC - Montreuil",
-      "org": "Humanitarian Logistics Cooperative (Hulo)",
-      "country": "France",
-      "url": "https://reliefweb.int/job/4233764/procurement-expert-hlgsc-montreuil",
-      "posted": "2026-10-13T13:44:20+00:00",
-      "closing": "2026-10-31T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 45,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ transport",
-        "+ logistics",
-        "+ supply chain",
-        "+ procurement (title)",
-        "- education",
-        "- meal",
-        "- human resources",
         "+ profession matches your experience (procurement)",
         "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Years of experience not stated",
-        "Degree/education requirements not stated",
-        "Language requirements not stated",
-        "Visa/work authorization status unclear",
-        "Fixed-term contract until 31/08/2027",
-        "Home-working possible from metropolitan France only"
+        "This is a procurement/tender notice for insurance services, not a job vacancy",
+        "No employment terms, salary, or role responsibilities are specified",
+        "Kenyan licensing and regulatory compliance implied for bidders"
       ],
       "job_profile": {
         "profession": "procurement",
@@ -311,14 +171,94 @@
         "degree_required": null,
         "education_field": null,
         "languages_required": [],
-        "international_recruitment": null,
+        "international_recruitment": false,
         "warnings": [
-          "Years of experience not stated",
-          "Degree/education requirements not stated",
-          "Language requirements not stated",
-          "Visa/work authorization status unclear",
-          "Fixed-term contract until 31/08/2027",
-          "Home-working possible from metropolitan France only"
+          "This is a procurement/tender notice for insurance services, not a job vacancy",
+          "No employment terms, salary, or role responsibilities are specified",
+          "Kenyan licensing and regulatory compliance implied for bidders"
+        ]
+      }
+    },
+    {
+      "title": "Request for Proposal: Provision of Ground Transport Services October 2026 Kenya",
+      "org": "Girl Effect",
+      "country": "Kenya",
+      "url": "https://reliefweb.int/job/4233937/request-proposal-provision-ground-transport-services-october-2026-kenya",
+      "posted": "2026-10-14T10:06:20+00:00",
+      "closing": "2026-10-30T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 48,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ transport (title)",
+        "+ procurement",
+        "+ fleet",
+        "- education",
+        "- nutrition",
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ],
+      "warnings": [
+        "This is a procurement RFP for a transport service provider, not a job vacancy",
+        "No individual employment terms, salary, or contract type for staff are specified",
+        "Local Kenyan registration and fleet likely required; no visa or relocation support mentioned"
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "manager",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [],
+        "international_recruitment": false,
+        "warnings": [
+          "This is a procurement RFP for a transport service provider, not a job vacancy",
+          "No individual employment terms, salary, or contract type for staff are specified",
+          "Local Kenyan registration and fleet likely required; no visa or relocation support mentioned"
+        ]
+      }
+    },
+    {
+      "title": "Supply Chain Intern",
+      "org": "Danish Refugee Council",
+      "country": "Cameroon",
+      "url": "https://reliefweb.int/job/4234086/supply-chain-intern",
+      "posted": "2026-10-14T16:08:56+00:00",
+      "closing": "2026-10-27T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 42,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ supply chain manager",
+        "+ supply chain (title)",
+        "+ profession matches your experience (logistics)",
+        "- significantly overqualified for this level"
+      ],
+      "warnings": [
+        "Internship contract exclusively reserved for Cameroonian nationals",
+        "French language required (posting in French)",
+        "No specific degree or years of experience stated"
+      ],
+      "job_profile": {
+        "profession": "logistics",
+        "management_level": "entry",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [
+          "French"
+        ],
+        "international_recruitment": false,
+        "warnings": [
+          "Internship contract exclusively reserved for Cameroonian nationals",
+          "French language required (posting in French)",
+          "No specific degree or years of experience stated"
         ]
       }
     }
