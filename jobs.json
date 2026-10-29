@@ -1,85 +1,101 @@
 {
-  "generated_at": "2026-10-28T11:12:11.296Z",
+  "generated_at": "2026-10-29T11:28:11.277Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 1,
-    "hidden_hard_reject": 0,
-    "hidden_national_restriction": 4,
-    "hidden_low_score": 55,
+    "hidden_hard_reject": 1,
+    "hidden_national_restriction": 5,
+    "hidden_low_score": 53,
     "excellent_matches": 0,
-    "strong_matches": 1,
-    "review_matches": 0,
-    "average_score": 70,
-    "best_match_today": "Nigeria Supply Chain Coordinator - Logistics & Delivery (One Acre Fund)"
+    "strong_matches": 0,
+    "review_matches": 1,
+    "average_score": 58,
+    "best_match_today": "Intersectional Procurement Manager basé à Bamako ou Ouagadougou - F/H (Médecins Sans Frontières)"
   },
   "hidden_breakdown": {
-    "Low match (skills development / employment intensive approaches)": 1,
+    "Low match (aquaculture and feed production)": 1,
+    "Low match (agricultural engineering)": 1,
+    "Low match (finance)": 9,
+    "Low match (business development)": 1,
     "Low match (programme management)": 9,
+    "Low match (infrastructure engineering)": 1,
+    "Low match (livelihoods / community finance (VSLA facilitation))": 1,
+    "Low match (livelihoods / food security and livelihoods programme management)": 1,
+    "Low match (transport / fleet services (vehicle rental with driver))": 1,
+    "Low match (WASH (water, sanitation and hygiene))": 1,
+    "National-only": 5,
+    "Low match (administrative and financial support / logistics)": 1,
+    "Low match (forestry and agricultural field operations)": 1,
+    "Low match (IT support / ITSM)": 1,
+    "Low match (finance/accounting)": 1,
+    "Low match (philanthropy / fundraising)": 1,
+    "Low match (events and entertainment relations)": 1,
     "Low match (human resources)": 2,
-    "Low match (fundraising administration)": 5,
-    "Low match (finance)": 6,
-    "Low match (cooking / food services)": 1,
-    "Low match (administration)": 1,
-    "Low match (people operations / duty of care / health and safety)": 1,
-    "Low match (agriculture / field trials)": 1,
-    "Low match (operations)": 1,
-    "Low match (procurement and contracts)": 1,
-    "Low match (vocational training and skills development)": 1,
-    "Low match (education policy and qualifications regulation)": 1,
-    "Low match (case management / social services)": 1,
-    "Low match (fundraising / event management)": 1,
-    "Low match (marketing and donor relations)": 1,
-    "Low match (fundraising)": 1,
-    "Low match (logistics)": 3,
-    "Low match (fundraising and philanthropy)": 1,
-    "National-only": 4,
-    "Low match (cash and voucher assistance (CVA) / humanitarian programme)": 1,
-    "Low match (conservation research)": 1,
-    "Low match (communications)": 1,
-    "Low match (environmental and social safeguards monitoring)": 1,
-    "Low match (civil engineering / construction site supervision)": 2,
-    "Low match (humanitarian affairs and advocacy)": 1,
-    "Low match (protection)": 1,
-    "Low match (information technology)": 2,
-    "Low match (finance/admin)": 1,
-    "Low match (research)": 1,
-    "Low match (humanitarian affairs / advocacy)": 1,
-    "Low match (procurement/supply)": 1,
-    "Low match (food security and livelihoods)": 1,
-    "Low match (field operations / humanitarian programme support)": 1
+    "Low match (WASH (water, sanitation and hygiene) programme management)": 1,
+    "Low match (health promotion and mediation)": 1,
+    "Low match (finance and administration)": 1,
+    "Low match (medical device quality assurance / product information management)": 1,
+    "Internal/restricted recruitment": 1,
+    "Low match (humanitarian security and access)": 1,
+    "Low match (event management)": 1,
+    "Low match (logistics)": 1,
+    "Low match (engineering)": 1,
+    "Low match (humanitarian mine action / humanitarian disarmament and peacebuilding)": 1,
+    "Low match (environment and energy)": 1,
+    "Low match (market systems development / livelihoods)": 1,
+    "Low match (livelihoods)": 1,
+    "Low match (skills development / employment intensive approaches)": 1,
+    "Low match (monitoring, evaluation, research and learning (MERL))": 1,
+    "Low match (emergency response / humanitarian programme management)": 1,
+    "Low match (fundraising administration)": 2,
+    "Low match (humanitarian action / emergency response)": 1,
+    "Low match (fundraising)": 1
   },
   "near_misses": [
     {
-      "title": "Head of Programmes",
-      "score": 34,
+      "title": "Logistics Expert",
+      "score": 38,
       "reasons": [
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ fleet",
+        "+ warehousing",
+        "- medical",
+        "- mental health",
+        "- research",
+        "- nutrition",
+        "+ experience matches (15y vs 5y required)",
+        "+ education field aligned (Logistics or related field)",
+        "- requires bachelor's degree",
+        "+ profession matches your experience (logistics)",
+        "+ slightly senior for this level -- likely fine"
+      ]
+    },
+    {
+      "title": "Roving Emergency Advisor – Humanitarian Disarmament & Peacebuilding (emergency roving)",
+      "score": 22,
+      "reasons": [
+        "+ operations manager",
         "- education",
-        "+ international recruitment|internationall",
         "+ experience matches (15y vs 5y required)",
         "+ management level matches"
       ]
     },
     {
-      "title": "Assistant Logistique",
-      "score": 17,
+      "title": "Emergency Response Teamlead",
+      "score": 15,
       "reasons": [
-        "+ fleet",
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
+        "+ experience matches (15y vs 5y required)",
+        "+ education field aligned (humanitarian action, disaster management or international development)",
+        "- requires bachelor's degree",
+        "+ slightly senior for this level -- likely fine"
       ]
     },
     {
       "title": "Scotland Fundraising Admin Assistant (FTC - 3 month)",
-      "score": 15,
-      "reasons": [
-        "+ profession matches your experience (fundraising administration)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "North East Fundraising Admin Assistant (FTC - 3 month)",
       "score": 15,
       "reasons": [
         "+ profession matches your experience (fundraising administration)",
@@ -93,83 +109,53 @@
         "+ profession matches your experience (fundraising administration)",
         "- significantly overqualified for this level"
       ]
-    },
-    {
-      "title": "West Midlands Fundraising Admin Assistant (FTC - 3 months)",
-      "score": 15,
-      "reasons": [
-        "+ profession matches your experience (fundraising administration)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "London and South Fundraising Admin Assistant - FTC (3 months)",
-      "score": 15,
-      "reasons": [
-        "+ profession matches your experience (fundraising administration)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Officier Logistique",
-      "score": 15,
-      "reasons": [
-        "+ profession matches your experience (logistics)",
-        "- significantly overqualified for this level"
-      ]
-    },
-    {
-      "title": "Expression of Interest: Supply of Spare Parts (Mogadishu NTRL)",
-      "score": 15,
-      "reasons": [
-        "+ profession matches your experience (procurement/supply)",
-        "- significantly overqualified for this level"
-      ]
     }
   ],
   "jobs": [
     {
-      "title": "Nigeria Supply Chain Coordinator - Logistics & Delivery",
-      "org": "One Acre Fund",
-      "country": "Nigeria",
-      "url": "https://reliefweb.int/job/4235934/nigeria-supply-chain-coordinator-logistics-delivery",
-      "posted": "2026-10-28T04:13:51+00:00",
-      "closing": "2027-01-13T00:00:00+00:00",
+      "title": "Intersectional Procurement Manager basé à Bamako ou Ouagadougou - F/H",
+      "org": "Médecins Sans Frontières",
+      "country": "Burkina Faso",
+      "url": "https://reliefweb.int/job/4236003/intersectional-procurement-manager-base-bamako-ou-ouagadougou-fh",
+      "posted": "2026-10-28T11:31:53+00:00",
+      "closing": "2026-11-02T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 70,
+      "score": 58,
       "verdict": {
-        "label": "Strong match",
-        "tier": "strong"
+        "label": "Worth reviewing",
+        "tier": "review"
       },
       "reasons": [
         "+ transport",
-        "+ logistics (title)",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "- may be overqualified (15y vs 3y required)",
-        "+ education field aligned (Supply Chain Management, Logistics, Procurement, or related field)",
-        "- requires bachelor's degree",
-        "+ profession matches your experience (logistics)",
-        "- somewhat senior for this level"
+        "+ procurement (title)",
+        "+ profession matches your experience (procurement)",
+        "+ slightly senior for this level -- likely fine"
       ],
       "warnings": [
-        "Only open to citizens or permanent residents of Nigeria",
-        "No language requirements stated",
-        "Rolling hiring basis; deadline may not reflect actual closure"
+        "Posting appears truncated; requirements section missing",
+        "No explicit years of experience stated",
+        "No degree requirement stated",
+        "Visa/work permit status not mentioned",
+        "Position based in Bamako or Ouagadougou; security context not addressed",
+        "French required implicitly (posting in French) but not explicitly stated"
       ],
       "job_profile": {
-        "profession": "logistics",
-        "management_level": "coordinator",
-        "years_experience_required": 3,
-        "degree_required": "bachelor",
-        "education_field": "Supply Chain Management, Logistics, Procurement, or related field",
-        "languages_required": [],
-        "international_recruitment": false,
+        "profession": "procurement",
+        "management_level": "manager",
+        "years_experience_required": null,
+        "degree_required": null,
+        "education_field": null,
+        "languages_required": [
+          "French"
+        ],
+        "international_recruitment": null,
         "warnings": [
-          "Only open to citizens or permanent residents of Nigeria",
-          "No language requirements stated",
-          "Rolling hiring basis; deadline may not reflect actual closure"
+          "Posting appears truncated; requirements section missing",
+          "No explicit years of experience stated",
+          "No degree requirement stated",
+          "Visa/work permit status not mentioned",
+          "Position based in Bamako or Ouagadougou; security context not addressed",
+          "French required implicitly (posting in French) but not explicitly stated"
         ]
       }
     }
