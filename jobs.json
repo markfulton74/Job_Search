@@ -1,31 +1,72 @@
 {
-  "generated_at": "2026-11-09T13:51:37.706Z",
+  "generated_at": "2026-11-10T13:29:50.229Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 0,
+    "displayed": 1,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 2,
-    "hidden_low_score": 58,
+    "hidden_national_restriction": 3,
+    "hidden_low_score": 56,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 0,
-    "average_score": 0,
-    "best_match_today": null
+    "review_matches": 1,
+    "average_score": 57,
+    "best_match_today": "Sudan - Country Logistics Coordinator (COOPI - Cooperazione Internazionale)"
   },
   "hidden_breakdown": {
-    "Low match": 58,
-    "National-only": 2
+    "National-only": 3,
+    "Low match": 56
   },
   "near_misses": [
     {
-      "title": "Request for Tender Proposal Delivery of Certificate IV in Training and Assessment Programs for Transport Sector Agencies in Papua New Guinea",
-      "score": 21,
+      "title": "Admin and Logistics Assistant",
+      "score": 20,
       "reasons": [
-        "+ transport (title)"
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement",
+        "- finance",
+        "- legal",
+        "- education",
+        "+ international recruitment|internationall"
+      ]
+    },
+    {
+      "title": "SUDAN - FIELD COORDINATOR (M/F) - TAWILA",
+      "score": 18,
+      "reasons": [
+        "+ field coordinator (title)",
+        "- medical"
       ]
     }
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Sudan - Country Logistics Coordinator",
+      "org": "COOPI - Cooperazione Internazionale",
+      "country": "Sudan",
+      "url": "https://reliefweb.int/job/4237681/sudan-country-logistics-coordinator",
+      "posted": "2026-11-10T09:24:45+00:00",
+      "closing": "2026-12-14T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 57,
+      "verdict": {
+        "label": "Worth reviewing",
+        "tier": "review"
+      },
+      "reasons": [
+        "+ country logistics (title)",
+        "+ transport",
+        "+ logistics (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- education"
+      ],
+      "warnings": [],
+      "job_profile": null
+    }
+  ]
 }
