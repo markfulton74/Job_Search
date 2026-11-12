@@ -1,61 +1,102 @@
 {
-  "generated_at": "2026-11-11T12:40:55.330Z",
+  "generated_at": "2026-11-12T13:45:13.718Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 1,
-    "hidden_hard_reject": 0,
-    "hidden_national_restriction": 2,
-    "hidden_low_score": 57,
+    "hidden_hard_reject": 1,
+    "hidden_national_restriction": 5,
+    "hidden_low_score": 53,
     "excellent_matches": 0,
     "strong_matches": 0,
-    "review_matches": 1,
-    "average_score": 57,
-    "best_match_today": "Sudan - Country Logistics Coordinator (COOPI - Cooperazione Internazionale)"
+    "review_matches": 0,
+    "average_score": 52,
+    "best_match_today": "Emergency Preparedness and Response Supply Chain & Logistics Officer (Australia Assists)"
   },
   "hidden_breakdown": {
-    "Low match": 57,
-    "National-only": 2
+    "Low match": 53,
+    "Internal/restricted recruitment": 1,
+    "National-only": 5
   },
   "near_misses": [
     {
-      "title": "Admin and Logistics Assistant",
-      "score": 20,
+      "title": "Supply Chain and Operations Manager - Sudan",
+      "score": 37,
       "reasons": [
+        "+ operations manager (title)",
+        "+ area manager",
         "+ transport",
-        "+ logistics (title)",
+        "+ logistics",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- finance",
+        "- medical",
+        "- education",
+        "- nutrition"
+      ]
+    },
+    {
+      "title": "Volunteer Logistics Assistant",
+      "score": 27,
+      "reasons": [
+        "+ logistics manager",
+        "+ logistics (title)"
+      ]
+    },
+    {
+      "title": "Operations Manager, Korea",
+      "score": 24,
+      "reasons": [
+        "+ operations manager (title)",
         "+ supply chain",
         "+ procurement",
         "- finance",
-        "- legal",
-        "- education",
-        "+ international recruitment|internationall"
+        "- education"
+      ]
+    },
+    {
+      "title": "Senior Procurement Specialist and Procurement Specialist - Fiji and Pacific Region",
+      "score": 16,
+      "reasons": [
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement (title)",
+        "- finance"
+      ]
+    },
+    {
+      "title": "Senior Procurement Specialist and Procurement Specialist - Philippines",
+      "score": 16,
+      "reasons": [
+        "+ logistics",
+        "+ supply chain",
+        "+ procurement (title)",
+        "- finance"
       ]
     }
   ],
   "jobs": [
     {
-      "title": "Sudan - Country Logistics Coordinator",
-      "org": "COOPI - Cooperazione Internazionale",
-      "country": "Sudan",
-      "url": "https://reliefweb.int/job/4237681/sudan-country-logistics-coordinator",
-      "posted": "2026-11-10T09:24:45+00:00",
-      "closing": "2026-12-14T00:00:00+00:00",
+      "title": "Emergency Preparedness and Response Supply Chain & Logistics Officer",
+      "org": "Australia Assists",
+      "country": "Solomon Islands",
+      "url": "https://reliefweb.int/job/4238042/emergency-preparedness-and-response-supply-chain-logistics-officer",
+      "posted": "2026-11-11T23:18:40+00:00",
+      "closing": "2026-11-15T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 57,
+      "score": 52,
       "verdict": {
-        "label": "Worth reviewing",
-        "tier": "review"
+        "label": "Low match",
+        "tier": "skip"
       },
       "reasons": [
-        "+ country logistics (title)",
         "+ transport",
         "+ logistics (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
-        "- education"
+        "+ supply chain (title)",
+        "+ warehousing"
       ],
       "warnings": [],
       "job_profile": null
