@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T13:45:13.718Z",
+  "generated_at": "2026-11-13T13:04:13.721Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 1,
     "hidden_hard_reject": 1,
-    "hidden_national_restriction": 5,
-    "hidden_low_score": 53,
+    "hidden_national_restriction": 1,
+    "hidden_low_score": 57,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
@@ -15,9 +15,9 @@
     "best_match_today": "Emergency Preparedness and Response Supply Chain & Logistics Officer (Australia Assists)"
   },
   "hidden_breakdown": {
-    "Low match": 53,
-    "Internal/restricted recruitment": 1,
-    "National-only": 5
+    "Low match": 57,
+    "National-only": 1,
+    "Internal/restricted recruitment": 1
   },
   "near_misses": [
     {
@@ -39,14 +39,6 @@
       ]
     },
     {
-      "title": "Volunteer Logistics Assistant",
-      "score": 27,
-      "reasons": [
-        "+ logistics manager",
-        "+ logistics (title)"
-      ]
-    },
-    {
       "title": "Operations Manager, Korea",
       "score": 24,
       "reasons": [
@@ -55,6 +47,16 @@
         "+ procurement",
         "- finance",
         "- education"
+      ]
+    },
+    {
+      "title": "Occupied Palestinian Territory : Country Security Manager - Gaza",
+      "score": 16,
+      "reasons": [
+        "+ transport",
+        "- education",
+        "+ international recruitment|internationall",
+        "+ \\br&r\\b"
       ]
     },
     {
