@@ -1,43 +1,24 @@
 {
-  "generated_at": "2026-11-13T13:04:13.721Z",
+  "generated_at": "2026-11-14T12:07:38.917Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 1,
-    "hidden_hard_reject": 1,
+    "displayed": 0,
+    "hidden_hard_reject": 0,
     "hidden_national_restriction": 1,
-    "hidden_low_score": 57,
+    "hidden_low_score": 59,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 52,
-    "best_match_today": "Emergency Preparedness and Response Supply Chain & Logistics Officer (Australia Assists)"
+    "average_score": 0,
+    "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match": 57,
-    "National-only": 1,
-    "Internal/restricted recruitment": 1
+    "Low match": 59,
+    "National-only": 1
   },
   "near_misses": [
-    {
-      "title": "Supply Chain and Operations Manager - Sudan",
-      "score": 37,
-      "reasons": [
-        "+ operations manager (title)",
-        "+ area manager",
-        "+ transport",
-        "+ logistics",
-        "+ supply chain (title)",
-        "+ procurement",
-        "+ fleet",
-        "+ warehousing",
-        "- finance",
-        "- medical",
-        "- education",
-        "- nutrition"
-      ]
-    },
     {
       "title": "Operations Manager, Korea",
       "score": 24,
@@ -80,28 +61,5 @@
       ]
     }
   ],
-  "jobs": [
-    {
-      "title": "Emergency Preparedness and Response Supply Chain & Logistics Officer",
-      "org": "Australia Assists",
-      "country": "Solomon Islands",
-      "url": "https://reliefweb.int/job/4238042/emergency-preparedness-and-response-supply-chain-logistics-officer",
-      "posted": "2026-11-11T23:18:40+00:00",
-      "closing": "2026-11-15T00:00:00+00:00",
-      "category": "Logistics/Procurement",
-      "score": 52,
-      "verdict": {
-        "label": "Low match",
-        "tier": "skip"
-      },
-      "reasons": [
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain (title)",
-        "+ warehousing"
-      ],
-      "warnings": [],
-      "job_profile": null
-    }
-  ]
+  "jobs": []
 }
