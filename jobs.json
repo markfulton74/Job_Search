@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T12:44:01.380Z",
+  "generated_at": "2026-11-16T13:35:51.268Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 0,
     "hidden_hard_reject": 0,
-    "hidden_national_restriction": 1,
-    "hidden_low_score": 59,
+    "hidden_national_restriction": 4,
+    "hidden_low_score": 56,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
@@ -15,18 +15,16 @@
     "best_match_today": null
   },
   "hidden_breakdown": {
-    "Low match": 59,
-    "National-only": 1
+    "Low match": 56,
+    "National-only": 4
   },
   "near_misses": [
     {
-      "title": "Operations Manager, Korea",
-      "score": 24,
+      "title": "ICT Project Support - RFID & Asset Tracking (Supply Chain)",
+      "score": 20,
       "reasons": [
-        "+ operations manager (title)",
-        "+ supply chain",
-        "+ procurement",
-        "- finance",
+        "+ supply chain (title)",
+        "+ warehousing",
         "- education"
       ]
     },
@@ -41,13 +39,12 @@
       ]
     },
     {
-      "title": "Senior Procurement Specialist and Procurement Specialist - Fiji and Pacific Region",
-      "score": 16,
+      "title": "Area Manager Maradi Niger",
+      "score": 15,
       "reasons": [
-        "+ logistics",
-        "+ supply chain",
-        "+ procurement (title)",
-        "- finance"
+        "+ area manager (title)",
+        "- legal",
+        "- education"
       ]
     }
   ],
