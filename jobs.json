@@ -1,33 +1,101 @@
 {
-  "generated_at": "2026-11-17T14:21:29.977Z",
+  "generated_at": "2026-11-18T13:52:21.782Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 0,
-    "hidden_hard_reject": 0,
+    "displayed": 1,
+    "hidden_hard_reject": 2,
     "hidden_national_restriction": 1,
-    "hidden_low_score": 59,
+    "hidden_low_score": 56,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 0,
-    "best_match_today": null
+    "average_score": 45,
+    "best_match_today": "Supply Chain and Logistics Volunteer Intern (Tropical Health and Education Trust)"
   },
   "hidden_breakdown": {
-    "Low match": 59,
+    "Low match": 56,
+    "Internal/restricted recruitment": 2,
     "National-only": 1
   },
   "near_misses": [
     {
-      "title": "Area Manager Maradi Niger",
+      "title": "Supply & Logistics Officer ( National )",
+      "score": 34,
+      "reasons": [
+        "+ country logistics",
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement",
+        "+ warehousing"
+      ]
+    },
+    {
+      "title": "Logistics Officer",
+      "score": 25,
+      "reasons": [
+        "+ transport",
+        "+ logistics (title)",
+        "+ fleet",
+        "+ warehousing",
+        "- finance",
+        "- accounting",
+        "+ international recruitment|internationall"
+      ]
+    },
+    {
+      "title": "Logistics and Supply Chain Coordinator",
+      "score": 20,
+      "reasons": [
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ fleet",
+        "+ warehousing",
+        "- finance",
+        "- medical",
+        "- clinical"
+      ]
+    },
+    {
+      "title": "Programme Manager Ukraine",
       "score": 15,
       "reasons": [
-        "+ area manager (title)",
-        "- legal",
-        "- education"
+        "+ logistics",
+        "+ procurement",
+        "- finance",
+        "+ international recruitment|internationall",
+        "+ \\br&r\\b"
       ]
     }
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "title": "Supply Chain and Logistics Volunteer Intern",
+      "org": "Tropical Health and Education Trust",
+      "country": "Syrian Arab Republic",
+      "url": "https://reliefweb.int/job/4238698/supply-chain-and-logistics-volunteer-intern",
+      "posted": "2026-11-17T13:35:34+00:00",
+      "closing": "2026-11-28T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 45,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain (title)",
+        "+ procurement",
+        "+ warehousing",
+        "- finance"
+      ],
+      "warnings": [],
+      "job_profile": null
+    }
+  ]
 }
