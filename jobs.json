@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T14:21:47.784Z",
+  "generated_at": "2026-11-20T14:02:32.087Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 1,
-    "hidden_hard_reject": 1,
-    "hidden_national_restriction": 2,
+    "hidden_hard_reject": 0,
+    "hidden_national_restriction": 3,
     "hidden_low_score": 56,
     "excellent_matches": 0,
     "strong_matches": 0,
@@ -16,20 +16,17 @@
   },
   "hidden_breakdown": {
     "Low match": 56,
-    "National-only": 2,
-    "Internal/restricted recruitment": 1
+    "National-only": 3
   },
   "near_misses": [
     {
-      "title": "Supply & Logistics Officer ( National )",
-      "score": 34,
+      "title": "Supply Chain Officer - Deir Ezour",
+      "score": 22,
       "reasons": [
-        "+ country logistics",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
+        "+ logistics",
+        "+ supply chain (title)",
         "+ procurement",
-        "+ warehousing"
+        "- education"
       ]
     },
     {
