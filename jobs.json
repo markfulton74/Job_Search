@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-11-23T15:56:36.175Z",
+  "generated_at": "2026-11-24T15:47:57.678Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
-    "displayed": 0,
+    "displayed": 1,
     "hidden_hard_reject": 0,
     "hidden_national_restriction": 0,
-    "hidden_low_score": 60,
+    "hidden_low_score": 59,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
-    "average_score": 0,
-    "best_match_today": null
+    "average_score": 51,
+    "best_match_today": "HMA Logistics Manager - Sudan (Humanity & Inclusion)"
   },
   "hidden_breakdown": {
-    "Low match": 60
+    "Low match": 59
   },
   "near_misses": [
-    {
-      "title": "SYRIA - Field Coordinator - (M/F) - Aleppo",
-      "score": 33,
-      "reasons": [
-        "+ field coordinator (title)",
-        "- medical",
-        "+ international recruitment|internationall"
-      ]
-    },
     {
       "title": "Logistics Support Officer",
       "score": 22,
@@ -43,5 +34,32 @@
       ]
     }
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "title": "HMA Logistics Manager - Sudan",
+      "org": "Humanity & Inclusion",
+      "country": "Sudan",
+      "url": "https://reliefweb.int/job/4239704/hma-logistics-manager-sudan",
+      "posted": "2026-11-24T10:58:09+00:00",
+      "closing": "2026-12-15T00:00:00+00:00",
+      "category": "Logistics/Procurement",
+      "score": 51,
+      "verdict": {
+        "label": "Low match",
+        "tier": "skip"
+      },
+      "reasons": [
+        "+ logistics manager (title)",
+        "+ transport",
+        "+ logistics (title)",
+        "+ supply chain",
+        "+ procurement",
+        "- medical",
+        "- education",
+        "+ \\br&r\\b"
+      ],
+      "warnings": [],
+      "job_profile": null
+    }
+  ]
 }
