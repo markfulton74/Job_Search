@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T15:47:57.678Z",
+  "generated_at": "2026-11-25T15:32:01.114Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 1,
-    "hidden_hard_reject": 0,
-    "hidden_national_restriction": 0,
-    "hidden_low_score": 59,
+    "hidden_hard_reject": 1,
+    "hidden_national_restriction": 1,
+    "hidden_low_score": 57,
     "excellent_matches": 0,
     "strong_matches": 0,
     "review_matches": 0,
@@ -15,22 +15,27 @@
     "best_match_today": "HMA Logistics Manager - Sudan (Humanity & Inclusion)"
   },
   "hidden_breakdown": {
-    "Low match": 59
+    "Low match": 57,
+    "Internal/restricted recruitment": 1,
+    "National-only": 1
   },
   "near_misses": [
     {
-      "title": "Logistics Support Officer",
-      "score": 22,
+      "title": "EOI - Land Transport Portfolio Delivery Panel (SEA-LT-001-P4I-04)",
+      "score": 23,
       "reasons": [
-        "+ base manager",
-        "+ emergency operations",
+        "+ transport (title)",
+        "+ supply chain"
+      ]
+    },
+    {
+      "title": "Occupied Palestinian Territory : Country Security Manager - Gaza",
+      "score": 16,
+      "reasons": [
         "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
-        "+ procurement",
-        "+ fleet",
-        "- finance",
-        "- human resources"
+        "- education",
+        "+ international recruitment|internationall",
+        "+ \\br&r\\b"
       ]
     }
   ],
