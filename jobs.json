@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-27T14:58:36.248Z",
+  "generated_at": "2026-11-28T14:07:16.171Z",
   "source": "ReliefWeb API (live) + DeepSeek structured extraction",
   "candidate_profile_loaded": true,
   "summary": {
     "analysed": 60,
     "displayed": 1,
-    "hidden_hard_reject": 4,
-    "hidden_national_restriction": 1,
-    "hidden_low_score": 54,
+    "hidden_hard_reject": 1,
+    "hidden_national_restriction": 2,
+    "hidden_low_score": 56,
     "excellent_matches": 0,
-    "strong_matches": 1,
-    "review_matches": 0,
-    "average_score": 73,
-    "best_match_today": "Logistics Manager (INTERSOS)"
+    "strong_matches": 0,
+    "review_matches": 1,
+    "average_score": 64,
+    "best_match_today": "Global Fund Contract and Supply Chain Manager (World Vision)"
   },
   "hidden_breakdown": {
-    "Low match": 54,
-    "Internal/restricted recruitment": 4,
-    "National-only": 1
+    "Low match": 56,
+    "National-only": 2,
+    "Internal/restricted recruitment": 1
   },
   "near_misses": [
     {
@@ -32,51 +32,43 @@
       ]
     },
     {
-      "title": "Occupied Palestinian Territory : Country Security Manager - Gaza",
-      "score": 16,
+      "title": "Country Protection Manager",
+      "score": 22,
       "reasons": [
-        "+ transport",
-        "- education",
+        "+ area manager",
         "+ international recruitment|internationall",
-        "+ \\br&r\\b"
+        "+ family (duty station|package)"
       ]
     },
     {
-      "title": "Field Logistics Officer",
+      "title": "Regional Business Development Coordinator - Middle East",
       "score": 15,
       "reasons": [
-        "+ logistics (title)",
-        "+ supply chain",
-        "+ fleet",
-        "- medical"
+        "+ international recruitment|internationall"
       ]
     }
   ],
   "jobs": [
     {
-      "title": "Logistics Manager",
-      "org": "INTERSOS",
-      "country": "Nigeria",
-      "url": "https://reliefweb.int/job/4240027/logistics-manager",
-      "posted": "2026-11-25T16:55:47+00:00",
-      "closing": "2026-11-30T00:00:00+00:00",
+      "title": "Global Fund Contract and Supply Chain Manager",
+      "org": "World Vision",
+      "country": "Central African Republic",
+      "url": "https://reliefweb.int/job/4240214/global-fund-contract-and-supply-chain-manager",
+      "posted": "2026-11-26T18:18:59+00:00",
+      "closing": "2026-12-07T00:00:00+00:00",
       "category": "Logistics/Procurement",
-      "score": 73,
+      "score": 64,
       "verdict": {
-        "label": "Strong match",
-        "tier": "strong"
+        "label": "Worth reviewing",
+        "tier": "review"
       },
       "reasons": [
-        "+ logistics manager (title)",
-        "+ country logistics",
-        "+ transport",
-        "+ logistics (title)",
-        "+ supply chain",
+        "+ supply chain manager (title)",
+        "+ logistics",
+        "+ supply chain (title)",
         "+ procurement",
         "+ fleet",
-        "- education",
-        "- human resources",
-        "+ international recruitment|internationall"
+        "+ warehousing"
       ],
       "warnings": [],
       "job_profile": null
